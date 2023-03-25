@@ -1,0 +1,58 @@
+[
+  {
+    "name": "he-thong-nhuong-quyen",
+    "path": "/he-thong-nhuong-quyen",
+    "component": "/Users/truongducthang/Library/Mobile Documents/com~apple~CloudDocs/Freelance/bes/pages/he-thong-nhuong-quyen.vue",
+    "chunkName": "pages/he-thong-nhuong-quyen",
+    "_name": "_d6c5dac4"
+  },
+  {
+    "name": "khoa-hoc-class",
+    "path": "/khoa-hoc-class",
+    "component": "/Users/truongducthang/Library/Mobile Documents/com~apple~CloudDocs/Freelance/bes/pages/khoa-hoc-class.vue",
+    "chunkName": "pages/khoa-hoc-class",
+    "_name": "_08f12742"
+  },
+  {
+    "name": "khoa-hoc-vip",
+    "path": "/khoa-hoc-vip",
+    "component": "/Users/truongducthang/Library/Mobile Documents/com~apple~CloudDocs/Freelance/bes/pages/khoa-hoc-vip.vue",
+    "chunkName": "pages/khoa-hoc-vip",
+    "_name": "_3c0f8fe7"
+  },
+  {
+    "name": "lien-he",
+    "path": "/lien-he",
+    "component": "/Users/truongducthang/Library/Mobile Documents/com~apple~CloudDocs/Freelance/bes/pages/lien-he.vue",
+    "chunkName": "pages/lien-he",
+    "_name": "_419ec01b"
+  },
+  {
+    "name": "su-kien",
+    "path": "/su-kien",
+    "component": "/Users/truongducthang/Library/Mobile Documents/com~apple~CloudDocs/Freelance/bes/pages/su-kien.vue",
+    "chunkName": "pages/su-kien",
+    "_name": "_fbe9622e"
+  },
+  {
+    "name": "tam-nhin-su-menh",
+    "path": "/tam-nhin-su-menh",
+    "component": "/Users/truongducthang/Library/Mobile Documents/com~apple~CloudDocs/Freelance/bes/pages/tam-nhin-su-menh.vue",
+    "chunkName": "pages/tam-nhin-su-menh",
+    "_name": "_448b78b5"
+  },
+  {
+    "name": "tin-tuc",
+    "path": "/tin-tuc",
+    "component": "/Users/truongducthang/Library/Mobile Documents/com~apple~CloudDocs/Freelance/bes/pages/tin-tuc.vue",
+    "chunkName": "pages/tin-tuc",
+    "_name": "_fe25ceb6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/truongducthang/Library/Mobile Documents/com~apple~CloudDocs/Freelance/bes/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_72fdbf2e"
+  }
+]

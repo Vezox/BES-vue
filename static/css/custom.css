@@ -1,0 +1,35 @@
+.program__header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+
+.program__header-title{
+    font-family: Brandon_bld\.otf;
+    font-size: 20px;
+    line-height: 34px;
+    text-transform: uppercase;
+    color: #333;
+}
+
+.program__header-logo{
+    width: 260px;
+}
+
+@media (min-width: 768px) {
+
+    .program__header-title{
+        font-size: 27px;
+    }
+
+    .program__header-logo{
+        width: 300px;
+    }
+}
+
+.logo-main {
+    width: 84px!important;
+    padding: 0!important;
+}
