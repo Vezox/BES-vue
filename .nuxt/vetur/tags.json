@@ -1,11 +1,35 @@
 {
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "HeaderNav": {
+    "description": "Auto imported from components/HeaderNav.vue"
+  },
   "NuxtLogo": {
     "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "SocialFix": {
+    "description": "Auto imported from components/SocialFix.vue"
+  },
+  "Swiper": {
+    "description": "Auto imported from components/Swiper.vue"
+  },
+  "TopNav": {
+    "description": "Auto imported from components/TopNav.vue"
   },
   "Tutorial": {
     "description": "Auto imported from components/Tutorial.vue"
   },
+  "Decor": {
+    "description": "Auto imported from components/decor.vue"
+  },
+  "Decor5": {
+    "description": "Auto imported from components/decor5.vue"
+  },
   "Header": {
     "description": "Auto imported from components/header.vue"
+  },
+  "ReviewItem": {
+    "description": "Auto imported from components/reviewItem.vue"
   }
 }

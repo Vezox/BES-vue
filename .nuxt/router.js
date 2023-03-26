@@ -4,14 +4,15 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _d6c5dac4 = () => interopDefault(import('../pages/he-thong-nhuong-quyen.vue' /* webpackChunkName: "pages/he-thong-nhuong-quyen" */))
-const _08f12742 = () => interopDefault(import('../pages/khoa-hoc-class.vue' /* webpackChunkName: "pages/khoa-hoc-class" */))
-const _3c0f8fe7 = () => interopDefault(import('../pages/khoa-hoc-vip.vue' /* webpackChunkName: "pages/khoa-hoc-vip" */))
-const _419ec01b = () => interopDefault(import('../pages/lien-he.vue' /* webpackChunkName: "pages/lien-he" */))
-const _fbe9622e = () => interopDefault(import('../pages/su-kien.vue' /* webpackChunkName: "pages/su-kien" */))
-const _448b78b5 = () => interopDefault(import('../pages/tam-nhin-su-menh.vue' /* webpackChunkName: "pages/tam-nhin-su-menh" */))
-const _fe25ceb6 = () => interopDefault(import('../pages/tin-tuc.vue' /* webpackChunkName: "pages/tin-tuc" */))
-const _72fdbf2e = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _5ef3ac3c = () => interopDefault(import('../pages/he-thong-nhuong-quyen.vue' /* webpackChunkName: "pages/he-thong-nhuong-quyen" */))
+const _cd305090 = () => interopDefault(import('../pages/index copy.vue' /* webpackChunkName: "pages/index copy" */))
+const _6d841704 = () => interopDefault(import('../pages/khoa-hoc-class.vue' /* webpackChunkName: "pages/khoa-hoc-class" */))
+const _36667c23 = () => interopDefault(import('../pages/khoa-hoc-vip.vue' /* webpackChunkName: "pages/khoa-hoc-vip" */))
+const _9607c342 = () => interopDefault(import('../pages/lien-he.vue' /* webpackChunkName: "pages/lien-he" */))
+const _152ea5a6 = () => interopDefault(import('../pages/su-kien.vue' /* webpackChunkName: "pages/su-kien" */))
+const _24d9e6f1 = () => interopDefault(import('../pages/tam-nhin-su-menh.vue' /* webpackChunkName: "pages/tam-nhin-su-menh" */))
+const _176b122e = () => interopDefault(import('../pages/tin-tuc.vue' /* webpackChunkName: "pages/tin-tuc" */))
+const _592d80a6 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -26,35 +27,39 @@ export const routerOptions = {
 
   routes: [{
     path: "/he-thong-nhuong-quyen",
-    component: _d6c5dac4,
+    component: _5ef3ac3c,
     name: "he-thong-nhuong-quyen"
   }, {
+    path: "/index%20copy",
+    component: _cd305090,
+    name: "index copy"
+  }, {
     path: "/khoa-hoc-class",
-    component: _08f12742,
+    component: _6d841704,
     name: "khoa-hoc-class"
   }, {
     path: "/khoa-hoc-vip",
-    component: _3c0f8fe7,
+    component: _36667c23,
     name: "khoa-hoc-vip"
   }, {
     path: "/lien-he",
-    component: _419ec01b,
+    component: _9607c342,
     name: "lien-he"
   }, {
     path: "/su-kien",
-    component: _fbe9622e,
+    component: _152ea5a6,
     name: "su-kien"
   }, {
     path: "/tam-nhin-su-menh",
-    component: _448b78b5,
+    component: _24d9e6f1,
     name: "tam-nhin-su-menh"
   }, {
     path: "/tin-tuc",
-    component: _fe25ceb6,
+    component: _176b122e,
     name: "tin-tuc"
   }, {
     path: "/",
-    component: _72fdbf2e,
+    component: _592d80a6,
     name: "index"
   }],
 

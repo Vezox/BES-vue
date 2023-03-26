@@ -47,55 +47,55 @@
                     id="menu-item-2779"
                     class="has-sub menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2779"
                   >
-                    <a href="tam-nhin-su-menh/">Về BES</a>
+                    <a href="/tam-nhin-su-menh/">Về BES</a>
                     <ul class="sub-menu">
                       <li
                         id="menu-item-2783"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2783"
                       >
-                        <a href="tam-nhin-su-menh/">Tầm nhìn, sứ mệnh</a>
+                        <a href="/tam-nhin-su-menh/">Tầm nhìn, sứ mệnh</a>
                       </li>
                       <li
                         id="menu-item-2783"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2783"
                       >
-                        <a href="gia-tri-cot-loi/">Giá trị cốt lõi</a>
+                        <a href="/gia-tri-cot-loi/">Giá trị cốt lõi</a>
                       </li>
                       <li
                         id="menu-item-2783"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2783"
                       >
-                        <a href="tam-nhin-su-menh/">Vì sao chọn BES</a>
+                        <a href="/tam-nhin-su-menh/">Vì sao chọn BES</a>
                       </li>
                       <li
                         id="menu-item-2783"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2783"
                       >
-                        <a href="co-so-vat-chat/">Cơ sở vật chất</a>
+                        <a href="/co-so-vat-chat/">Cơ sở vật chất</a>
                       </li>
                       <li
                         id="menu-item-2783"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2783"
                       >
-                        <a href="review/">Review</a>
+                        <a href="/review/">Review</a>
                       </li>
                       <li
                         id="menu-item-2782"
                         class="sub_menu_child menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2782"
                       >
-                        <a href="chuong-trinh-sau-dai-hoc/">Đối tác </a>
+                        <a href="/chuong-trinh-sau-dai-hoc/">Đối tác </a>
                         <ul class="sub-menu">
                           <li
                             id="menu-item-2786"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2786"
                           >
-                            <a href="doanh-nghiep/">Doanh nghiệp (công nghệ)</a>
+                            <a href="/doanh-nghiep/">Doanh nghiệp (công nghệ)</a>
                           </li>
                           <li
                             id="menu-item-2786"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2786"
                           >
-                            <a href="hiep-hoi-doanh-nhan/"
+                            <a href="/hiep-hoi-doanh-nhan/"
                               >Hiệp hội doanh nhân</a
                             >
                           </li>
@@ -113,13 +113,13 @@
                         id="menu-item-2796"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2796"
                       >
-                        <a href="khoa-hoc-vip/">VIP</a>
+                        <a href="/khoa-hoc-vip/">VIP</a>
                       </li>
                       <li
                         id="menu-item-2797"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2797"
                       >
-                        <a href="hoa-hoc-class/"> Class </a>
+                        <a href="/hoa-hoc-class/"> Class </a>
                       </li>
                     </ul>
                   </li>
@@ -127,7 +127,7 @@
                     id="menu-item-2803"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2803"
                   >
-                    <a href="su-kien-hinh-anh">Sự kiện/Hình ảnh</a>
+                    <a href="/su-kien-hinh-anh">Sự kiện/Hình ảnh</a>
                   </li>
                   <li
                     id="menu-item-2800"
@@ -139,13 +139,13 @@
                         id="menu-item-2802"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2802"
                       >
-                        <a href="tin-tuc/">Tin tức</a>
+                        <a href="/tin-tuc/">Tin tức</a>
                       </li>
                       <li
                         id="menu-item-2801"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2801"
                       >
-                        <a href="su-kien">Sự kiện</a>
+                        <a href="/su-kien">Sự kiện</a>
                       </li>
                     </ul>
                   </li>
@@ -153,31 +153,31 @@
                     id="menu-item-2799"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2799"
                   >
-                    <a href="he-thong-nhuong-quyen/">Hệ thống nhượng quyền</a>
+                    <a href="/he-thong-nhuong-quyen/">Hệ thống nhượng quyền</a>
                   </li>
                   <li
                     id="menu-item-2803"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2803"
                   >
-                    <a href="app">App</a>
+                    <a href="/app">App</a>
                   </li>
                   <li
                     id="menu-item-2803"
                     class="has-sub menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2803"
                   >
-                    <a href="lien-he">Liên hệ</a>
+                    <a href="/lien-he">Liên hệ</a>
                     <ul class="sub-menu">
                       <li
                         id="menu-item-9430"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9430"
                       >
-                        <a href="tuyen-dung/">Tuyển dụng</a>
+                        <a href="/tuyen-dung/">Tuyển dụng</a>
                       </li>
                       <li
                         id="menu-item-9430"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9430"
                       >
-                        <a href="tu-van/">Tư vấn</a>
+                        <a href="/tu-van/">Tư vấn</a>
                       </li>
                     </ul>
                   </li>
