@@ -339,14 +339,6 @@
                     >Terms and Conditions</a
                   >
                 </li>
-                <li class="mobile-hide" style="padding-top: 6px">|</li>
-                <li><a href="admission-policy/">Admission policy</a></li>
-                <li class="mobile-hide" style="padding-top: 6px">|</li>
-                <li>
-                  <a href="recognition-of-prior-learning-policy/"
-                    >Recognition of Prior Learning Policy</a
-                  >
-                </li>
               </ul>
             </div>
             <div class="container_common">
@@ -356,7 +348,7 @@
                     <a href="" class="logo"
                       ><img
                         class="lazy"
-                        src="/images/logo.png"
+                        src="/images/logo_w.png"
                         alt="BUV Spirit Photo Contest"
                         width="90"
                         height="90"
@@ -513,18 +505,7 @@
                           >Terms and Conditions</a
                         >
                       </li>
-                      <li>
-                        <a href="admission-policy/" style="padding-left: 0"
-                          >Admission policy</a
-                        >
-                      </li>
-                      <li>
-                        <a
-                          href="recognition-of-prior-learning-policy/"
-                          style="padding-left: 0"
-                          >Recognition of Prior Learning Policy</a
-                        >
-                      </li>
+                     
                     </ul>
                   </div>
                   <div class="_right">
@@ -560,208 +541,6 @@
                     ></iframe>
                   </div>
                 </div>
-              </div>
-            </div>
-          </div>
-          <div class="box__online__application__form">
-            <div class="online__applycation__form _page_form_campus tyography">
-              <div class="content_common _container_campus_form">
-                <div class="form-title the_content_def">
-                  <h3>online application form</h3>
-                </div>
-                <div class="content-main">
-                  <form
-                    class="form-item active frm-application"
-                    action="#"
-                    method="post"
-                    id="apply_form"
-                  >
-                    <input type="hidden" name="nonce" value="1b13a473ef" />
-                    <input
-                      type="hidden"
-                      name="action"
-                      value="form_submit_recruiment_ajax"
-                    />
-                    <input
-                      type="hidden"
-                      name="frm_source"
-                      id="frm_source"
-                      value=""
-                    />
-                    <div class="frm-all active">
-                      <div class="frm-group the_content_def">
-                        <label>Full name<span>*</span></label>
-                        <input
-                          placeholder="Enter your name"
-                          type="text"
-                          name="apply_name"
-                          id="apply_name"
-                          required
-                        />
-                        <div class="msg_error name_error"></div>
-                      </div>
-                      <div class="frm-group the_content_def">
-                        <label>Date of birth</label>
-                        <input
-                          placeholder="DD/MM/YY"
-                          class="textbox-n"
-                          type="date"
-                          id="apply_date"
-                          name="apply_date"
-                        />
-                      </div>
-                      <div class="frm-group the_content_def">
-                        <label>Mobile phone<span>*</span></label>
-                        <input
-                          placeholder="Enter your phone number"
-                          type="text"
-                          name="apply_phone"
-                          id="apply_phone"
-                          required
-                        />
-                        <div class="msg_error phone_error"></div>
-                      </div>
-                      <div class="frm-group the_content_def">
-                        <label>Email<span>*</span></label>
-                        <input
-                          placeholder="Enter your email"
-                          type="email"
-                          name="apply_email"
-                          id="apply_email"
-                          required
-                        />
-                        <div class="msg_error email_error"></div>
-                      </div>
-                      <div class="frm-group the_content_def">
-                        <label>Address</label>
-                        <input
-                          placeholder="Enter your address"
-                          type="text"
-                          name="apply_address"
-                          id="apply_address"
-                        />
-                      </div>
-                      <div class="frm-group the_content_def">
-                        <label>How did you find out about BUV?</label>
-                        <div class="custom-select">
-                          <select name="apply_find_about" id="apply_find_about">
-                            <option value="Google">Google</option>
-                            <option value="Facebook">Facebook</option>
-                            <option value="Instagram">Instagram</option>
-                            <option value="Zalo">Zalo</option>
-                            <option value="Others">Others</option>
-                          </select>
-                          <span class="custom-arrow"></span>
-                          <input
-                            type="text"
-                            value=""
-                            id="apply_find_about_other"
-                            placeholder="Enter content"
-                          />
-                        </div>
-                      </div>
-                      <div class="frm-group the_content_def" id="frm_area">
-                        <label
-                          >Area/ industry you're interested in<span
-                            >*</span
-                          ></label
-                        >
-                        <input
-                          placeholder="Enter your Area/ industry..."
-                          type="text"
-                          name="apply_area"
-                          id="apply_area"
-                          required
-                        />
-                      </div>
-                      <div class="frm-group the_content_def">
-                        <label>Date available to commence work</label>
-                        <input
-                          placeholder="DD/MM/YY"
-                          type="date"
-                          name="apply_date_available"
-                          id="apply_date_available"
-                        />
-                      </div>
-                      <div class="frm-group the_content_def">
-                        <label>Current salary<span>*</span></label>
-                        <input
-                          placeholder="Enter current salary"
-                          type="text"
-                          name="apply_current_salary"
-                          id="apply_current_salary"
-                          required
-                        />
-                      </div>
-                      <div class="frm-group the_content_def">
-                        <label>Expected Salary<span>*</span></label>
-                        <input
-                          placeholder="Enter expected salary"
-                          type="text"
-                          name="apply_expected_salary"
-                          id="apply_expected_salary"
-                          required
-                        />
-                      </div>
-                      <div class="frm-group the_content_def" id="frm_question">
-                        <label>Your question for us?</label>
-                        <input
-                          placeholder="Enter your question..."
-                          type="text"
-                          name="apply_question"
-                          id="apply_question"
-                        />
-                      </div>
-                      <div class="frm-group the_content_def">
-                        <label>Upload your CV<span>*</span></label>
-                        <input
-                          type="file"
-                          class="upload_cv"
-                          name="apply_upload_cv"
-                          id="apply_upload_cv"
-                          data-multiple-caption="{count} files selected"
-                          required
-                        />
-                        <div class="upload_file">
-                          <label for="">Choose file</label
-                          ><span class="js_upload_name">No file chosen</span>
-                        </div>
-                        <div class="msg_error cv_error"></div>
-                      </div>
-                      <div class="frm-group the_content_def">
-                        <label>Upload your Cover letter </label>
-                        <input
-                          type="file"
-                          class="upload_letter"
-                          name="apply_upload_letter"
-                          id="apply_upload_letter"
-                          data-multiple-caption="{count} files selected"
-                        />
-                        <div class="upload_file">
-                          <label for="">Choose file</label
-                          ><span class="js_upload_name_letter"
-                            >No file chosen</span
-                          >
-                        </div>
-                        <div class="msg_error letter_error"></div>
-                      </div>
-                      <div class="frm-group">
-                        <button class="btn_site _far btn_submit" type="submit">
-                          Submit
-                          <img
-                            class="lazy"
-                            src="/images/common/arrow-right.png"
-                            alt=""
-                          />
-                        </button>
-                      </div>
-                    </div>
-                    <div class="frm_msg" style="text-align: center"></div>
-                  </form>
-                </div>
-              </div>
-              <div class="x_close">
-                <img class="lazy" src="/images/common/close_bl.png" alt="" />
               </div>
             </div>
           </div>

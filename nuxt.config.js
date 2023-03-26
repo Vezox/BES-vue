@@ -1,3 +1,4 @@
+
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -73,7 +74,8 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    '@/plugins/antd-ui'
+    '@/plugins/antd-ui',
+    { src: '~/plugins/vue-stack-grid', mode: 'client' }
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -85,9 +87,34 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+      'nuxt-i18n'
   ],
 
+  // i18n
+  i18n: {
+    locales: [
+      {
+        code: 'en',
+        name: 'English',
+        iso: 'en-US',
+        file: 'en.js'
+      },
+      {
+        code: 'vi',
+        name: 'Vietnamese',
+        iso: 'vi-VN',
+        file: 'vi.js'
+      }
+    ],
+    lazy: true,
+    langDir: 'lang/',
+    defaultLocale: 'en',
+    vueI18n: {
+      fallbackLocale: 'en'
+    }
+  },
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-  }
+  },
+  
 }
