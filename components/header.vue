@@ -4,8 +4,7 @@
           <button class="close-menu hide-menu">
             <img
               class="lazy"
-              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-              data-src="/images/common/close-mobi.png"
+              src="/images/common/close-mobi.png"
               alt="Về chúng tôi"
             />
           </button>
@@ -246,8 +245,7 @@
           <a href="/" class="logo-main">
             <img
               class="lazy"
-              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-              data-src="/images/common/logo.png"
+              src="/images/common/logo.png"
               alt="Về chúng tôi"
             />
           </a>

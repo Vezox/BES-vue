@@ -43,8 +43,7 @@ export default {
             <div class="_decor">
               <img
                 class="lazy"
-                src=""
-                data-src="/images/ifprogramme/decor.png"
+                src="/images/ifprogramme/decor.png"
                 alt="Dự bị Đại học Quốc tế"
               />
             </div>
@@ -52,8 +51,7 @@ export default {
               <div class="content_common">
                 <div
                   class="_tabs_fix is-bgr lazy"
-                  style=""
-                  data-bg="url(/images/ifprogramme/bgr_fix.png)"
+                  style="background: url(/images/ifprogramme/bgr_fix.png)"
                 >
                   <div class="_nav">
                     <ul class="is-flex-cl">
@@ -125,8 +123,7 @@ export default {
                           ><span
                             ><img
                               class="lazy"
-                              src=""
-                              data-src="/images/ifprogramme/icon1.png"
+                              src="/images/ifprogramme/icon1.png"
                               alt="Dự bị Đại học Quốc tế"
                           /></span>
                           Tìm hiểu ngay
@@ -140,8 +137,7 @@ export default {
                           ><span
                             ><img
                               class="lazy"
-                              src=""
-                              data-src="/images/ifprogramme/icon2.png"
+                              src="/images/ifprogramme/icon2.png"
                               alt="Dự bị Đại học Quốc tế"
                           /></span>
                           Nộp hồ sơ</a
@@ -152,8 +148,7 @@ export default {
                           ><span
                             ><img
                               class="lazy"
-                              src=""
-                              data-src="/images/common/payment_red.png"
+                              src="/images/common/payment_red.png"
                               alt="Dự bị Đại học Quốc tế"
                           /></span>
                           Thanh toán online
@@ -164,8 +159,7 @@ export default {
                           ><span
                             ><img
                               class="lazy"
-                              src=""
-                              data-src="/images/ifprogramme/icon3.png"
+                             src="/images/ifprogramme/icon3.png"
                               alt="Dự bị Đại học Quốc tế" /></span
                           >Liên hệ
                         </a>
@@ -179,7 +173,6 @@ export default {
                       <img
                         class="lazy"
                         src="/images/common/star.png"
-                        data-src="images/common/star.png"
                       />Tổng quan về chương trình
                     </div>
                     <div class="content-section1 the_content_def">
@@ -233,7 +226,6 @@ export default {
                             <img
                               class="lazy"
                               src="/uploads/2021/09/Frame.png"
-                              data-src="/uploads/2021/09/Frame.png"
                               alt="Dự bị Đại học Quốc tế"
                               
                             />
@@ -249,7 +241,6 @@ export default {
                             <img
                               class="lazy"
                               src="/uploads/2021/09/Frame-1-e1644310543108.png"
-                              data-src="/uploads/2021/09/Frame-1-e1644310543108.png"
                               alt="Dự bị Đại học Quốc tế"
                               
                             />
@@ -267,7 +258,6 @@ export default {
                             <img
                               class="lazy"
                               src="/uploads/2021/09/Frame-2-1.png"
-                              data-src="/uploads/2021/09/Frame-2.png"
                               alt="Dự bị Đại học Quốc tế"
                               
                             />
@@ -284,7 +274,6 @@ export default {
                             <img
                               class="lazy"
                               src="/uploads/2021/09/Frame-3.png"
-                              data-src="/uploads/2021/09/Frame-3.png"
                               alt="Dự bị Đại học Quốc tế"
                               
                             />
@@ -302,7 +291,6 @@ export default {
                             <img
                               class="lazy"
                               src="/uploads/2021/09/Frame-4.png"
-                              data-src="/uploads/2021/09/Frame-4.png"
                               alt="Dự bị Đại học Quốc tế"
                               
                             />
@@ -319,7 +307,6 @@ export default {
                             <img
                               class="lazy"
                               src="/uploads/2021/09/Frame-5.png"
-                              data-src="/uploads/2021/09/Frame-5.png"
                               alt="Dự bị Đại học Quốc tế"
                               
                             />
@@ -336,7 +323,6 @@ export default {
                       <img
                         class="lazy"
                         src="/images/common/star.png"
-                        data-src="/images/common/star.png"
                         alt="Dự bị Đại học Quốc tế"
                       />Thời lượng chương trình và thời hạn đăng ký
                     </div>
@@ -464,7 +450,6 @@ export default {
                       <img
                         class="lazy"
                         src="/assets/images/common/star.png"
-                        data-src="/assets/images/common/star.png"
                         alt="Dự bị Đại học Quốc tế"
                       />Nội dung chương trình học
                     </div>
@@ -1872,7 +1857,6 @@ export default {
                       <img
                         class="lazy"
                         src="/images/common/star.png"
-                        data-src="/images/common/star.png"
                         alt="Dự bị Đại học Quốc tế"
                       />Yêu cầu tuyển sinh
                     </div>
@@ -1958,7 +1942,6 @@ export default {
                       <img
                         class="lazy"
                         src="/images/common/star.png"
-                        data-src="/images/common/star.png"
                         alt="Dự bị Đại học Quốc tế"
                       />Cách thức nộp hồ sơ
                     </div>
@@ -2075,7 +2058,6 @@ export default {
                       <img
                         class="lazy"
                         src="/images/common/star.png"
-                        data-src="/images/common/star.png"
                         alt="Dự bị Đại học Quốc tế"
                       />
                       Học phí
@@ -2281,7 +2263,6 @@ export default {
                           <img
                             class="lazy"
                             src=""
-                            data-src="/images/common/scroll-right.png"
                             alt="Dự bị Đại học Quốc tế"
                           />
                         </div>

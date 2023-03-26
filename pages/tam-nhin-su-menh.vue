@@ -46,14 +46,12 @@ export default {
           <div class="content-page">
             <img
               class="_decor_top lazy"
-              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-              data-src="/images/page/page-decor-top.png"
+              src="/images/page/page-decor-top.png"
               alt="Về chúng tôi"
             />
             <img
               class="_decor_bottom lazy"
-              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-              data-src="/images/page/page-decor-bottom-left2.png"
+              src="/images/page/page-decor-bottom-left2.png"
               alt="Về chúng tôi"
             />
             <div class="container_common">
@@ -132,8 +130,7 @@ export default {
                           ><span
                             ><img
                               class="lazy"
-                              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-                              data-src="/images/common/payment_red.png"
+                              src="/images/common/payment_red.png"
                               alt="Về chúng tôi"
                           /></span>
                           Thanh toán online
@@ -144,8 +141,7 @@ export default {
                           ><span
                             ><img
                               class="lazy"
-                              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-                              data-src="/images/ifprogramme/icon3.png"
+                              src="/images/ifprogramme/icon3.png"
                               alt="Về chúng tôi" /></span
                           >Liên hệ
                         </a>
@@ -159,7 +155,6 @@ export default {
                       <img
                         class="lazy"
                         src="/images/common/star.png"
-                        data-src="/images/common/star.png"
                         alt="Về chúng tôi"
                       />BES Story
                     </div>
@@ -194,7 +189,6 @@ export default {
                       <img
                         class="lazy"
                         src="/images/common/star.png"
-                        data-src="/images/common/star.png"
                         alt="Về chúng tôi"
                       />
                       Tầm nhìn, sứ mệnh
@@ -207,7 +201,6 @@ export default {
                         <img
                           class="lazy"
                           src="/images/about/prev.png"
-                          data-src="images/about/prev.png"
                           alt="Về chúng tôi"
                         />
                       </div>
@@ -215,7 +208,6 @@ export default {
                         <img
                           class="lazy"
                           src="/images/about/next.png"
-                          data-src="/images/about/next.png"
                           alt="Về chúng tôi"
                         />
                       </div>
@@ -227,7 +219,6 @@ export default {
                                 <img
                                   class="lazy"
                                   src="/images/admission/img5.jpg"
-                                  data-src="/images/admission/img5.jpg"
                                 />
                                 <div class="layer"></div>
                               </div>
@@ -254,7 +245,6 @@ export default {
                                 <img
                                   class="lazy"
                                   src="/images/admission/img5.jpg"
-                                  data-src="/images/admission/img5.jpg"
                                 />
                                 <div class="layer"></div>
                               </div>
@@ -284,7 +274,6 @@ export default {
                       <img
                         class="lazy"
                         src="/images/common/star.png"
-                        data-src="/images/common/star.png"
                         alt="Về chúng tôi"
                       />Giá trị cốt lõi
                     </div>
@@ -294,8 +283,7 @@ export default {
                           <div class="icon">
                             <img
                               class="lazy"
-                              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2067%2060'%3E%3C/svg%3E"
-                              data-src="/uploads/2021/11/Framexxx.png"
+                              src="/uploads/2021/11/Framexxx.png"
                               alt="Về chúng tôi"
                             />
                           </div>
@@ -318,8 +306,7 @@ export default {
                           <div class="icon">
                             <img
                               class="lazy"
-                              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2045%2065'%3E%3C/svg%3E"
-                              data-src="/uploads/2021/11/Group.png"
+                              src="/uploads/2021/11/Group.png"
                               alt="Về chúng tôi"
                             />
                           </div>
@@ -339,8 +326,7 @@ export default {
                           <div class="icon">
                             <img
                               class="lazy"
-                              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2066%2065'%3E%3C/svg%3E"
-                              data-src="/uploads/2021/09/Property-1Icon8.png"
+                              src="/uploads/2021/09/Property-1Icon8.png"
                               alt="Về chúng tôi"
                             />
                           </div>
@@ -359,8 +345,7 @@ export default {
                           <div class="icon">
                             <img
                               class="lazy"
-                              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2045%2065'%3E%3C/svg%3E"
-                              data-src="/uploads/2021/11/Group.png"
+                              src="/uploads/2021/11/Group.png"
                               alt="Về chúng tôi"
                             />
                           </div>

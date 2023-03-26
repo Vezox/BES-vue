@@ -46,8 +46,7 @@ export default {
           <div class="content-page">
             <img
               class="_decor_top lazy"
-              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-              data-src="/themes/main/assets/images/page/page-decor-top.png"
+              src="/images/page/page-decor-top.png"
               alt="Tin tức"
             />
             <div class="container_common">
@@ -62,7 +61,6 @@ export default {
                         <img
                           class="lazy"
                           src="/uploads/2023/KEN_9291-scaled.jpg"
-                          data-src="/uploads/2023/KEN_9291-scaled.jpg"
                         />
                         <div class="cat_name">Uncategorized</div>
                       </a>
@@ -91,7 +89,6 @@ export default {
                         <img
                           class="lazy"
                           src="/uploads/2023/KEN_9291-scaled.jpg"
-                          data-src="/uploads/2023/KEN_9291-scaled.jpg"
                         />
                         <div class="cat_name">Cập nhật</div>
                       </a>
@@ -121,7 +118,6 @@ export default {
                         <img
                           class="lazy"
                           src="/uploads/2023/KEN_9291-scaled.jpg"
-                          data-src="/uploads/2023/KEN_9291-scaled.jpg"
                         />
                         <div class="cat_name">Cập nhật</div>
                       </a>
@@ -182,7 +178,6 @@ export default {
                             <img
                               class="lazy"
                               src="/uploads/2023/KEN_9291-scaled.jpg"
-                              data-src="/uploads/2023/02/PR-QAA-1-scaled.jpg"
                               alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                             />
                           </a>
@@ -203,7 +198,6 @@ export default {
                             <img
                               class="lazy"
                               src="/uploads/2023/KEN_9291-scaled.jpg"
-                              data-src="/uploads/2022/01/Banner-Home-scaled.jpg"
                               alt="<strong>BES trao bằng tốt nghiệp cho sinh viên chuyên ngành mới </strong> "
                             />
                           </a>
@@ -225,7 +219,6 @@ export default {
                             <img
                               class="lazy"
                               src="/uploads/2023/KEN_9291-scaled.jpg"
-                              data-src="/uploads/2022/10/BES-116-scaled.jpg"
                               alt="BES Career Fair 2022: Nắm bắt cơ hội làm việc tại các tập đoàn danh tiếng trong nước và quốc tế"
                             />
                           </a>
@@ -245,7 +238,6 @@ export default {
                             <img
                               class="lazy"
                               src="/uploads/2023/KEN_9291-scaled.jpg"
-                              data-src="/uploads/2022/05/image.png"
                               alt="Nữ MC giành nhiều cơ hội học tập, việc làm nhờ giỏi tiếng Anh"
                             />
                           </a>
@@ -265,7 +257,6 @@ export default {
                           <img
                             class="lazy"
                             src="/common/arrow-right.png"
-                            data-src="/common/arrow-right.png"
                             alt="Nữ MC giành nhiều cơ hội học tập, việc làm nhờ giỏi tiếng Anh"
                           />
                         </a>
@@ -280,7 +271,6 @@ export default {
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      data-src="/images/common/star.png"
                       alt="Nữ MC giành nhiều cơ hội học tập, việc làm nhờ giỏi tiếng Anh"
                     />Tin tức mới nhất
                   </div>
@@ -292,7 +282,6 @@ export default {
                         <img
                           class="lazy"
                           src="/uploads/2023/KEN_9291-scaled.jpg"
-                          data-src="/uploads/2023/KEN_9291-scaled.jpg"
                           alt="BES Experience Day &#8211; Trải nghiệm môi trường học tập chuẩn Anh Quốc"
                         />
                         <div class="cat_name">Cập nhật</div>

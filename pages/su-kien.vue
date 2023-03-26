@@ -39,7 +39,6 @@ export default {
                               <img
                                 class="lazy"
                                 src="/images/common/event-icon1.png"
-                                data-src="/images/common/event-icon1.png"
                               />Khách sạn Pan Pacific Hanoi, Số 1 Đường Thanh
                               Niên, Q. Ba Đình, Hà Nội</span
                             >
@@ -47,14 +46,12 @@ export default {
                               <img
                                 class="lazy"
                                 src="/images/common/event-icon2.png"
-                                data-src="/images/common/event-icon2.png"
                               />Jan 01, 1970</span
                             >
                             <span>
                               <img
                                 class="lazy"
                                 src="/images/common/event-icon3.png"
-                                data-src="/images/common/event-icon3.png"
                               />18:00 - 21:00</span
                             >
                           </div>
@@ -74,7 +71,6 @@ export default {
                             <img
                               class="lazy"
                               src="/images/common/arrow-right.png"
-                              data-src="/images/common/arrow-right.png"
                               alt="LEADERS TALK<br>ĐỔI MỚI SÁNG TẠO VÀ KHỞI NGHIỆP – NHỮNG DOANH NGHIỆP THÀNH CÔNG TẠI VIỆT NAM"
                             />
                           </a>
@@ -100,7 +96,6 @@ export default {
                               <img
                                 class="lazy"
                                 src="/images/common/event-icon1.png"
-                                data-src="/images/common/event-icon1.png"
                                 alt="BES MINI INFO DAY: DẪN ĐẦU TRONG CUỘC ĐUA VÀO TRƯỜNG ĐẠI HỌC"
                               />BES Ecopark Campus</span
                             >
@@ -108,7 +103,6 @@ export default {
                               <img
                                 class="lazy"
                                 src="/images/common/event-icon2.png"
-                                data-src="/images/common/event-icon2.png"
                                 alt="BES MINI INFO DAY: DẪN ĐẦU TRONG CUỘC ĐUA VÀO TRƯỜNG ĐẠI HỌC"
                               />Jan 08, 2023</span
                             >
@@ -116,7 +110,6 @@ export default {
                               <img
                                 class="lazy"
                                 src="/images/common/event-icon3.png"
-                                data-src="/images/common/event-icon3.png"
                                 alt="BES MINI INFO DAY: DẪN ĐẦU TRONG CUỘC ĐUA VÀO TRƯỜNG ĐẠI HỌC"
                               />8h30- 12h00</span
                             >
@@ -137,7 +130,6 @@ export default {
                             <img
                               class="lazy"
                               src="/images/common/arrow-right.png"
-                              data-src="/images/common/arrow-right.png"
                               alt="BES MINI INFO DAY: DẪN ĐẦU TRONG CUỘC ĐUA VÀO TRƯỜNG ĐẠI HỌC"
                             />
                           </a>
@@ -164,7 +156,6 @@ export default {
                               <img
                                 class="lazy"
                                 src="/images/common/event-icon1.png"
-                                data-src="/images/common/event-icon1.png"
                                 alt="<strong>BES EXPERIENCE DAY 2023 &#8211; YOU DEFINE YOU: You Are The Influencer</strong>"
                               />Trường Đại Học Anh Quốc Việt Nam (BES), Khu đô
                               thị Ecopark</span
@@ -173,7 +164,6 @@ export default {
                               <img
                                 class="lazy"
                                 src="/images/common/event-icon2.png"
-                                data-src="/images/common/event-icon2.png"
                                 alt="<strong>BES EXPERIENCE DAY 2023 &#8211; YOU DEFINE YOU: You Are The Influencer</strong>"
                               />Mar 05, 2023</span
                             >
@@ -181,7 +171,6 @@ export default {
                               <img
                                 class="lazy"
                                 src="/images/common/event-icon3.png"
-                                data-src="/images/common/event-icon3.png"
                                 alt="<strong>BES EXPERIENCE DAY 2023 &#8211; YOU DEFINE YOU: You Are The Influencer</strong>"
                               />8:00 – 12:00</span
                             >
@@ -200,7 +189,6 @@ export default {
                             <img
                               class="lazy"
                               src="/images/common/arrow-right.png"
-                              data-src="/images/common/arrow-right.png"
                               alt="<strong>BES EXPERIENCE DAY 2023 &#8211; YOU DEFINE YOU: You Are The Influencer</strong>"
                             />
                           </a>
@@ -215,7 +203,6 @@ export default {
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      data-src="/images/common/star.png"
                       alt="<strong>BES EXPERIENCE DAY 2023 &#8211; YOU DEFINE YOU: You Are The Influencer</strong>"
                     />Tin tức Sự kiện
                   </div>
@@ -228,7 +215,6 @@ export default {
                         <img
                           class="lazy"
                           src="/images/home/banner-1.png"
-                          data-src="/uploads/2023/03/leader-talk-11.jpg"
                           alt="LEADERS TALK<br>ĐỔI MỚI SÁNG TẠO VÀ KHỞI NGHIỆP – NHỮNG DOANH NGHIỆP THÀNH CÔNG TẠI VIỆT NAM"
                         />
                         <div class="event_intro">
@@ -236,7 +222,6 @@ export default {
                             <img
                               class="lazy"
                               src="/images/common/event-icon1.png"
-                              data-src="/images/common/event-icon1.png"
                               alt="LEADERS TALK<br>ĐỔI MỚI SÁNG TẠO VÀ KHỞI NGHIỆP – NHỮNG DOANH NGHIỆP THÀNH CÔNG TẠI VIỆT NAM"
                             />Khách sạn Pan Pacific Hanoi, Số 1 Đường Thanh
                             Niên, Q. Ba Đình, Hà Nội</span
@@ -245,7 +230,6 @@ export default {
                             <img
                               class="lazy"
                               src="/images/common/event-icon2.png"
-                              data-src="/images/common/event-icon2.png"
                               alt="LEADERS TALK<br>ĐỔI MỚI SÁNG TẠO VÀ KHỞI NGHIỆP – NHỮNG DOANH NGHIỆP THÀNH CÔNG TẠI VIỆT NAM"
                             />Jan 01, 1970</span
                           >
@@ -253,7 +237,6 @@ export default {
                             <img
                               class="lazy"
                               src="/images/common/event-icon3.png"
-                              data-src="/images/common/event-icon3.png"
                               alt="LEADERS TALK<br>ĐỔI MỚI SÁNG TẠO VÀ KHỞI NGHIỆP – NHỮNG DOANH NGHIỆP THÀNH CÔNG TẠI VIỆT NAM"
                             />18:00 - 21:00</span
                           >
