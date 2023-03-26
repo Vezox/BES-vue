@@ -5,14 +5,13 @@
       <button class="close-menu hide-menu">
         <img
           class="lazy"
-          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-          data-src="https://www.BES.edu.vn/wp-content/themes/main/assets/images/common/close-mobi.png"
+          src="/images/common/close-mobi.png"
           alt="Về chúng tôi"
         />
       </button>
       <div class="container_common">
         <div class="content_common">
-          <a href="/" class="logo-main">
+          <a :href="localePath('/')" class="logo-main">
             <img
               class="lazy"
               src="/images/logo.png"
@@ -20,7 +19,7 @@
               alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
             />
           </a>
-          <a href="" class="logo-main-mobi">
+          <a :href="localePath('/')" class="logo-main-mobi">
             <img
               class="lazy"
               src="/images/logo.png"
@@ -242,8 +241,7 @@
       <a href="/" class="logo-main">
         <img
           class="lazy"
-          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-          data-src="https://www.BES.edu.vn/wp-content/themes/main/assets/images/common/logo.png"
+          src="/images/common/logo.png"
           alt="Về chúng tôi"
         />
       </a>

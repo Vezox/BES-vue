@@ -13,6 +13,7 @@ const _152ea5a6 = () => interopDefault(import('../pages/su-kien.vue' /* webpackC
 const _828dc14e = () => interopDefault(import('../pages/su-kien-hinh-anh.vue' /* webpackChunkName: "pages/su-kien-hinh-anh" */))
 const _24d9e6f1 = () => interopDefault(import('../pages/tam-nhin-su-menh.vue' /* webpackChunkName: "pages/tam-nhin-su-menh" */))
 const _176b122e = () => interopDefault(import('../pages/tin-tuc.vue' /* webpackChunkName: "pages/tin-tuc" */))
+const _1291afcb = () => interopDefault(import('../pages/tuyen-dung.vue' /* webpackChunkName: "pages/tuyen-dung" */))
 const _592d80a6 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 const _6efa5971 = () => interopDefault(import('../pages/website-privacy.vue' /* webpackChunkName: "pages/website-privacy" */))
 const _6ce7a34a = () => interopDefault(import('../pages/website-terms-and-conditions.vue' /* webpackChunkName: "pages/website-terms-and-conditions" */))
@@ -65,6 +66,10 @@ export const routerOptions = {
     component: _176b122e,
     name: "tin-tuc___en"
   }, {
+    path: "/tuyen-dung",
+    component: _1291afcb,
+    name: "tuyen-dung___en"
+  }, {
     path: "/vi",
     component: _592d80a6,
     name: "index___vi"
@@ -112,6 +117,10 @@ export const routerOptions = {
     path: "/vi/tin-tuc",
     component: _176b122e,
     name: "tin-tuc___vi"
+  }, {
+    path: "/vi/tuyen-dung",
+    component: _1291afcb,
+    name: "tuyen-dung___vi"
   }, {
     path: "/vi/website-privacy",
     component: _6efa5971,

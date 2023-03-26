@@ -332,10 +332,10 @@
             <div style="clear: both"></div>
             <div class="notice" style="text-align: center">
               <ul class="menu-policy mobile-hide">
-                <li><a href="website-privacy/">Privacy Policy</a></li>
+                <li><a :href="localePath('website-privacy/')">Privacy Policy</a></li>
                 <li class="mobile-hide" style="padding-top: 6px">|</li>
                 <li>
-                  <a href="website-terms-and-conditions/"
+                  <a :href="localePath('website-terms-and-conditions/')"
                     >Terms and Conditions</a
                   >
                 </li>
@@ -349,7 +349,7 @@
                       ><img
                         class="lazy"
                         src="/images/logo_w.png"
-                        alt="BUV Spirit Photo Contest"
+                        alt="BES Spirit Photo Contest"
                         width="90"
                         height="90"
                     /></a>
@@ -410,7 +410,7 @@
                       <div class="_item">
                         <p>Email:</p>
                         <p>
-                          <a href="mailto:info@buv.edu.vn">info@buv.edu.vn</a>
+                          <a href="mailto:info@BES.edu.vn">info@BES.edu.vn</a>
                         </p>
                       </div>
                       <div class="_item">
@@ -423,9 +423,9 @@
                     <div class="item">
                       <p class="title">Explore</p>
                       <ul>
-                        <li><a href="/about">Về BES</a></li>
+                        <li><a href="localePath('/tam-nhin-su-menh')">Về BES</a></li>
                         <li>
-                          <a href="trung-tam-dao-tao-buv/"
+                          <a href=""
                             >Vì sao chọn BES</a
                           >
                         </li>
@@ -468,7 +468,7 @@
                           >
                         </li>
                         <li>
-                          <a href="/contact"
+                          <a :href="localePath('/lien-he')"
                             >Liên hệ
                           </a>
                         </li>
@@ -494,13 +494,13 @@
                         Policy
                       </li>
                       <li>
-                        <a href="website-privacy/" style="padding-left: 0"
+                        <a :href="localePath('/website-privacy')" style="padding-left: 0"
                           >Privacy Policy</a
                         >
                       </li>
                       <li>
                         <a
-                          href="website-terms-and-conditions/"
+                          :href="localePath('/website-terms-and-conditions')"
                           style="padding-left: 0"
                           >Terms and Conditions</a
                         >
@@ -522,7 +522,7 @@
                       <div class="_item">
                         <p>Email:</p>
                         <p>
-                          <a href="mailto:info@buv.edu.vn">info@buv.edu.vn</a>
+                          <a href="mailto:info@BES.edu.vn">info@BES.edu.vn</a>
                         </p>
                       </div>
                       <div class="_item">

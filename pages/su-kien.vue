@@ -90,7 +90,7 @@ export default {
                           <div class="type">Sự kiện nổi bật</div>
                           <h3 class="title">
                             <a
-                              href="https://www.BES.edu.vn/events/BES-mini-info-day-dan-dau-trong-cuoc-dua-vao-truong-dai-hoc/"
+                              href=""
                               >BES MINI INFO DAY: DẪN ĐẦU TRONG CUỘC ĐUA VÀO
                               TRƯỜNG ĐẠI HỌC</a
                             >
@@ -130,7 +130,7 @@ export default {
                             [&hellip;]
                           </div>
                           <a
-                            href="https://www.BES.edu.vn/events/BES-mini-info-day-dan-dau-trong-cuoc-dua-vao-truong-dai-hoc/"
+                            href=""
                             class="btn_site _near"
                           >
                             <span>Chi tiết</span>
@@ -153,7 +153,6 @@ export default {
                           <div class="type">Sự kiện nổi bật</div>
                           <h3 class="title">
                             <a
-                              href="https://www.BES.edu.vn/events/BES-experience-day-2023-you-define-you-you-are-the-influencer/"
                               ><strong
                                 >BES EXPERIENCE DAY 2023 &#8211; YOU DEFINE YOU:
                                 You Are The Influencer</strong
@@ -262,7 +261,6 @@ export default {
                       </a>
                       <div class="_text">
                         <a
-                          href="https://www.BES.edu.vn/events/leaders-talkdoi-moi-sang-tao-va-khoi-nghiep-nhung-doanh-nghiep-thanh-cong-tai-viet-nam/"
                           class="title"
                           >LEADERS TALK<br />ĐỔI MỚI SÁNG TẠO VÀ KHỞI NGHIỆP –
                           NHỮNG DOANH NGHIỆP THÀNH CÔNG TẠI VIỆT NAM</a
@@ -284,17 +282,15 @@ export default {
                         >
                         <a
                           class="page-numbers"
-                          href="https://www.BES.edu.vn/vi/page/2/"
+                          href="/vi/page/2/"
                           >2</a
                         >
                         <a
                           class="page-numbers"
-                          href="https://www.BES.edu.vn/vi/page/3/"
                           >3</a
                         >
                         <a
                           class="next page-numbers"
-                          href="https://www.BES.edu.vn/vi/page/2/"
                           >></a
                         >
                       </div>

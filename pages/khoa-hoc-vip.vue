@@ -25,7 +25,7 @@ export default {
               <div class="content_common">
                 <div class="content">
                   <div class="top">
-                    <a href="/">Home</a>
+                    <a :href="localePath('/')">Home</a>
                     <span>/</span>
                     <a href="#">Khoá học</a>
                   </div>
@@ -116,7 +116,7 @@ export default {
                     <ul>
                       <li>
                         <a
-                          href="https://www.BES.edu.vn/tim-hieu-thong-tin-du-bi-dai-hoc/"
+                          href=""
                           ><span
                             ><img
                               class="lazy"

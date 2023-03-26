@@ -34,7 +34,7 @@ export default {
               <div class="content_common">
                 <div class="content">
                   <div class="top">
-                    <a href="https://www.BES.edu.vn/">Home</a>
+                    <a :href="localePath('/')">Home</a>
                     <span>/</span>
                     <a href="#">Về BES</a>
                   </div>
@@ -47,13 +47,13 @@ export default {
             <img
               class="_decor_top lazy"
               src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-              data-src="https://www.BES.edu.vn/wp-content/themes/main/assets/images/page/page-decor-top.png"
+              data-src="/images/page/page-decor-top.png"
               alt="Về chúng tôi"
             />
             <img
               class="_decor_bottom lazy"
               src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-              data-src="https://www.BES.edu.vn/wp-content/themes/main/assets/images/page/page-decor-bottom-left2.png"
+              data-src="/images/page/page-decor-bottom-left2.png"
               alt="Về chúng tôi"
             />
             <div class="container_common">
@@ -61,7 +61,7 @@ export default {
                 <div
                   class="_tabs_fix is-bgr lazy"
                   style=""
-                  data-bg="url(https://www.BES.edu.vn/wp-content/themes/main/assets/images/ifprogramme/bgr_fix.png)"
+                  data-bg="url(/images/ifprogramme/bgr_fix.png)"
                 >
                   <div class="_nav">
                     <ul class="is-flex-cl">
@@ -86,7 +86,7 @@ export default {
                 <div
                   class="_tabs_fix2 is-bgr lazy"
                   style=""
-                  data-bg="url(https://www.BES.edu.vn/wp-content/themes/main/assets/images/ifprogramme/bgr_fix.png)"
+                  data-bg="url(/images/ifprogramme/bgr_fix.png)"
                 >
                   <div class="_nav">
                     <ul class="is-flex-cl">
@@ -106,12 +106,10 @@ export default {
                     <ul>
                       <li>
                         <a
-                          href="https://www.BES.edu.vn/enquiry-form-undergraduate/"
                           ><span
                             ><img
                               class="lazy"
-                              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-                              data-src="https://www.BES.edu.vn/wp-content/themes/main/assets/images/ifprogramme/icon1.png"
+                              src="/images/ifprogramme/icon1.png"
                               alt="Về chúng tôi"
                           /></span>
                           Tìm hiểu ngay
@@ -120,13 +118,10 @@ export default {
 
                       <li>
                         <a
-                          href="https://www.BES.edu.vn/https://form.BES.edu.vn/application"
-                          target="_blank"
                           ><span
                             ><img
                               class="lazy"
-                              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-                              data-src="https://www.BES.edu.vn/wp-content/themes/main/assets/images/ifprogramme/icon2.png"
+                              src="/images/ifprogramme/icon2.png"
                               alt="Về chúng tôi"
                           /></span>
                           Apply Now</a
@@ -138,7 +133,7 @@ export default {
                             ><img
                               class="lazy"
                               src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-                              data-src="https://www.BES.edu.vn/wp-content/themes/main/assets/images/common/payment_red.png"
+                              data-src="/images/common/payment_red.png"
                               alt="Về chúng tôi"
                           /></span>
                           Thanh toán online
@@ -150,7 +145,7 @@ export default {
                             ><img
                               class="lazy"
                               src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-                              data-src="https://www.BES.edu.vn/wp-content/themes/main/assets/images/ifprogramme/icon3.png"
+                              data-src="/images/ifprogramme/icon3.png"
                               alt="Về chúng tôi" /></span
                           >Liên hệ
                         </a>
@@ -164,7 +159,7 @@ export default {
                       <img
                         class="lazy"
                         src="/images/common/star.png"
-                        data-src="https://www.BES.edu.vn/wp-content/themes/main/assets/images/common/star.png"
+                        data-src="/images/common/star.png"
                         alt="Về chúng tôi"
                       />BES Story
                     </div>
@@ -199,7 +194,7 @@ export default {
                       <img
                         class="lazy"
                         src="/images/common/star.png"
-                        data-src="https://www.BES.edu.vn/wp-content/themes/main/assets/images/common/star.png"
+                        data-src="/images/common/star.png"
                         alt="Về chúng tôi"
                       />
                       Tầm nhìn, sứ mệnh
@@ -244,7 +239,7 @@ export default {
                               <div class="content_right the_content_def">
                                 <p>
                                   <span style="font-weight: 400"
-                                    >Be the BUVt, giúp doanh nhân Việt Nam tìm
+                                    >Be the BESt, giúp doanh nhân Việt Nam tìm
                                     kiếm những cơ hội mới để phát triển hơn nữa
                                     trong sự nghiệp thông qua tri thức và sự kết
                                     nối.</span
@@ -289,7 +284,7 @@ export default {
                       <img
                         class="lazy"
                         src="/images/common/star.png"
-                        data-src="https://www.BES.edu.vn/wp-content/themes/main/assets/images/common/star.png"
+                        data-src="/images/common/star.png"
                         alt="Về chúng tôi"
                       />Giá trị cốt lõi
                     </div>
@@ -300,7 +295,7 @@ export default {
                             <img
                               class="lazy"
                               src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2067%2060'%3E%3C/svg%3E"
-                              data-src="https://www.BES.edu.vn/wp-content/uploads/2021/11/Framexxx.png"
+                              data-src="/uploads/2021/11/Framexxx.png"
                               alt="Về chúng tôi"
                             />
                           </div>
@@ -324,7 +319,7 @@ export default {
                             <img
                               class="lazy"
                               src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2045%2065'%3E%3C/svg%3E"
-                              data-src="https://www.BES.edu.vn/wp-content/uploads/2021/11/Group.png"
+                              data-src="/uploads/2021/11/Group.png"
                               alt="Về chúng tôi"
                             />
                           </div>
@@ -345,7 +340,7 @@ export default {
                             <img
                               class="lazy"
                               src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2066%2065'%3E%3C/svg%3E"
-                              data-src="https://www.BES.edu.vn/wp-content/uploads/2021/09/Property-1Icon8.png"
+                              data-src="/uploads/2021/09/Property-1Icon8.png"
                               alt="Về chúng tôi"
                             />
                           </div>
@@ -365,7 +360,7 @@ export default {
                             <img
                               class="lazy"
                               src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2045%2065'%3E%3C/svg%3E"
-                              data-src="https://www.BES.edu.vn/wp-content/uploads/2021/11/Group.png"
+                              data-src="/uploads/2021/11/Group.png"
                               alt="Về chúng tôi"
                             />
                           </div>

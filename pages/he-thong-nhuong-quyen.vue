@@ -24,7 +24,7 @@ export default {
               <div class="content_common">
                 <div class="content">
                   <div class="top">
-                    <a href="https://www.buv.edu.vn/">Home</a>
+                    <a :href="localePath('/')">Home</a>
                     <span>/</span>
                     <a href="#">Hệ thống nhượng quyền</a>
                   </div>
@@ -36,13 +36,13 @@ export default {
           <div class="content-page">
             <div class="_decor_top">
               <img
-                src="https://www.buv.edu.vn/wp-content/themes/main/assets./images/page/page-decor-top.png"
+                src="/images/page/page-decor-top.png"
                 alt=""
               />
             </div>
             <div class="decor_bottom">
               <img
-                src="https://www.buv.edu.vn/wp-content/themes/main/assets./images/page/page-decor-bottom-left3.png"
+                src="/images/page/page-decor-bottom-left3.png"
                 alt=""
               />
             </div>
@@ -50,7 +50,7 @@ export default {
               <div class="content_common">
                 <div class="title-def">
                   <img
-                    src="https://www.buv.edu.vn/wp-content/themes/main/assets/images/common/star.png"
+                    src="/images/common/star.png"
                     alt="International Students Support"
                   />Hệ thống nhượng quyền
                 </div>
@@ -62,7 +62,7 @@ export default {
                 >
                   <div class="item" v-for="i in 2" :key="i">
                     <img
-                      src="https://www.buv.edu.vn/wp-content/uploads/2022/01/Hanoi.jpg"
+                      src="/uploads/2022/01/Hanoi.jpg"
                       alt=""
                     />
                     <div class="_text">
@@ -117,7 +117,7 @@ export default {
                 </div>
                 <div class="title-def" style="margin-top: 32px">
                   <img
-                    src="https://www.buv.edu.vn/wp-content/themes/main/assets/images/common/star.png"
+                    src="/images/common/star.png"
                     alt="International Students Support"
                   />Tại sao lại chọn hệ thống nhượng quyền của BES
                 </div>
@@ -143,20 +143,20 @@ export default {
                   </p>
                   <p>
                     So, let’s check out what you need to prepare before coming
-                    to BUV for your study.
+                    to BES for your study.
                   </p>
                 </div>
                 <h3>Essential items on Vietnam arrival</h3>
                 <div class="box_essential_items">
                   <div class="_left">
                     <img
-                      src="https://www.buv.edu.vn/wp-content/uploads/2021/12/1710TM-Camtrip-113-scaled-e1639977036883.jpg"
+                      src="/uploads/2021/12/1710TM-Camtrip-113-scaled-e1639977036883.jpg"
                       alt=""
                     />
                   </div>
                   <div
                     style="
-                      background: url('https://www.buv.edu.vn/wp-content/themes/main/assets/images/admission/bgr1.png');
+                      background: url('/images/admission/bgr1.png');
                     "
                     class="_right"
                   >
@@ -176,7 +176,7 @@ export default {
                       <div class="_item">
                         <h3>Key contact</h3>
                         <p>
-                          Key contact name/ phone numbers from BUV Student Life
+                          Key contact name/ phone numbers from BES Student Life
                           Team
                         </p>
                       </div>
@@ -216,10 +216,10 @@ export default {
                     <strong>ACCOMMODATION</strong>
                   </p>
                   <p>
-                    BUV can connect you to a recommended agent who can help you
+                    BES can connect you to a recommended agent who can help you
                     find accommodation in Ecopark. Renting serviced and
                     furnished apartments is very common in Vietnam. Don’t worry
-                    – BUV Student Life will assign you with a Vietnamese student
+                    – BES Student Life will assign you with a Vietnamese student
                     who will become your ‘global buddy’ and help you out.
                   </p>
                   <p>
@@ -245,12 +245,12 @@ export default {
                     themselves and other identities by fostering an
                     understanding of various dimensions of culture and an
                     appreciation of cultural and human differences. Global Buddy
-                    team is a group of BUV volunteers who dedicate their time
+                    team is a group of BES volunteers who dedicate their time
                     and commitment to support international students with on and
                     off-campus services. Buddies will be the first contact point
                     prior to departure from your home country and will stay in
                     contact with you for the whole exchange period. As local
-                    students, BUV buddies have strong knowledge and
+                    students, BES buddies have strong knowledge and
                     understanding about Vietnamese culture and will be a great
                     hand to help you make the most of your time in Vietnam.
                     Buddies will support international students to learn how to
@@ -260,19 +260,19 @@ export default {
                   </p>
                   <p>
                     The Global Buddy team organises activities for International
-                    Students together with BUV Student Life Team throughout your
+                    Students together with BES Student Life Team throughout your
                     semester in Vietnam. The activities include:
                   </p>
                   <div class="_left">
                     <img
-                      src="https://www.buv.edu.vn/wp-content/uploads/2021/12/Hanoi-2.jpg"
+                      src="/uploads/2021/12/Hanoi-2.jpg"
                       alt="International Students Support"
                     />
                   </div>
                   <div
                     class="_right the_content_def"
                     style="
-                      background-image: url('https://www.buv.edu.vn/wp-content/themes/main/assets/images/admission/ban_do_viet_nam.png');
+                      background-image: url('/images/admission/ban_do_viet_nam.png');
                     "
                   >
                     <ul>

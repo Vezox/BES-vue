@@ -15,7 +15,7 @@
                         <img
                           class="lazy"
                           src="/images/common/arr-prev.png"
-                          alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                          alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                         />
                       </div>
                       <div class="swiper-pagination pagination-slide"></div>
@@ -23,7 +23,7 @@
                         <img
                           class="lazy"
                           src="/images/common/arr-next.png"
-                          alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                          alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                         />
                       </div>
                     </div>
@@ -344,7 +344,7 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
                     BES - Tại sao nên lựa chọn BES ?
                   </div>
@@ -617,7 +617,7 @@
                               <img
                                 class="lazy"
                                 src="/uploads/2021/09/Icon-2.png"
-                                alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                                alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                               />
                             </div>
                             <p class="name">Đội ngũ giảng viên</p>
@@ -634,7 +634,7 @@
                               <img
                                 class="lazy"
                                 src="/uploads/2021/10/Group-3277.png"
-                                alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                                alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                               />
                             </div>
                             <p class="name">Phương pháp giảng dạy</p>
@@ -651,7 +651,7 @@
                               <img
                                 class="lazy"
                                 src="/uploads/2021/09/Icon-4.png"
-                                alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                                alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                               />
                             </div>
                             <p class="name">Giá trị cộng thêm</p>
@@ -668,7 +668,7 @@
                               <img
                                 class="lazy"
                                 src="/uploads/2021/09/Property-1Icon4.png"
-                                alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                                alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                               />
                             </div>
                             <p class="name">Giáo trình độc quyền</p>
@@ -684,7 +684,7 @@
                               <img
                                 class="lazy"
                                 src="/uploads/2021/09/Icon-6.png"
-                                alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                                alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                               />
                             </div>
                             <p class="name">Cơ sở vật chất</p>
@@ -700,7 +700,7 @@
                               <img
                                 class="lazy"
                                 src="/uploads/2021/09/Property-1Icon-3.png"
-                                alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                                alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                               />
                             </div>
                             <p class="name">Trải nghiệm thực tế</p>
@@ -717,7 +717,7 @@
                         <img
                           class="lazy"
                           src="/images/common/arr-prev.png"
-                          alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                          alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                         />
                       </div>
                       <div class="swiper-pagination pagination-slide"></div>
@@ -725,7 +725,7 @@
                         <img
                           class="lazy"
                           src="/images/common/arr-next.png"
-                          alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                          alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                         />
                       </div>
                     </div>
@@ -740,7 +740,7 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
                     Giá trị cốt lõi
                   </div>
@@ -1144,19 +1144,19 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
                     Khóa học
                   </div>
                   <div class="_list_courses">
                     <a
-                      href="http://buv.edu.vn/vi/tieng-anh-du-bi-dai-hoc/"
+                      :href="localePath('/khoa-hoc-vip')"
                       class="_item"
                     >
                       <img
                         class="_img lazy"
                         src="/uploads/2021/11/Screen-Shot-2021-11-25-at-10.10.41.png"
-                        alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                        alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                       />
                       <div class="_content">
                         <div class="_type">Private courses</div>
@@ -1165,19 +1165,19 @@
                           <img
                             class="lazy"
                             src="/images/common/arrow-right.png"
-                            alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                            alt=""
                           />
                         </div>
                       </div>
                     </a>
                     <a
-                      href="http://buv.edu.vn/vi/chuong-trinh-du-bi-dai-hoc/"
+                      :href="localePath('/khoa-hoc-class')"
                       class="_item"
                     >
                       <img
                         class="_img lazy"
                         src="/uploads/2021/11/image-15.png"
-                        alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                        alt=""
                       />
                       <div class="_content">
                         <div class="_type">Group courses</div>
@@ -1186,7 +1186,7 @@
                           <img
                             class="lazy"
                             src="/images/common/arrow-right.png"
-                            alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                            alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                           />
                         </div>
                       </div>
@@ -1212,28 +1212,28 @@
                     <div class="_left">
                       <div class="new_feature">
                         <a
-                          href="buv-dat-chung-nhan-kiem-dinh-toan-dien-tu-co-quan-dam-bao-chat-luong-giao-duc-dai-hoc-qaa-anh-quoc/"
+                          href=""
                           class="_img"
                           ><img
                             class="lazy"
                             src="/uploads/2023/02/PR-QAA-1-scaled.jpg"
-                            alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                            alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                         /></a>
                         <div class="_text">
                           <p class="time">Th2 15, 2023</p>
                           <a
-                            href="buv-dat-chung-nhan-kiem-dinh-toan-dien-tu-co-quan-dam-bao-chat-luong-giao-duc-dai-hoc-qaa-anh-quoc/"
+                            href=""
                             class="title"
-                            >BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan
+                            >BES đạt chứng nhận kiểm định toàn diện từ Cơ quan
                             Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc
                             (QAA)</a
                           >
                           <p class="excerpt">
-                            Trường Đại học Anh Quốc Việt Nam (BUV) chính thức
+                            Trường Đại học Anh Quốc Việt Nam (BES) chính thức
                             trở thành trường đại học đầu tiên và duy nhất tại
                             Việt Nam đạt chứng nhận kiểm định QAA với cương vị
                             một cơ sở giáo dục độc lập. Tính đến thời điểm hiện
-                            nay, BUV là trường đại học đầu tiên và duy nhất
+                            nay, BES là trường đại học đầu tiên và duy nhất
                             [&hellip;]
                           </p>
                         </div>
@@ -1241,7 +1241,7 @@
                       <div class="new_latest_list">
                         <div class="new_latest">
                           <a
-                            href="truong-dai-hoc-anh-quoc-viet-nam-hop-tac-voi-truong-dai-hoc-khanh-hoa-to-chuc-hoi-thao-khoa-hoc-quoc-te-voi-chu-de-doi-moi-va-phat-trien-du-lich-sau-dai-dich-covid-19/"
+                            href=""
                             class="_img"
                             ><img
                               class="lazy"
@@ -1251,7 +1251,7 @@
                           <div class="_text">
                             <p class="time">Th12 08, 2022</p>
                             <a
-                              href="truong-dai-hoc-anh-quoc-viet-nam-hop-tac-voi-truong-dai-hoc-khanh-hoa-to-chuc-hoi-thao-khoa-hoc-quoc-te-voi-chu-de-doi-moi-va-phat-trien-du-lich-sau-dai-dich-covid-19/"
+                              href=""
                               class="title"
                               ><strong
                                 >Trường Đại học Anh Quốc Việt Nam hợp tác với
@@ -1264,19 +1264,19 @@
                         </div>
                         <div class="new_latest">
                           <a
-                            href="buv-ki-ket-thoa-thuan-hop-tac-cung-truong-dai-hoc-bristol-mo-rong-co-hoi-chuyen-tiep-sau-dai-hoc-cho-sinh-vien/"
+                            href=""
                             class="_img"
                             ><img
                               class="lazy"
                               src="/uploads/2022/12/IMG_8874-01-1-2-scaled.jpeg"
-                              alt="BUV KÍ KẾT THỎA THUẬN HỢP TÁC CÙNG TRƯỜNG ĐẠI HỌC BRISTOL, MỞ RỘNG CƠ HỘI CHUYỂN TIẾP SAU ĐẠI HỌC CHO SINH VIÊN"
+                              alt="BES KÍ KẾT THỎA THUẬN HỢP TÁC CÙNG TRƯỜNG ĐẠI HỌC BRISTOL, MỞ RỘNG CƠ HỘI CHUYỂN TIẾP SAU ĐẠI HỌC CHO SINH VIÊN"
                           /></a>
                           <div class="_text">
                             <p class="time">Th12 06, 2022</p>
                             <a
-                              href="buv-ki-ket-thoa-thuan-hop-tac-cung-truong-dai-hoc-bristol-mo-rong-co-hoi-chuyen-tiep-sau-dai-hoc-cho-sinh-vien/"
+                              href=""
                               class="title"
-                              >BUV KÍ KẾT THỎA THUẬN HỢP TÁC CÙNG TRƯỜNG ĐẠI HỌC
+                              >BES KÍ KẾT THỎA THUẬN HỢP TÁC CÙNG TRƯỜNG ĐẠI HỌC
                               BRISTOL, MỞ RỘNG CƠ HỘI CHUYỂN TIẾP SAU ĐẠI HỌC
                               CHO SINH VIÊN</a
                             >
@@ -1284,7 +1284,7 @@
                         </div>
                         <div class="new_latest">
                           <a
-                            href="truong-dai-hoc-anh-quoc-viet-nam-nhan-chung-chi-qs-stars-5-sao-tai-le-trao-giai-qs-awards-ceremony/"
+                            href=""
                             class="_img"
                             ><img
                               class="lazy"
@@ -1294,7 +1294,7 @@
                           <div class="_text">
                             <p class="time">Th11 23, 2022</p>
                             <a
-                              href="truong-dai-hoc-anh-quoc-viet-nam-nhan-chung-chi-qs-stars-5-sao-tai-le-trao-giai-qs-awards-ceremony/"
+                              href=""
                               class="title"
                               ><strong
                                 >Trường Đại học Anh Quốc Việt Nam nhận chứng chỉ
@@ -1306,20 +1306,20 @@
                         </div>
                         <div class="new_latest">
                           <a
-                            href="nhung-cau-chuyen-truyen-cam-hung-tai-tedxbuv-2022/"
+                            href=""
                             class="_img"
                             ><img
                               class="lazy"
-                              src="/uploads/2022/11/BUV-55-scaled.jpg"
-                              alt="<strong>Những câu chuyện truyền cảm hứng tại TEDxBUV 2022</strong> "
+                              src="/uploads/2022/11/BES-55-scaled.jpg"
+                              alt="<strong>Những câu chuyện truyền cảm hứng tại TEDxBES 2022</strong> "
                           /></a>
                           <div class="_text">
                             <p class="time">Th11 23, 2022</p>
                             <a
-                              href="nhung-cau-chuyen-truyen-cam-hung-tai-tedxbuv-2022/"
+                              href=""
                               class="title"
                               ><strong
-                                >Những câu chuyện truyền cảm hứng tại TEDxBUV
+                                >Những câu chuyện truyền cảm hứng tại TEDxBES
                                 2022</strong
                               > </a
                             >
@@ -1327,14 +1327,14 @@
                         </div>
                       </div>
                       <a
-                        href="tin-tuc-su-kien/tin-tuc/"
+                        :href="localePath('tin-tuc')"
                         class="btn_site _far _see_news"
                       >
                         <span>Xem thêm</span>
                         <img
                           class="lazy"
                           src="/images/common/arrow-right.png"
-                          alt="<strong>Những câu chuyện truyền cảm hứng tại TEDxBUV 2022</strong> "
+                          alt="<strong>Những câu chuyện truyền cảm hứng tại TEDxBES 2022</strong> "
                         />
                       </a>
                     </div>
@@ -1350,7 +1350,7 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
                     Hệ thống chuyển nhượng
                   </div>
@@ -1359,7 +1359,7 @@
                       <div class="_title">Cơ sở miền bắc</div>
                       <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
                         <a
-                          href="http://buv.edu.vn/vi/chuong-trinh-thac-si-quan-tri-kinh-doanh-mba/"
+                          href=""
                         >
                           <img
                             class="lazy"
@@ -1369,7 +1369,7 @@
                           <span>99, XXX , YYY, Hà Nội</span>
                         </a>
                         <a
-                          href="http://buv.edu.vn/degree_by_schools/chuong-trinh-cu-nhan-danh-du-quan-tri-kinh-doanh-quoc-te/"
+                          href=""
                         >
                           <img
                             class="lazy"
@@ -1386,7 +1386,7 @@
                         class="_content khoi-nganh-khoa-hoc-may-tinh-va-cong-nghe"
                       >
                         <a
-                          href="http://buv.edu.vn/vi/degree_by_schools/chuong-trinh-cu-nhan-danh-du-khoa-hoc-may-tinh/"
+                          href=""
                         >
                           <img
                             class="lazy"
@@ -1396,7 +1396,7 @@
                           <span>08, XXX, TP Vinh, Nghệ An</span>
                         </a>
                         <a
-                          href="http://buv.edu.vn/degree_by_schools/bsc-hons-computer-games-design-and-programming/"
+                          href="http://BES.edu.vn/degree_by_schools/bsc-hons-computer-games-design-and-programming/"
                         >
                           <img
                             class="lazy"
@@ -1411,7 +1411,7 @@
                       <div class="_title">Cơ sở miền nam</div>
                       <div class="_content khoi-nganh-thiet-ke-sang-tao">
                         <a
-                          href="http://buv.edu.vn/vi/degree_by_schools/chuong-trinh-cu-nhan-danh-du-ung-dung-sang-tao-duong-dai/"
+                          href=""
                         >
                           <img
                             class="lazy"
@@ -1422,51 +1422,7 @@
                         </a>
                       </div>
                     </div>
-                    <!-- <div class="_item">
-                      <div class="_title">Khối ngành Du lịch và Khách sạn</div>
-                      <div class="_content khoi-nganh-du-lich-va-khach-san">
-                        <a
-                          href="http://buv.edu.vn/vi/degree_by_schools/chuong-trinh-cu-nhan-danh-du-quan-tri-du-lich/"
-                        >
-                          <img
-                            class="lazy"
-                            src="/uploads/2021/09/Frame-2-1.png"
-                            alt="Cử nhân Quản trị Du lịch"
-                          />
-                          <span>Cử nhân Quản trị Du lịch</span>
-                        </a>
-                        <a
-                          href="http://buv.edu.vn/vi/degree_by_schools/chuong-trinh-cu-nhan-danh-du-quan-ly-to-chuc-su-kien/"
-                        >
-                          <img
-                            class="lazy"
-                            src="/uploads/2021/09/Group-3279.png"
-                            alt="Cử nhân (Danh dự) Quản lý Tổ chức Sự kiện"
-                          />
-                          <span>Cử nhân (Danh dự) Quản lý Tổ chức Sự kiện</span>
-                        </a>
-                        <a
-                          href="http://buv.edu.vn/degree_by_schools/bachelor-international-hospitality-management/"
-                        >
-                          <img
-                            class="lazy"
-                            src="/uploads/2021/09/Frame-1-e1644310543108.png"
-                            alt="Cử nhân Quản trị Khách sạn"
-                          />
-                          <span>Cử nhân Quản trị Khách sạn</span>
-                        </a>
-                      </div>
-                    </div> -->
-                    <!-- <div class="btn_see_all_degree">
-                      <a class="btn_check see-more-course">
-                        <span>Xem thêm</span>
-                        <img
-                          class="lazy"
-                          src="/images/common/check.png"
-                          alt="Cử nhân Quản trị Khách sạn"
-                        />
-                      </a>
-                    </div> -->
+                    
                   </div>
                 </div>
               </div>
@@ -1482,18 +1438,18 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BUV Spirit Photo Contest"
+                      alt="BES Spirit Photo Contest"
                     />
                     Hình ảnh/Sự kiện
                   </div>
                 </div>
                 <div class="wrap">
-                  <a href="3" class="item">
+                  <a href="#" class="item">
                     <div class="layout"></div>
                     <img
                       class="lazy"
                       src="/uploads/2021/12/Replace-Internship-Programmes-scaled.jpg"
-                      alt="BUV Spirit Photo Contest"
+                      alt="BES Spirit Photo Contest"
                     />
                     <p class="text">Dịch vụ Hướng nghiệp và Thực tập</p>
                   </a>
@@ -1502,7 +1458,7 @@
                     <img
                       class="lazy"
                       src="/uploads/2022/01/125199939_3707178062665868_6739041773961160754_n.jpg"
-                      alt="BUV Spirit Photo Contest"
+                      alt="BES Spirit Photo Contest"
                     />
                     <p class="text">Hoạt động Sinh viên</p>
                   </a>
@@ -1511,7 +1467,7 @@
                     <img
                       class="lazy"
                       src="/uploads/2021/12/125246490_3707180309332310_3714911642469131216_n.jpg"
-                      alt="BUV Spirit Photo Contest"
+                      alt="BES Spirit Photo Contest"
                     />
                     <p class="text">Trao đổi Văn hóa</p>
                   </a>
@@ -1520,7 +1476,7 @@
                     <img
                       class="lazy"
                       src="/uploads/2021/12/DSC09302-scaled-e1639114626147.jpg"
-                      alt="BUV Spirit Photo Contest"
+                      alt="BES Spirit Photo Contest"
                     />
                     <p class="text">Cộng đồng Sinh viên</p>
                   </a>
@@ -1529,7 +1485,7 @@
                     <img
                       class="lazy"
                       src="/uploads/2021/10/Alumni-dinner-1-e1517371099923.jpg"
-                      alt="BUV Spirit Photo Contest"
+                      alt="BES Spirit Photo Contest"
                     />
                     <p class="text">Cựu Sinh viên</p>
                   </a>
@@ -1538,7 +1494,7 @@
                     <img
                       class="lazy"
                       src="/uploads/2021/12/DSC09427-scaled.jpg"
-                      alt="BUV Spirit Photo Contest"
+                      alt="BES Spirit Photo Contest"
                     />
                     <p class="text">Hỗ trợ Sinh viên Quốc tế</p>
                   </a>
@@ -1552,7 +1508,7 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
                     Review
                   </div>
@@ -1589,7 +1545,7 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BUV Spirit Photo Contest"
+                      alt="BES Spirit Photo Contest"
                     />
                     App
                   </div>
@@ -2027,7 +1983,7 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BUV Spirit Photo Contest"
+                      alt="BES Spirit Photo Contest"
                     />
                     Tham quan trực tuyến
                   </div>
@@ -2035,12 +1991,12 @@
               </div>
               <div
                 class="wrap lazy"
-                style="background: url(/uploads/2021/12/BUV-Campus-Tour.png)"
+                style="background: url(/uploads/2021/12/BES-Campus-Tour.png)"
               >
                 <img
                   class="icon lazy"
                   src="/images/home/icon-360.png"
-                  alt="BUV Spirit Photo Contest"
+                  alt="BES Spirit Photo Contest"
                 />
                 <div class="_close">x</div>
                 <!-- <div class="inner-wrap"></div> -->
@@ -2358,7 +2314,7 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
                     Đối tác
                   </div>

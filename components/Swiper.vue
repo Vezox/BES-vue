@@ -8,7 +8,7 @@
                     <img
                       class="bg-mobi lazy"
                       src="/images/banner/banner_1.png"
-                      alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
                   </div>
                   <div
@@ -18,7 +18,7 @@
                     <img
                       class="bg-mobi lazy"
                       src="/images/banner/banner_2.png"
-                      alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
                   </div>
                   <div
@@ -28,7 +28,7 @@
                     <img
                       class="bg-mobi lazy"
                       src="/images/banner/banner_3.png"
-                      alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
                    
                   </div>
@@ -39,7 +39,7 @@
                     <img
                       class="bg-mobi lazy"
                       src="/images/banner/banner_4.png"
-                      alt="BUV đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
                     
                   </div>

@@ -5,7 +5,7 @@
             <img
               class="lazy"
               src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-              data-src="https://www.BES.edu.vn/wp-content/themes/main/assets/images/common/close-mobi.png"
+              data-src="/images/common/close-mobi.png"
               alt="Về chúng tôi"
             />
           </button>
@@ -13,7 +13,7 @@
             <div
               class="content_common"
             >
-              <a href="/" class="logo-main">
+              <a :href="localePath('/')" class="logo-main">
                 <img
                   class="lazy"
                   src="/images/common/logo.png"
@@ -247,7 +247,7 @@
             <img
               class="lazy"
               src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-              data-src="https://www.BES.edu.vn/wp-content/themes/main/assets/images/common/logo.png"
+              data-src="/images/common/logo.png"
               alt="Về chúng tôi"
             />
           </a>
@@ -333,7 +333,7 @@
               </svg>
             </a>
             <a
-              href="https://www.BES.edu.vn/khuon-vien-truong/"
+              href=""
               class="social-item"
               id="visit-us-fix"
             >
@@ -382,14 +382,7 @@
                 />
               </svg>
             </a>
-            <!--  <a href="https://pay.BES.edu.vn" target="_blank" class="social-item">
-            <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://www.BES.edu.vn/wp-content/themes/main/assets/images/common/payment.png" alt="Về chúng tôi">
-            <span>Thanh toán online</span>
-            <svg class="arr" width="7" height="11" viewBox="0 0 7 11" fill="none">
-                <path d="M5.75808 5.74697L1.59531 9.89822C1.45892 10.0342 1.23811 10.0339 1.10195 9.89752C0.965895 9.76113 0.966246 9.54019 1.10265 9.40416L5.01764 5.49998L1.10251 1.59583C0.966123 1.45977 0.965772 1.23897 1.10181 1.10257C1.17006 1.03419 1.25948 1 1.3489 1C1.43809 1 1.52716 1.03396 1.59529 1.10186L5.75808 5.25301C5.82377 5.31837 5.86063 5.40731 5.86063 5.49998C5.86063 5.59266 5.82366 5.68149 5.75808 5.74697Z" fill="#333333" stroke="#333333" stroke-width="0.5"/>
-            </svg> 
-        </a>
-    </div> -->
+           
           </div>
         </div>
       </header>

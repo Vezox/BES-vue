@@ -21,18 +21,18 @@ export default {
           <div
             class="banner-def lazy"
             style=""
-            data-bg="url('https://www.BES.edu.vn/wp-content/uploads/2022/09/DJI_0103-scaled.jpg')"
+            data-bg="url('/uploads/2022/09/DJI_0103-scaled.jpg')"
           >
             <div
               class="banner_mobi lazy"
               style=""
-              data-bg="url('https://www.BES.edu.vn/wp-content/uploads/2022/03/Mobile-Banner-Gareth.jpg')"
+              data-bg="url('/uploads/2022/03/Mobile-Banner-Gareth.jpg')"
             ></div>
             <div class="container_common">
               <div class="content_common">
                 <div class="content">
                   <div class="top">
-                    <a href="https://www.BES.edu.vn/">Home</a>
+                    <a :href="localePath('/')">Home</a>
                     <span>/</span>
                     <a href="#">Tin tức &#038; Sự kiện</a>
                     <span>/</span>
@@ -47,7 +47,7 @@ export default {
             <img
               class="_decor_top lazy"
               src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
-              data-src="https://www.BES.edu.vn/wp-content/themes/main/assets/images/page/page-decor-top.png"
+              data-src="/themes/main/assets/images/page/page-decor-top.png"
               alt="Tin tức"
             />
             <div class="container_common">
@@ -56,7 +56,7 @@ export default {
                   <div class="_left">
                     <div class="new_feature">
                       <a
-                        href="https://www.BES.edu.vn/leaders-talk-quay-tro-lai-co-hoi-doi-moi-sang-tao-mo-rong-mang-luoi-quan-he-chuyen-nghiep/"
+                        href=""
                         class="_img"
                       >
                         <img
@@ -69,7 +69,7 @@ export default {
                       <div class="_text">
                         <p class="time">Th3 21, 2023</p>
                         <a
-                          href="https://www.BES.edu.vn/leaders-talk-quay-tro-lai-co-hoi-doi-moi-sang-tao-mo-rong-mang-luoi-quan-he-chuyen-nghiep/"
+                          href=""
                           class="title"
                           >LEADERS TALK QUAY TRỞ LẠI: CƠ HỘI ĐỔI MỚI SÁNG TẠO,
                           MỞ RỘNG MẠNG LƯỚI QUAN HỆ CHUYÊN NGHIỆP</a
@@ -85,7 +85,7 @@ export default {
                     </div>
                     <div class="new_feature">
                       <a
-                        href="https://www.BES.edu.vn/BES-experience-day-trai-nghiem-moi-truong-hoc-tap-chuan-anh-quoc/"
+                        href=""
                         class="_img"
                       >
                         <img
@@ -115,7 +115,7 @@ export default {
                     </div>
                     <div class="new_feature">
                       <a
-                        href="https://www.BES.edu.vn/buoi-trien-lam-visionaires-tai-soho-gallery-khong-gian-nghe-thuat-va-cong-nghe-moi-tai-BES/"
+                        href=""
                         class="_img"
                       >
                         <img
@@ -128,7 +128,6 @@ export default {
                       <div class="_text">
                         <p class="time">Th3 09, 2023</p>
                         <a
-                          href="https://www.BES.edu.vn/buoi-trien-lam-visionaires-tai-soho-gallery-khong-gian-nghe-thuat-va-cong-nghe-moi-tai-BES/"
                           class="title"
                           ><strong
                             >Buổi triển lãm Visionaires tại SOHO Gallery &#8211;
@@ -150,7 +149,6 @@ export default {
                   <div class="_right new_sidebar_def">
                     <div class="frm_new_search">
                       <form
-                        action="https://www.BES.edu.vn/"
                         method="GET"
                         id="frm-search"
                       >
@@ -179,20 +177,18 @@ export default {
                       <div class="recent_list">
                         <div class="new_latest">
                           <a
-                            href="https://www.BES.edu.vn/BES-dat-chung-nhan-kiem-dinh-toan-dien-tu-co-quan-dam-bao-chat-luong-giao-duc-dai-hoc-qaa-anh-quoc/"
                             class="_img"
                           >
                             <img
                               class="lazy"
                               src="/uploads/2023/KEN_9291-scaled.jpg"
-                              data-src="https://www.BES.edu.vn/wp-content/uploads/2023/02/PR-QAA-1-scaled.jpg"
+                              data-src="/uploads/2023/02/PR-QAA-1-scaled.jpg"
                               alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                             />
                           </a>
                           <div class="_text">
                             <p class="time">Th2 15, 2023</p>
                             <a
-                              href="https://www.BES.edu.vn/BES-dat-chung-nhan-kiem-dinh-toan-dien-tu-co-quan-dam-bao-chat-luong-giao-duc-dai-hoc-qaa-anh-quoc/"
                               class="title"
                               >BES đạt chứng nhận kiểm định toàn diện từ Cơ quan
                               Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc
@@ -202,20 +198,18 @@ export default {
                         </div>
                         <div class="new_latest">
                           <a
-                            href="https://www.BES.edu.vn/BES-trao-bang-tot-nghiep-cho-sinh-vien-chuyen-nganh-moi/"
                             class="_img"
                           >
                             <img
                               class="lazy"
                               src="/uploads/2023/KEN_9291-scaled.jpg"
-                              data-src="https://www.BES.edu.vn/wp-content/uploads/2022/01/Banner-Home-scaled.jpg"
+                              data-src="/uploads/2022/01/Banner-Home-scaled.jpg"
                               alt="<strong>BES trao bằng tốt nghiệp cho sinh viên chuyên ngành mới </strong> "
                             />
                           </a>
                           <div class="_text">
                             <p class="time">Th11 04, 2022</p>
                             <a
-                              href="https://www.BES.edu.vn/BES-trao-bang-tot-nghiep-cho-sinh-vien-chuyen-nganh-moi/"
                               class="title"
                               ><strong
                                 >BES trao bằng tốt nghiệp cho sinh viên chuyên
@@ -226,20 +220,18 @@ export default {
                         </div>
                         <div class="new_latest">
                           <a
-                            href="https://www.BES.edu.vn/BES-career-fair-2022-nam-bat-co-hoi-lam-viec-tai-cac-tap-doan-danh-tieng-trong-nuoc-va-quoc-te/"
                             class="_img"
                           >
                             <img
                               class="lazy"
                               src="/uploads/2023/KEN_9291-scaled.jpg"
-                              data-src="https://www.BES.edu.vn/wp-content/uploads/2022/10/BES-116-scaled.jpg"
+                              data-src="/uploads/2022/10/BES-116-scaled.jpg"
                               alt="BES Career Fair 2022: Nắm bắt cơ hội làm việc tại các tập đoàn danh tiếng trong nước và quốc tế"
                             />
                           </a>
                           <div class="_text">
                             <p class="time">Th10 25, 2022</p>
                             <a
-                              href="https://www.BES.edu.vn/BES-career-fair-2022-nam-bat-co-hoi-lam-viec-tai-cac-tap-doan-danh-tieng-trong-nuoc-va-quoc-te/"
                               class="title"
                               >BES Career Fair 2022: Nắm bắt cơ hội làm việc tại
                               các tập đoàn danh tiếng trong nước và quốc tế</a
@@ -248,7 +240,6 @@ export default {
                         </div>
                         <div class="new_latest">
                           <a
-                            href="https://www.BES.edu.vn/nu-mc-gianh-nhieu-co-hoi-hoc-tap-viec-lam-nho-gioi-tieng-anh/"
                             class="_img"
                           >
                             <img
@@ -261,7 +252,6 @@ export default {
                           <div class="_text">
                             <p class="time">Th5 04, 2022</p>
                             <a
-                              href="https://www.BES.edu.vn/nu-mc-gianh-nhieu-co-hoi-hoc-tap-viec-lam-nho-gioi-tieng-anh/"
                               class="title"
                               >Nữ MC giành nhiều cơ hội học tập, việc làm nhờ
                               giỏi tiếng Anh</a
@@ -269,7 +259,6 @@ export default {
                           </div>
                         </div>
                         <a
-                          href="https://www.BES.edu.vn/noi-bat/"
                           class="btn_site _far"
                         >
                           <span>Xem thêm</span>
@@ -298,7 +287,6 @@ export default {
                   <div class="_tab_content tab_new_cat" data-content>
                     <div class="new_feature" v-for="i in 6" :key="i">
                       <a
-                        href="https://www.BES.edu.vn/BES-experience-day-trai-nghiem-moi-truong-hoc-tap-chuan-anh-quoc/"
                         class="_img"
                       >
                         <img
@@ -312,7 +300,6 @@ export default {
                       <div class="_text">
                         <p class="time">Th3 09, 2023</p>
                         <a
-                          href="https://www.BES.edu.vn/BES-experience-day-trai-nghiem-moi-truong-hoc-tap-chuan-anh-quoc/"
                           class="title"
                           >BES Experience Day &#8211; Trải nghiệm môi trường học
                           tập chuẩn quốc tế</a
@@ -334,28 +321,23 @@ export default {
                         >
                         <a
                           class="page-numbers"
-                          href="https://www.BES.edu.vn/vi/page/2/"
                           >2</a
                         >
                         <a
                           class="page-numbers"
-                          href="https://www.BES.edu.vn/vi/page/3/"
                           >3</a
                         >
                         <a
                           class="page-numbers"
-                          href="https://www.BES.edu.vn/vi/page/4/"
                           >4</a
                         >
                         <span class="page-numbers dots">&hellip;</span>
                         <a
                           class="page-numbers"
-                          href="https://www.BES.edu.vn/vi/page/13/"
                           >13</a
                         >
                         <a
                           class="next page-numbers"
-                          href="https://www.BES.edu.vn/vi/page/2/"
                           >></a
                         >
                       </div>

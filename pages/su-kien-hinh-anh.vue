@@ -19,13 +19,13 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BUV Spirit Photo Contest"
+                      alt="BES Spirit Photo Contest"
                     />
                     Hình ảnh/Sự kiện
                      <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BUV Spirit Photo Contest"
+                      alt="BES Spirit Photo Contest"
                     />
                   </div>
                 </div>
