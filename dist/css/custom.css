@@ -816,6 +816,7 @@
       max-width: 1128px;
       margin: auto;
       padding: 112px 0;
+      background-image: url('/images/home/s4-bg-1.png');
   
   }
   .w-form-contact{
@@ -927,7 +928,7 @@
   }
   .review-message{
     padding: 24px 10px;
-    background-color: #61422e94;
+    background-color: rgb(97 66 46 / 78%);
     color: #fff;
     margin-top: 80px;
     border-radius: 16px;

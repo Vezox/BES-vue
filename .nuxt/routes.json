@@ -3,182 +3,156 @@
     "name": "app___en",
     "path": "/app",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/app.vue",
-    "chunkName": "pages/app",
-    "_name": "_5fd67388"
+    "chunkName": "pages/app"
   },
   {
     "name": "gioi-thieu___en",
     "path": "/gioi-thieu",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/gioi-thieu.vue",
-    "chunkName": "pages/gioi-thieu",
-    "_name": "_bd75bb6e"
+    "chunkName": "pages/gioi-thieu"
   },
   {
     "name": "he-thong-nhuong-quyen___en",
     "path": "/he-thong-nhuong-quyen",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/he-thong-nhuong-quyen.vue",
-    "chunkName": "pages/he-thong-nhuong-quyen",
-    "_name": "_5ef3ac3c"
+    "chunkName": "pages/he-thong-nhuong-quyen"
   },
   {
     "name": "khoa-hoc-class___en",
     "path": "/khoa-hoc-class",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/khoa-hoc-class.vue",
-    "chunkName": "pages/khoa-hoc-class",
-    "_name": "_6d841704"
+    "chunkName": "pages/khoa-hoc-class"
   },
   {
     "name": "khoa-hoc-vip___en",
     "path": "/khoa-hoc-vip",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/khoa-hoc-vip.vue",
-    "chunkName": "pages/khoa-hoc-vip",
-    "_name": "_36667c23"
+    "chunkName": "pages/khoa-hoc-vip"
   },
   {
     "name": "lien-he___en",
     "path": "/lien-he",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/lien-he.vue",
-    "chunkName": "pages/lien-he",
-    "_name": "_9607c342"
+    "chunkName": "pages/lien-he"
   },
   {
     "name": "su-kien___en",
     "path": "/su-kien",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/su-kien.vue",
-    "chunkName": "pages/su-kien",
-    "_name": "_152ea5a6"
+    "chunkName": "pages/su-kien"
   },
   {
     "name": "su-kien-hinh-anh___en",
     "path": "/su-kien-hinh-anh",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/su-kien-hinh-anh.vue",
-    "chunkName": "pages/su-kien-hinh-anh",
-    "_name": "_828dc14e"
+    "chunkName": "pages/su-kien-hinh-anh"
   },
   {
     "name": "tin-tuc___en",
     "path": "/tin-tuc",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/tin-tuc.vue",
-    "chunkName": "pages/tin-tuc",
-    "_name": "_176b122e"
+    "chunkName": "pages/tin-tuc"
   },
   {
     "name": "tuyen-dung___en",
     "path": "/tuyen-dung",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/tuyen-dung.vue",
-    "chunkName": "pages/tuyen-dung",
-    "_name": "_1291afcb"
+    "chunkName": "pages/tuyen-dung"
   },
   {
     "name": "index___vi",
     "path": "/vi",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_592d80a6"
+    "chunkName": "pages/index"
   },
   {
     "name": "website-privacy___en",
     "path": "/website-privacy",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/website-privacy.vue",
-    "chunkName": "pages/website-privacy",
-    "_name": "_6efa5971"
+    "chunkName": "pages/website-privacy"
   },
   {
     "name": "website-terms-and-conditions___en",
     "path": "/website-terms-and-conditions",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/website-terms-and-conditions.vue",
-    "chunkName": "pages/website-terms-and-conditions",
-    "_name": "_6ce7a34a"
+    "chunkName": "pages/website-terms-and-conditions"
   },
   {
     "name": "app___vi",
     "path": "/vi/app",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/app.vue",
-    "chunkName": "pages/app",
-    "_name": "_5fd67388"
+    "chunkName": "pages/app"
   },
   {
     "name": "gioi-thieu___vi",
     "path": "/vi/gioi-thieu",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/gioi-thieu.vue",
-    "chunkName": "pages/gioi-thieu",
-    "_name": "_bd75bb6e"
+    "chunkName": "pages/gioi-thieu"
   },
   {
     "name": "he-thong-nhuong-quyen___vi",
     "path": "/vi/he-thong-nhuong-quyen",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/he-thong-nhuong-quyen.vue",
-    "chunkName": "pages/he-thong-nhuong-quyen",
-    "_name": "_5ef3ac3c"
+    "chunkName": "pages/he-thong-nhuong-quyen"
   },
   {
     "name": "khoa-hoc-class___vi",
     "path": "/vi/khoa-hoc-class",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/khoa-hoc-class.vue",
-    "chunkName": "pages/khoa-hoc-class",
-    "_name": "_6d841704"
+    "chunkName": "pages/khoa-hoc-class"
   },
   {
     "name": "khoa-hoc-vip___vi",
     "path": "/vi/khoa-hoc-vip",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/khoa-hoc-vip.vue",
-    "chunkName": "pages/khoa-hoc-vip",
-    "_name": "_36667c23"
+    "chunkName": "pages/khoa-hoc-vip"
   },
   {
     "name": "lien-he___vi",
     "path": "/vi/lien-he",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/lien-he.vue",
-    "chunkName": "pages/lien-he",
-    "_name": "_9607c342"
+    "chunkName": "pages/lien-he"
   },
   {
     "name": "su-kien___vi",
     "path": "/vi/su-kien",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/su-kien.vue",
-    "chunkName": "pages/su-kien",
-    "_name": "_152ea5a6"
+    "chunkName": "pages/su-kien"
   },
   {
     "name": "su-kien-hinh-anh___vi",
     "path": "/vi/su-kien-hinh-anh",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/su-kien-hinh-anh.vue",
-    "chunkName": "pages/su-kien-hinh-anh",
-    "_name": "_828dc14e"
+    "chunkName": "pages/su-kien-hinh-anh"
   },
   {
     "name": "tin-tuc___vi",
     "path": "/vi/tin-tuc",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/tin-tuc.vue",
-    "chunkName": "pages/tin-tuc",
-    "_name": "_176b122e"
+    "chunkName": "pages/tin-tuc"
   },
   {
     "name": "tuyen-dung___vi",
     "path": "/vi/tuyen-dung",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/tuyen-dung.vue",
-    "chunkName": "pages/tuyen-dung",
-    "_name": "_1291afcb"
+    "chunkName": "pages/tuyen-dung"
   },
   {
     "name": "website-privacy___vi",
     "path": "/vi/website-privacy",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/website-privacy.vue",
-    "chunkName": "pages/website-privacy",
-    "_name": "_6efa5971"
+    "chunkName": "pages/website-privacy"
   },
   {
     "name": "website-terms-and-conditions___vi",
     "path": "/vi/website-terms-and-conditions",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/website-terms-and-conditions.vue",
-    "chunkName": "pages/website-terms-and-conditions",
-    "_name": "_6ce7a34a"
+    "chunkName": "pages/website-terms-and-conditions"
   },
   {
     "name": "index___en",
     "path": "/",
     "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_592d80a6"
+    "chunkName": "pages/index"
   }
 ]

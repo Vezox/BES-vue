@@ -50,6 +50,7 @@ export default {
               <div class="content_common">
                 <div class="title-def">
                   <img
+                  class="img-star"
                     src="/images/common/star.png"
                     alt="International Students Support"
                   />Hệ thống nhượng quyền
@@ -117,6 +118,7 @@ export default {
                 </div>
                 <div class="title-def" style="margin-top: 32px">
                   <img
+                  class="img-star"
                     src="/images/common/star.png"
                     alt="International Students Support"
                   />Tại sao lại chọn hệ thống nhượng quyền của BES

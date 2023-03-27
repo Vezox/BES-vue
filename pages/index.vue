@@ -342,7 +342,7 @@
                 <div class="content_common">
                   <div class="label_def _gray">
                     <img
-                      class="lazy"
+                      class="lazy img-star"
                       src="/images/common/star.png"
                       alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
@@ -367,7 +367,7 @@
                             </g>
                             <defs>
                               <clipPath id="clip0_1_186">
-                                <rect width="{58}" height="{58}" fill="white" />
+                                <rect width="58" height="58" fill="white" />
                               </clipPath>
                             </defs>
                           </svg>
@@ -409,8 +409,8 @@
                             <defs>
                               <clipPath id="clip0_1_180">
                                 <rect
-                                  width="{58}"
-                                  height="{58}"
+                                  width="58"
+                                  height="58"
                                   fill="white"
                                   transform="translate(0 41.7692) rotate(-45)"
                                 />
@@ -738,7 +738,7 @@
                 <div class="content_common">
                   <div class="label_def _white">
                     <img
-                      class="lazy"
+                      class="lazy img-star"
                       src="/images/common/star.png"
                       alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
@@ -810,7 +810,7 @@
                 <div class="content_common">
                   <div class="label_def _gray">
                     <img
-                      class="lazy"
+                      class="lazy img-star"
                       src="/images/common/star.png"
                       alt="Cử nhân Quản trị Khách sạn"
                     />
@@ -1142,7 +1142,7 @@
                 <div class="content_common">
                   <div class="label_def _white">
                     <img
-                      class="lazy"
+                      class="lazy img-star"
                       src="/images/common/star.png"
                       alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
@@ -1202,7 +1202,7 @@
                 <div class="content_common">
                   <div class="label_def _gray">
                     <img
-                      class="lazy"
+                      class="lazy img-star"
                       src="/images/common/star.png"
                       alt="Cử nhân Quản trị Khách sạn"
                     />
@@ -1348,7 +1348,7 @@
                 <div class="content_common">
                   <div class="label_def _white">
                     <img
-                      class="lazy"
+                      class="lazy img-star"
                       src="/images/common/star.png"
                       alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
@@ -1436,7 +1436,7 @@
                 <div class="content_common">
                   <div class="label_def _gray">
                     <img
-                      class="lazy"
+                      class="lazy img-star"
                       src="/images/common/star.png"
                       alt="BES Spirit Photo Contest"
                     />
@@ -1506,7 +1506,7 @@
                 <div class="content_common">
                   <div class="label_def _white">
                     <img
-                      class="lazy"
+                      class="lazy img-star"
                       src="/images/common/star.png"
                       alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
@@ -1543,7 +1543,7 @@
                 <div class="content_common">
                   <div class="label_def _gray">
                     <img
-                      class="lazy"
+                      class="lazy img-star"
                       src="/images/common/star.png"
                       alt="BES Spirit Photo Contest"
                     />
