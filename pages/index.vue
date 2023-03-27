@@ -32,7 +32,7 @@
               </div>
             
             </section>
-            <section class="h_section2 container" id="h_section2">
+            <section class="h_section2 container" id="vi-sao-nen-chon-bes">
               <div class="_decor">
                 <svg width="327" height="691" viewBox="0 0 327 691" fill="none">
                   <path
@@ -1310,7 +1310,7 @@
                             class="_img"
                             ><img
                               class="lazy"
-                              src="/uploads/2022/11/BES-55-scaled.jpg"
+                              src="/uploads/2022/11/DCI_4591-scaled.jpg"
                               alt="<strong>Những câu chuyện truyền cảm hứng tại TEDxBES 2022</strong> "
                           /></a>
                           <div class="_text">

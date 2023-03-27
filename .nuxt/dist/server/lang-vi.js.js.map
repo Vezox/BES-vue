@@ -1,0 +1,1 @@
+{"version":3,"file":"lang-vi.js.js","sources":["webpack:///./lang/vi.js"],"sourcesContent":["export default {\n    home: 'Trang chủ',\n    about: 'Giới thiệu'\n  }"],"mappings":";;;;;;;AAAA;AAAA;AACA;AACA;AACA;;;;A","sourceRoot":""}

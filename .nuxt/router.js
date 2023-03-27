@@ -5,13 +5,13 @@ import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
 const _5fd67388 = () => interopDefault(import('../pages/app.vue' /* webpackChunkName: "pages/app" */))
+const _bd75bb6e = () => interopDefault(import('../pages/gioi-thieu.vue' /* webpackChunkName: "pages/gioi-thieu" */))
 const _5ef3ac3c = () => interopDefault(import('../pages/he-thong-nhuong-quyen.vue' /* webpackChunkName: "pages/he-thong-nhuong-quyen" */))
 const _6d841704 = () => interopDefault(import('../pages/khoa-hoc-class.vue' /* webpackChunkName: "pages/khoa-hoc-class" */))
 const _36667c23 = () => interopDefault(import('../pages/khoa-hoc-vip.vue' /* webpackChunkName: "pages/khoa-hoc-vip" */))
 const _9607c342 = () => interopDefault(import('../pages/lien-he.vue' /* webpackChunkName: "pages/lien-he" */))
 const _152ea5a6 = () => interopDefault(import('../pages/su-kien.vue' /* webpackChunkName: "pages/su-kien" */))
 const _828dc14e = () => interopDefault(import('../pages/su-kien-hinh-anh.vue' /* webpackChunkName: "pages/su-kien-hinh-anh" */))
-const _24d9e6f1 = () => interopDefault(import('../pages/tam-nhin-su-menh.vue' /* webpackChunkName: "pages/tam-nhin-su-menh" */))
 const _176b122e = () => interopDefault(import('../pages/tin-tuc.vue' /* webpackChunkName: "pages/tin-tuc" */))
 const _1291afcb = () => interopDefault(import('../pages/tuyen-dung.vue' /* webpackChunkName: "pages/tuyen-dung" */))
 const _592d80a6 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
@@ -33,6 +33,10 @@ export const routerOptions = {
     path: "/app",
     component: _5fd67388,
     name: "app___en"
+  }, {
+    path: "/gioi-thieu",
+    component: _bd75bb6e,
+    name: "gioi-thieu___en"
   }, {
     path: "/he-thong-nhuong-quyen",
     component: _5ef3ac3c,
@@ -58,10 +62,6 @@ export const routerOptions = {
     component: _828dc14e,
     name: "su-kien-hinh-anh___en"
   }, {
-    path: "/tam-nhin-su-menh",
-    component: _24d9e6f1,
-    name: "tam-nhin-su-menh___en"
-  }, {
     path: "/tin-tuc",
     component: _176b122e,
     name: "tin-tuc___en"
@@ -86,6 +86,10 @@ export const routerOptions = {
     component: _5fd67388,
     name: "app___vi"
   }, {
+    path: "/vi/gioi-thieu",
+    component: _bd75bb6e,
+    name: "gioi-thieu___vi"
+  }, {
     path: "/vi/he-thong-nhuong-quyen",
     component: _5ef3ac3c,
     name: "he-thong-nhuong-quyen___vi"
@@ -109,10 +113,6 @@ export const routerOptions = {
     path: "/vi/su-kien-hinh-anh",
     component: _828dc14e,
     name: "su-kien-hinh-anh___vi"
-  }, {
-    path: "/vi/tam-nhin-su-menh",
-    component: _24d9e6f1,
-    name: "tam-nhin-su-menh___vi"
   }, {
     path: "/vi/tin-tuc",
     component: _176b122e,

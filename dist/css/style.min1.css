@@ -1255,7 +1255,7 @@ svg .cicle:nth-of-type(3n) {
 }
 @media (max-width: 768px) {
     .banner-def {
-        padding-top: 60.25%;
+        padding-top: 6px
     }
 }
 @media (max-width: 480px) {

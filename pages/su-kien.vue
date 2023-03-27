@@ -265,7 +265,6 @@ export default {
                         >
                         <a
                           class="page-numbers"
-                          href="/vi/page/2/"
                           >2</a
                         >
                         <a
