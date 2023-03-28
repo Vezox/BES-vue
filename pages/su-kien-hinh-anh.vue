@@ -23,6 +23,7 @@
                     />
                     Hình ảnh/Sự kiện
                      <img
+                      style="margin-left: 16px"
                       class="lazy"
                       src="/images/common/star.png"
                       alt="BES Spirit Photo Contest"
@@ -127,11 +128,11 @@ export default {
 .img-stack-des{
     position: absolute;
     width: 100%;
-    background-color: #ffffff5d;
+    background-color: #ffffffb3;
     padding: 4px 8px;
     border-radius: 0 0 12px 12px;
     bottom: 0;
-    font-size: 12px;
+    font-size: 14px;
     text-shadow: #ffffff5d;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -140,7 +141,7 @@ export default {
 }
 .img-stack-des:hover{
     white-space: initial;
-    max-height: 100%;
+    max-height: 95%;
     overflow-y: auto;
 }
 </style>

@@ -4,6 +4,7 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
+<<<<<<< HEAD
 const _0ac7785e = () => interopDefault(import('../pages/app.vue' /* webpackChunkName: "pages/app" */))
 const _25996792 = () => interopDefault(import('../pages/he-thong-nhuong-quyen.vue' /* webpackChunkName: "pages/he-thong-nhuong-quyen" */))
 const _6708d06e = () => interopDefault(import('../pages/khoa-hoc-class.vue' /* webpackChunkName: "pages/khoa-hoc-class" */))
@@ -17,6 +18,21 @@ const _89ba9ed4 = () => interopDefault(import('../pages/tuyen-dung.vue' /* webpa
 const _7a07ac02 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 const _591dc0f4 = () => interopDefault(import('../pages/website-privacy.vue' /* webpackChunkName: "pages/website-privacy" */))
 const _340e9b34 = () => interopDefault(import('../pages/website-terms-and-conditions.vue' /* webpackChunkName: "pages/website-terms-and-conditions" */))
+=======
+const _5fd67388 = () => interopDefault(import('../pages/app.vue' /* webpackChunkName: "pages/app" */))
+const _bd75bb6e = () => interopDefault(import('../pages/gioi-thieu.vue' /* webpackChunkName: "pages/gioi-thieu" */))
+const _5ef3ac3c = () => interopDefault(import('../pages/he-thong-nhuong-quyen.vue' /* webpackChunkName: "pages/he-thong-nhuong-quyen" */))
+const _6d841704 = () => interopDefault(import('../pages/khoa-hoc-class.vue' /* webpackChunkName: "pages/khoa-hoc-class" */))
+const _36667c23 = () => interopDefault(import('../pages/khoa-hoc-vip.vue' /* webpackChunkName: "pages/khoa-hoc-vip" */))
+const _9607c342 = () => interopDefault(import('../pages/lien-he.vue' /* webpackChunkName: "pages/lien-he" */))
+const _152ea5a6 = () => interopDefault(import('../pages/su-kien.vue' /* webpackChunkName: "pages/su-kien" */))
+const _828dc14e = () => interopDefault(import('../pages/su-kien-hinh-anh.vue' /* webpackChunkName: "pages/su-kien-hinh-anh" */))
+const _176b122e = () => interopDefault(import('../pages/tin-tuc.vue' /* webpackChunkName: "pages/tin-tuc" */))
+const _1291afcb = () => interopDefault(import('../pages/tuyen-dung.vue' /* webpackChunkName: "pages/tuyen-dung" */))
+const _592d80a6 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _6efa5971 = () => interopDefault(import('../pages/website-privacy.vue' /* webpackChunkName: "pages/website-privacy" */))
+const _6ce7a34a = () => interopDefault(import('../pages/website-terms-and-conditions.vue' /* webpackChunkName: "pages/website-terms-and-conditions" */))
+>>>>>>> 997c3c30f87784e6525ddcd8784d8e8d6d3d07fc
 
 const emptyFn = () => {}
 
@@ -33,6 +49,10 @@ export const routerOptions = {
     path: "/app",
     component: _0ac7785e,
     name: "app___en"
+  }, {
+    path: "/gioi-thieu",
+    component: _bd75bb6e,
+    name: "gioi-thieu___en"
   }, {
     path: "/he-thong-nhuong-quyen",
     component: _25996792,
@@ -58,10 +78,13 @@ export const routerOptions = {
     component: _2dc9c838,
     name: "su-kien-hinh-anh___en"
   }, {
+<<<<<<< HEAD
     path: "/tam-nhin-su-menh",
     component: _4f3be37c,
     name: "tam-nhin-su-menh___en"
   }, {
+=======
+>>>>>>> 997c3c30f87784e6525ddcd8784d8e8d6d3d07fc
     path: "/tin-tuc",
     component: _6cff21fe,
     name: "tin-tuc___en"
@@ -85,6 +108,10 @@ export const routerOptions = {
     path: "/vi/app",
     component: _0ac7785e,
     name: "app___vi"
+  }, {
+    path: "/vi/gioi-thieu",
+    component: _bd75bb6e,
+    name: "gioi-thieu___vi"
   }, {
     path: "/vi/he-thong-nhuong-quyen",
     component: _25996792,
@@ -110,10 +137,13 @@ export const routerOptions = {
     component: _2dc9c838,
     name: "su-kien-hinh-anh___vi"
   }, {
+<<<<<<< HEAD
     path: "/vi/tam-nhin-su-menh",
     component: _4f3be37c,
     name: "tam-nhin-su-menh___vi"
   }, {
+=======
+>>>>>>> 997c3c30f87784e6525ddcd8784d8e8d6d3d07fc
     path: "/vi/tin-tuc",
     component: _6cff21fe,
     name: "tin-tuc___vi"

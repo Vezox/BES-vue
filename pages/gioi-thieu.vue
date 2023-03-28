@@ -207,7 +207,7 @@ export default {
                   <div class="section1" id="bes-story">
                     <div class="title-def">
                       <img
-                        class="lazy"
+                        class="lazy img-star"
                         src="/images/common/star.png"
                         alt="Về chúng tôi"
                       />BES Story
@@ -241,7 +241,7 @@ export default {
                   <div class="section2">
                     <div id="data-h2" class="title-def">
                       <img
-                        class="lazy"
+                        class="lazy img-star"
                         src="/images/common/star.png"
                         alt="Về chúng tôi"
                       />
@@ -326,7 +326,7 @@ export default {
                   <div class="section6" id="gia-tri-cot-loi">
                     <div class="title-def">
                       <img
-                        class="lazy"
+                        class="lazy img-star"
                         src="/images/common/star.png"
                         alt="Về chúng tôi"
                       />Giá trị cốt lõi

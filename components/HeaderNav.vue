@@ -9,7 +9,7 @@
           alt="Về chúng tôi"
         />
       </button>
-      <div class="container_common">
+      <div class="container_common"> 
         <div class="content_common">
           <a :href="localePath('/')" class="logo-main">
             <img
@@ -46,8 +46,8 @@
                 id="menu-item-2779"
                 class="has-sub menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2779"
               >
-                <span>Về BES</span>
-                <ul class="sub-menu">
+                <a :href="localePath('/gioi-thieu')">Về BES</a>
+                <!-- <ul class="sub-menu">
                   <li
                     id="menu-item-2783"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2783"
@@ -60,24 +60,24 @@
                   >
                     <a :href="localePath('/gia-tri-cot-loi/')">Giá trị cốt lõi</a>
                   </li>
-                  <li
+                <li
                     id="menu-item-2783"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2783"
                   >
-                    <a :href="localePath('/tam-nhin-su-menh/')">Vì sao chọn BES</a>
-                  </li>
+                    <a :href="localePath('/#vi-sao-nen-chon-bes')">Vì sao chọn BES</a>
+                  </li> 
                   <li
                     id="menu-item-2783"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2783"
                   >
                     <a :href="localePath('/co-so-vat-chat/')">Cơ sở vật chất</a>
                   </li>
-                  <li
+                 <li
                     id="menu-item-2783"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2783"
                   >
                     <a :href="localePath('/review/')">Review</a>
-                  </li>
+                  </li> 
                   <li
                     id="menu-item-2782"
                     class="sub_menu_child menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2782"
@@ -98,7 +98,7 @@
                       </li>
                     </ul>
                   </li>
-                </ul>
+                </ul> -->
               </li>
               <li
                 id="menu-item-2798"
