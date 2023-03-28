@@ -43,6 +43,59 @@ export default {
               </div>
             </div>
           </div>
+          <div class="container section0" id="gia-tri-cot-loi">
+                    <h1> GÍA TRỊ CỐT LÕI CỦA BES </h1>
+                    <div class="content">
+                      <div class="box-content">
+                        <div class="content-item">
+                          <h4> <span>B</span>UILDING </h4>
+                          <h6> KHỞI TẠO </h6>
+                          <span>
+                            BES không ngừng nghiên cứu, xây dựng các chương trình đào tạo phù 
+                            hợp khởi tạo nên chất lượng và sự hài lòng cho khách hàng. Đồng thời 
+                            cũng là bước đệm giúp khách hàng, đối tác khởi tạo nên tương lai tốt đẹp.
+                          </span>
+                        </div>
+                        <div class="content-item">
+                          <span>
+                            BES cam kết vẫn luôn giữ vững niềm tin đối với nhân sự, khách hàng đối tác
+                            trong quá trình đổi mới và phát triển.
+                          </span>
+                          <h4> <span>T</span>RUST </h4>
+                          <h6> NIỀM TIN </h6>
+                        </div>
+                      </div>
+
+                      <div class="box-content" style="display: flex;justify-content: center; text-align: center; align-items: center;">
+                        <div id="box-logo"> 
+                          <div id="building"><div></div></div>
+                          <div id="energy"><div></div></div>
+                          <div id="trust"><div></div></div>
+                          <div id="sharing"><div></div></div>
+                        </div>
+                      </div>
+
+                      <div class="box-content">
+                        <div class="content-item">
+                          <h4> <span>E</span>NERGY </h4>
+                          <h6> NĂNG LƯỢNG </h6>
+                          <span>
+                            BES luôn thể hiện năng lượng tích cực, hiện đại và chuyên nghiệp. Cam kết 
+                            mang đến dịch vụ chất lượng, uy tín, trung thực minh bạch và đạo đức nghề nghiệp
+                            là kim chỉ nam xuyên suốt quá trình phát triển thương hiệu.
+                          </span>
+                        </div>
+                        <div class="content-item">
+                          <span>
+                            Sẻ chia những giá trị thực đến từng cá nhân, đối tác và cả cộng đồng. Bởi vì 
+                            mỗi cá nhân phát triển sẽ góp phần giúp xã hội phát triển bền vững
+                          </span>
+                          <h4> <span>S</span>HARING </h4>
+                          <h6> SẺ CHIA </h6>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
           <div class="content-page">
             <img
               class="_decor_top lazy"
@@ -150,6 +203,7 @@ export default {
                   </div>
                 </div>
                 <div class="_wrapper">
+
                   <div class="section1" id="bes-story">
                     <div class="title-def">
                       <img
@@ -450,6 +504,171 @@ img.emoji {
 </style>
 
 <style type="text/css">
+#box-logo {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  rotate: 45deg;
+  width: 360px;
+  height: 360px;
+}
+
+#box-logo>div {
+  width: 44%;
+  height: 44%;
+  margin: 3%;
+  background-color: #ccc;
+  border-radius: 10%;
+  border: 3px solid #000;
+  background-color: #6f4402;
+}
+
+
+#box-logo>div:first-child, #box-logo>div:last-child {
+  border: 3px solid #6f4402;
+  background-color: #000;
+}
+
+#box-logo>div:first-child::before, #box-logo>div:last-child::before {
+  border: 1px solid #ccc;
+  background-color: rgb(209, 189, 187);
+}
+
+#box-logo>div::before {
+  display: block;
+  content: "";
+  width: 36%;
+  height: 36%;
+  background-color: #ccc;
+  position: relative;
+  z-index: -1;
+  border: 1px solid rgb(255, 171, 162);
+  border-radius: 12%;
+}
+
+#building::before {
+  top: -18%;
+  left: -18%;
+}
+
+#energy::before {
+  top: -18%;
+  right: -82%;
+}
+
+#sharing::before {
+  bottom: -82%;
+  right: -82%;
+}
+
+#trust::before {
+  bottom: -82%;
+  left: -18%;
+}
+
+#box-logo>div>div {
+  width: 140%;
+  height: 2px;
+  background-color: #6f4402;
+  position: relative;
+}
+#box-logo>div>div::after, #box-logo>div>div::before {
+  display: block;
+  content: "";
+  width: 8px;
+  height: 8px;
+  background-color: #6f4402;
+  position: relative;
+  border-radius: 50%;
+}
+
+#box-logo>div>div::after {
+  top: -11px;
+  left: 0;
+}
+
+#box-logo>div>div::before {
+  top: -3px;
+  left: 100%;
+}
+
+#building>div {
+  rotate: -34deg;
+  top: 60%;
+  left: -132%;
+}
+
+#energy>div {
+  rotate: 34deg;
+  top: 60%;
+  right: -132%;
+}
+
+#box-logo>div:first-child::after, #box-logo>div:last-child::after {
+  background-color: #000;
+}
+
+.container {
+  padding: 2% 10%;
+}
+
+
+.container h1{
+  font-size: 50px;
+  text-align: center;
+  margin: 56px;
+  font-weight: 900;
+  font-family: Brandon_bld\.otf;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+
+ .box-content:first-child .content-item , .box-content:first-child .content-item>span{
+ text-align: end;
+}
+
+.box-content {
+  width: 40%;
+}
+
+ .box-content:first-child, .box-content:last-child {
+  width: 25%;
+}
+
+.box-content .content-item:last-child>span {
+ display: flex;
+ flex-direction: column-reverse; 
+}
+
+
+.content-item h4{
+  font-size: 32px;
+  font-weight: 700;
+  margin: 16px 0;
+  font-family: Brandon_bld\.otf;
+}
+
+.content-item h4 span{
+  color: #6f4402;
+}
+
+.content-item h6 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 16px 0;
+  font-family: Brandon_bld\.otf;
+}
+
+.content-item>span {
+  text-align: left;
+  min-height: 160px;
+  display: block;
+ font-size: 18px;
+}
+
 ul.menu-policy {
   padding: 0;
   margin: 0;
@@ -484,4 +703,5 @@ ul.menu-policy li a {
     float: left;
   }
 }
+
 </style>

@@ -733,77 +733,6 @@
                 </div>
               </div>
             </section>
-            <section class="h_section4 container" id="h_section6_cotloi">
-              <div class="container_common">
-                <div class="content_common">
-                  <div class="label_def _white">
-                    <img
-                      class="lazy"
-                      src="/images/common/star.png"
-                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
-                    />
-                    Giá trị cốt lõi
-                  </div>
-                  <div class="_list_degree">
-                    <div class="_item">
-                      <div class="_title">Khởi tạo</div>
-                      <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
-                        <span
-                          >Là một công ty chuyên về đào tạo và cung cấp các giải
-                          pháp học tiếng Anh cho doanh nhân, vì vậy BES không
-                          ngừng nghiên cứu, xây dựng các chương trình đào tạo
-                          phù hợp khởi tạo nên chất lượng và sự hài lòng cho
-                          khách hàng. Đồng thời cũng là bước đệm giúp khách
-                          hàng, đối tác khởi tạo nên tương lai tốt đẹp hơn.
-                        </span>
-                      </div>
-                    </div>
-                    <div class="_item">
-                      <div class="_title">Năng lượng</div>
-                      <div
-                        class="_content khoi-nganh-khoa-hoc-may-tinh-va-cong-nghe"
-                      >
-                        <span
-                          >"BES luôn thể hiện tính năng động, hiện đại và chuyên
-                          nghiệp. Cam kết mang đến dịch vụ tốt, uy tín, trung
-                          thực minh bạch và đạo đức nghề nghiệp là kim chỉ nam
-                          xuyên suốt quá trình phát triển thương hiệu. "
-                        </span>
-                      </div>
-                    </div>
-                    <div class="_item">
-                      <div class="_title">Sẻ chia</div>
-                      <div class="_content khoi-nganh-thiet-ke-sang-tao">
-                        <span
-                          >Sẻ chia những giá trị thực đến từng cá nhân, đối tác
-                          và cả cộng đồng. Mỗi cá nhân phát triển sẽ góp phần
-                          giúp xã hội phát triển bền vững
-                        </span>
-                      </div>
-                    </div>
-                    <div class="_item">
-                      <div class="_title">Niềm tin</div>
-                      <div class="_content khoi-nganh-du-lich-va-khach-san">
-                        <span
-                          >Tạo được niềm tin với khách hàng, đối tác, cộng
-                          đồng</span
-                        >
-                      </div>
-                    </div>
-                    <div class="btn_see_all_degree">
-                      <a class="btn_check see-more-course">
-                        <span>Xem thêm</span>
-                        <img
-                          class="lazy"
-                          src="/images/common/check.png"
-                          alt="Cử nhân Quản trị Khách sạn"
-                        />
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </section>
             <section class="h_section5 container" id="h_section_story">
               <decor5 />
               <div class="container_common">
@@ -1310,7 +1239,7 @@
                             class="_img"
                             ><img
                               class="lazy"
-                              src="/uploads/2022/11/BES-55-scaled.jpg"
+                              src="/uploads/2022/11/DCI_4591-scaled.jpg"
                               alt="<strong>Những câu chuyện truyền cảm hứng tại TEDxBES 2022</strong> "
                           /></a>
                           <div class="_text">
@@ -1339,90 +1268,6 @@
                       </a>
                     </div>
                    
-                  </div>
-                </div>
-              </div>
-            </section>
-            <section class="h_section4 container" id="h_section4">
-              <div class="container_common">
-                <div class="content_common">
-                  <div class="label_def _white">
-                    <img
-                      class="lazy"
-                      src="/images/common/star.png"
-                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
-                    />
-                    Hệ thống chuyển nhượng
-                  </div>
-                  <div class="_list_degree">
-                    <div class="_item">
-                      <div class="_title">Cơ sở miền bắc</div>
-                      <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
-                        <a
-                          href=""
-                        >
-                          <img
-                            class="lazy"
-                            src="/uploads/2021/10/Group-1.png"
-                            alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
-                          />
-                          <span>99, XXX , YYY, Hà Nội</span>
-                        </a>
-                        <a
-                          href=""
-                        >
-                          <img
-                            class="lazy"
-                            src="/uploads/2021/10/Group-3.png"
-                            alt="Cử nhân Quản trị Kinh doanh Quốc tế"
-                          />
-                          <span>888, ZZZ, NNN , Hải Phòng</span>
-                        </a>
-                      </div>
-                    </div>
-                    <div class="_item">
-                      <div class="_title">Cơ sở miền trung</div>
-                      <div
-                        class="_content khoi-nganh-khoa-hoc-may-tinh-va-cong-nghe"
-                      >
-                        <a
-                          href=""
-                        >
-                          <img
-                            class="lazy"
-                            src="/uploads/2021/10/Group-3277.png"
-                            alt="Cử nhân Khoa học Máy tính: An ninh mạng/ Công nghệ Đám mây"
-                          />
-                          <span>08, XXX, TP Vinh, Nghệ An</span>
-                        </a>
-                        <a
-                          href="http://BES.edu.vn/degree_by_schools/bsc-hons-computer-games-design-and-programming/"
-                        >
-                          <img
-                            class="lazy"
-                            src="/uploads/2021/10/Group.png"
-                            alt="Cử nhân Thiết kế và Lập trình Game"
-                          />
-                          <span>01, YYY, TP Hà Tĩnh</span>
-                        </a>
-                      </div>
-                    </div>
-                    <div class="_item">
-                      <div class="_title">Cơ sở miền nam</div>
-                      <div class="_content khoi-nganh-thiet-ke-sang-tao">
-                        <a
-                          href=""
-                        >
-                          <img
-                            class="lazy"
-                            src="/uploads/2021/09/Icon-9.png"
-                            alt="Cử nhân Ứng dụng Sáng tạo đương đại: Thiết kế Đồ họa/ Phác họa/ Nhiếp ảnh"
-                          />
-                          <span>01, XXX, Quận 1, TP.HCM</span>
-                        </a>
-                      </div>
-                    </div>
-                    
                   </div>
                 </div>
               </div>
