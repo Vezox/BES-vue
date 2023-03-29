@@ -27,6 +27,7 @@ export default {
               style="
                 background: url(/images/banner/banner_1.png);
                 background-size: contain;
+                display: none;
               "
             >
             </div>
@@ -61,12 +62,12 @@ export default {
                             BES cam kết vẫn luôn giữ vững niềm tin đối với nhân sự, khách hàng đối tác
                             trong quá trình đổi mới và phát triển.
                           </span>
-                          <h4> <span>T</span>RUST </h4>
                           <h6> NIỀM TIN </h6>
+                          <h4> <span>T</span>RUST </h4>
                         </div>
                       </div>
 
-                      <div class="box-content" style="display: flex;justify-content: center; text-align: center; align-items: center;">
+                      <div class="box-content" id="logo-box" style="display: flex;justify-content: center; text-align: center; align-items: center;">
                         <div id="box-logo"> 
                           <div id="building"><div></div></div>
                           <div id="energy"><div></div></div>
@@ -90,8 +91,8 @@ export default {
                             Sẻ chia những giá trị thực đến từng cá nhân, đối tác và cả cộng đồng. Bởi vì 
                             mỗi cá nhân phát triển sẽ góp phần giúp xã hội phát triển bền vững
                           </span>
-                          <h4> <span>S</span>HARING </h4>
                           <h6> SẺ CHIA </h6>
+                          <h4> <span>S</span>HARING </h4>
                         </div>
                       </div>
                     </div>
@@ -124,11 +125,6 @@ export default {
                       <li>
                         <a href="#data-h2" data-h="2"
                           >Tầm nhìn, Sứ mệnh</a
-                        >
-                      </li>
-                      <li>
-                        <a href="#gia-tri-cot-loi" data-h="3"
-                          >Giá trị cốt lõi</a
                         >
                       </li>
                     </ul>
@@ -322,97 +318,6 @@ export default {
                       </div>
                     </div>
                   </div>
-
-                  <div class="section6" id="gia-tri-cot-loi">
-                    <div class="title-def">
-                      <img
-                        class="lazy img-star"
-                        src="/images/common/star.png"
-                        alt="Về chúng tôi"
-                      />Giá trị cốt lõi
-                    </div>
-                    <div class="list_item">
-                      <div class="item">
-                        <div class="top">
-                          <div class="icon">
-                            <img
-                              class="lazy"
-                              src="/uploads/2021/11/Framexxx.png"
-                              alt="Về chúng tôi"
-                            />
-                          </div>
-                          <div class="top-exp">Khởi tạo</div>
-                        </div>
-                        <div class="mid the_content_def">
-                          <p>
-                            Là một công ty chuyên về đào tạo và cung cấp các
-                            giải pháp học tiếng Anh cho doanh nhân, vì vậy BES
-                            không ngừng nghiên cứu, xây dựng các chương trình
-                            đào tạo phù hợp khởi tạo nên chất lượng và sự hài
-                            lòng cho khách hàng. Đồng thời cũng là bước đệm giúp
-                            khách hàng, đối tác khởi tạo nên tương lai tốt đẹp
-                            hơn.
-                          </p>
-                        </div>
-                      </div>
-                      <div class="item">
-                        <div class="top">
-                          <div class="icon">
-                            <img
-                              class="lazy"
-                              src="/uploads/2021/11/Group.png"
-                              alt="Về chúng tôi"
-                            />
-                          </div>
-                          <div class="top-exp">Năng lượng</div>
-                        </div>
-                        <div class="mid the_content_def">
-                          <p>
-                            BES luôn thể hiện tính năng động, hiện đại và chuyên
-                            nghiệp. Cam kết mang đến dịch vụ tốt, uy tín, trung
-                            thực minh bạch và đạo đức nghề nghiệp là kim chỉ nam
-                            xuyên suốt quá trình phát triển thương hiệu.
-                          </p>
-                        </div>
-                      </div>
-                      <div class="item">
-                        <div class="top">
-                          <div class="icon">
-                            <img
-                              class="lazy"
-                              src="/uploads/2021/09/Property-1Icon8.png"
-                              alt="Về chúng tôi"
-                            />
-                          </div>
-                          <div class="top-exp">Sẻ chia</div>
-                        </div>
-                        <div class="mid the_content_def">
-                          <p>
-                            Sẻ chia những giá trị thực đến từng cá nhân, đối tác
-                            và cả cộng đồng. Mỗi cá nhân phát triển sẽ góp phần
-                            giúp xã hội phát triển bền vững
-                          </p>
-                        </div>
-                      </div>
-                      <div class="item">
-                        <div class="top">
-                          <div class="icon">
-                            <img
-                              class="lazy"
-                              src="/uploads/2021/11/Group.png"
-                              alt="Về chúng tôi"
-                            />
-                          </div>
-                          <div class="top-exp">Niềm tin</div>
-                        </div>
-                        <div class="mid the_content_def">
-                          <p>
-                            Tạo được niềm tin với khách hàng, đối tác, cộng đồng.
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
                 </div>
               </div>
             </div>
@@ -513,6 +418,66 @@ img.emoji {
   height: 360px;
 }
 
+@media screen and (max-width: 1500px){
+  #box-logo {
+    width: 300px;
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 1250px){
+  #box-logo {
+    width: 250px;
+    height: 250px;
+  }
+}
+
+@media screen and (max-width: 1024px){
+  .box-content {
+    width: 48%!important;
+  }
+  #logo-box {
+    display: none !important;;
+  }
+}
+
+@media screen and (max-width: 760px){
+  .content-item > span:last-child {
+      height: auto;
+    }
+    .container {
+  padding: 16px!important;
+}
+}
+
+@media screen and (max-width: 480px){
+  .box-content {
+    width: 100%!important;
+  }
+  .content-item  {
+    display: block !important;
+    text-align: center!important;
+    margin-bottom: 24px;
+  }
+  .content-item >span {
+    text-align: justify!important;
+    height: auto!important;
+    display: block!important;
+    min-height: fit-content!important;
+  }
+  .content {
+    display: block!important;
+  }
+  .content-item:last-child {
+    display: flex !important;
+    flex-direction: column-reverse;
+  }
+  h4,h6 {
+    margin: 6px 0!important;
+  }
+}
+
+
 #box-logo>div {
   width: 44%;
   height: 44%;
@@ -599,10 +564,35 @@ img.emoji {
 }
 
 #energy>div {
-  rotate: 34deg;
-  top: 60%;
-  right: -132%;
+  width: 113%!important;
+  background-color: #000!important;
+  rotate: 80deg;
+  top: -97%;
+  right: 18%;
 }
+
+#energy>div::after, #energy>div::before {
+  background-color: #000!important;
+}
+
+#sharing>div {
+  rotate: 139deg;
+    bottom: 34%;
+    right: -86%;
+}
+
+#trust>div {
+  rotate: -100deg;
+    bottom: -126%;
+    left: -2%;
+    width: 120%!important;
+}
+
+#trust>div::after, #trust>div::before {
+  background-color: #000!important;
+}
+
+
 
 #box-logo>div:first-child::after, #box-logo>div:last-child::after {
   background-color: #000;
@@ -619,6 +609,7 @@ img.emoji {
   margin: 56px;
   font-weight: 900;
   font-family: Brandon_bld\.otf;
+  line-height: 1;
 }
 
 .content {

@@ -9,8 +9,9 @@
   {
     "name": "gioi-thieu___en",
     "path": "/gioi-thieu",
-    "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/gioi-thieu.vue",
-    "chunkName": "pages/gioi-thieu"
+    "component": "/Users/truongducthang/Library/Mobile Documents/com~apple~CloudDocs/Freelance/BES-vue/pages/gioi-thieu.vue",
+    "chunkName": "pages/gioi-thieu",
+    "_name": "_49d62314"
   },
   {
     "name": "he-thong-nhuong-quyen___en",
@@ -55,16 +56,6 @@
     "_name": "_2dc9c838"
   },
   {
-<<<<<<< HEAD
-    "name": "tam-nhin-su-menh___en",
-    "path": "/tam-nhin-su-menh",
-    "component": "/Users/truongducthang/Library/Mobile Documents/com~apple~CloudDocs/Freelance/BES-vue/pages/tam-nhin-su-menh.vue",
-    "chunkName": "pages/tam-nhin-su-menh",
-    "_name": "_4f3be37c"
-  },
-  {
-=======
->>>>>>> 997c3c30f87784e6525ddcd8784d8e8d6d3d07fc
     "name": "tin-tuc___en",
     "path": "/tin-tuc",
     "component": "/Users/truongducthang/Library/Mobile Documents/com~apple~CloudDocs/Freelance/BES-vue/pages/tin-tuc.vue",
@@ -109,8 +100,9 @@
   {
     "name": "gioi-thieu___vi",
     "path": "/vi/gioi-thieu",
-    "component": "/Users/macbookpro/Documents/work/jobs/BES-vue/pages/gioi-thieu.vue",
-    "chunkName": "pages/gioi-thieu"
+    "component": "/Users/truongducthang/Library/Mobile Documents/com~apple~CloudDocs/Freelance/BES-vue/pages/gioi-thieu.vue",
+    "chunkName": "pages/gioi-thieu",
+    "_name": "_49d62314"
   },
   {
     "name": "he-thong-nhuong-quyen___vi",
@@ -155,16 +147,6 @@
     "_name": "_2dc9c838"
   },
   {
-<<<<<<< HEAD
-    "name": "tam-nhin-su-menh___vi",
-    "path": "/vi/tam-nhin-su-menh",
-    "component": "/Users/truongducthang/Library/Mobile Documents/com~apple~CloudDocs/Freelance/BES-vue/pages/tam-nhin-su-menh.vue",
-    "chunkName": "pages/tam-nhin-su-menh",
-    "_name": "_4f3be37c"
-  },
-  {
-=======
->>>>>>> 997c3c30f87784e6525ddcd8784d8e8d6d3d07fc
     "name": "tin-tuc___vi",
     "path": "/vi/tin-tuc",
     "component": "/Users/truongducthang/Library/Mobile Documents/com~apple~CloudDocs/Freelance/BES-vue/pages/tin-tuc.vue",

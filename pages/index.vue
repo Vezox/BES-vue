@@ -32,7 +32,7 @@
               </div>
             
             </section>
-            <section class="h_section2 container" id="vi-sao-nen-chon-bes">
+            <section class="h_section2 container" id="h_section2">
               <div class="_decor">
                 <svg width="327" height="691" viewBox="0 0 327 691" fill="none">
                   <path
@@ -342,7 +342,7 @@
                 <div class="content_common">
                   <div class="label_def _gray">
                     <img
-                      class="lazy img-star"
+                      class="lazy"
                       src="/images/common/star.png"
                       alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
@@ -351,7 +351,7 @@
                   <div class="content">
                     <div class="storybrainResets root">
                       <div class="w-graph">
-                        <div class="rectangle1">
+                        <div class="rectangle1 rectangle">
                           <svg
                             preserveAspectRatio="none"
                             viewBox="0 0 58 58"
@@ -367,7 +367,7 @@
                             </g>
                             <defs>
                               <clipPath id="clip0_1_186">
-                                <rect width="58" height="58" fill="white" />
+                                <rect width="{58}" height="{58}" fill="white" />
                               </clipPath>
                             </defs>
                           </svg>
@@ -380,7 +380,7 @@
                             </div>
                           </div>
                         </div>
-                        <div class="rectangle2">
+                        <div class="rectangle2 rectangle">
                           <svg
                             preserveAspectRatio="none"
                             class="svg-grid _no-rote"
@@ -409,8 +409,8 @@
                             <defs>
                               <clipPath id="clip0_1_180">
                                 <rect
-                                  width="58"
-                                  height="58"
+                                  width="{58}"
+                                  height="{58}"
                                   fill="white"
                                   transform="translate(0 41.7692) rotate(-45)"
                                 />
@@ -426,7 +426,7 @@
                             </div>
                           </div>
                         </div>
-                        <div class="rectangle12">
+                        <div class="rectangle12 rectangle">
                           <svg
                             preserveAspectRatio="none"
                             viewBox="0 0 58 58"
@@ -450,7 +450,7 @@
                             </div>
                           </div>
                         </div>
-                        <div class="rectangle22">
+                        <div class="rectangle22 rectangle">
                           <svg
                             preserveAspectRatio="none"
                             viewBox="0 0 58 58"
@@ -500,7 +500,7 @@
                       <div class="OiNguGiangVien">Đội ngũ giảng viên</div>
                       <div class="coChuyenMonCao2">Có chuyên môn cao ...</div>
                       <div class="OiNguGiangVien2">Đội ngũ giảng viên</div> -->
-                        <div class="rectangle13">
+                        <div class="rectangle13 rectangle">
                           <svg
                             preserveAspectRatio="none"
                             viewBox="0 0 70 70"
@@ -524,7 +524,7 @@
                         <!-- <div class="teacherShowingOnWhiteboardSvgr">
                         <TeacherShowingOnWhiteboardSvgr class="icon" />
                       </div> -->
-                        <div class="rectangle3">
+                        <div class="rectangle3 rectangle">
                           <svg
                             preserveAspectRatio="none"
                             viewBox="0 0 58 58"
@@ -547,7 +547,7 @@
                             </div>
                           </div>
                         </div>
-                        <div class="rectangle23">
+                        <div class="rectangle23 rectangle">
                           <svg
                             preserveAspectRatio="none"
                             viewBox="0 0 58 58"
@@ -733,12 +733,12 @@
                 </div>
               </div>
             </section>
-            <section class="h_section4 container" id="h_section6_cotloi">
+            <!-- <section class="h_section4 container" id="h_section6_cotloi">
               <div class="container_common">
                 <div class="content_common">
                   <div class="label_def _white">
                     <img
-                      class="lazy img-star"
+                      class="lazy"
                       src="/images/common/star.png"
                       alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
@@ -803,14 +803,14 @@
                   </div>
                 </div>
               </div>
-            </section>
-            <section class="h_section5 container" id="h_section_story">
+            </section> -->
+            <!-- <section class="h_section5 container" id="h_section_story">
               <decor5 />
               <div class="container_common">
                 <div class="content_common">
                   <div class="label_def _gray">
                     <img
-                      class="lazy img-star"
+                      class="lazy"
                       src="/images/common/star.png"
                       alt="Cử nhân Quản trị Khách sạn"
                     />
@@ -845,7 +845,7 @@
                   </div>
                 </div>
               </div>
-            </section>
+            </section> -->
             <section class="h_section3 container" id="h_section3">
               <div class="_decor">
                 <svg
@@ -1142,7 +1142,7 @@
                 <div class="content_common">
                   <div class="label_def _white">
                     <img
-                      class="lazy img-star"
+                      class="lazy"
                       src="/images/common/star.png"
                       alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
@@ -1202,7 +1202,7 @@
                 <div class="content_common">
                   <div class="label_def _gray">
                     <img
-                      class="lazy img-star"
+                      class="lazy"
                       src="/images/common/star.png"
                       alt="Cử nhân Quản trị Khách sạn"
                     />
@@ -1310,7 +1310,7 @@
                             class="_img"
                             ><img
                               class="lazy"
-                              src="/uploads/2022/11/DCI_4591-scaled.jpg"
+                              src="/uploads/2022/11/BES-55-scaled.jpg"
                               alt="<strong>Những câu chuyện truyền cảm hứng tại TEDxBES 2022</strong> "
                           /></a>
                           <div class="_text">
@@ -1348,7 +1348,7 @@
                 <div class="content_common">
                   <div class="label_def _white">
                     <img
-                      class="lazy img-star"
+                      class="lazy"
                       src="/images/common/star.png"
                       alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
@@ -1436,7 +1436,7 @@
                 <div class="content_common">
                   <div class="label_def _gray">
                     <img
-                      class="lazy img-star"
+                      class="lazy"
                       src="/images/common/star.png"
                       alt="BES Spirit Photo Contest"
                     />
@@ -1506,7 +1506,7 @@
                 <div class="content_common">
                   <div class="label_def _white">
                     <img
-                      class="lazy img-star"
+                      class="lazy"
                       src="/images/common/star.png"
                       alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
                     />
@@ -1543,7 +1543,7 @@
                 <div class="content_common">
                   <div class="label_def _gray">
                     <img
-                      class="lazy img-star"
+                      class="lazy"
                       src="/images/common/star.png"
                       alt="BES Spirit Photo Contest"
                     />
