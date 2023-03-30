@@ -16,7 +16,7 @@ export default {
 
         <div id="content" class="site-content main-header">
           <div class="banner-def">
-            <img src="/images/home/s4-bg.png" style="height: 200px; width: 100%; object-fit: cover;">
+            <img src="/images/home/s4-bg-1.png" style="height: 200px; width: 100%; object-fit: cover;">
             <div class="banner_mobi">
               <img src="/images/banner/banner_1.png" alt="" />
             </div>
