@@ -21,7 +21,7 @@ export default {
               background-size: contain;
             "
           >
-           <img src="/images/banner/banner_1.png" alt="">
+          <img src="/images/home/s4-bg.png" style="height: 200px; width: 100%; object-fit: cover;">
             <div
               class="banner_mobi lazy"
               style="
