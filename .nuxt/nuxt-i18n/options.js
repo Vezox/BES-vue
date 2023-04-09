@@ -19,7 +19,11 @@ export const options = {
   sortRoutes: true,
   strategy: "prefix_except_default",
   lazy: true,
+<<<<<<< HEAD
   langDir: "/Users/truongducthang/Library/Mobile Documents/com~apple~CloudDocs/Freelance/BES-vue/lang",
+=======
+  langDir: "/Users/macbookpro/Documents/work/jobs/BES-vue/lang",
+>>>>>>> e241af508cc4926f28224cdf373a6e4a6a77c686
   rootRedirect: null,
   detectBrowserLanguage: {"alwaysRedirect":false,"cookieCrossOrigin":false,"cookieDomain":null,"cookieKey":"i18n_redirected","cookieSecure":false,"fallbackLocale":"","onlyOnNoPrefix":false,"onlyOnRoot":false,"useCookie":true},
   differentDomains: false,
