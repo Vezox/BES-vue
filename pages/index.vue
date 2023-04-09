@@ -349,278 +349,48 @@
                     BES - Tại sao nên lựa chọn BES ?
                   </div>
                   <div class="content">
-                    <div class="storybrainResets root">
-                      <div class="w-graph">
-                        <div class="rectangle1 rectangle">
-                          <svg
-                            preserveAspectRatio="none"
-                            viewBox="0 0 58 58"
-                            fill="none"
-                            xmlns="http://www.w3.org/2000/svg"
-                            class="svg-grid"
-                          >
-                            <g clipPath="url(#clip0_1_186)">
-                              <path
-                                d="M48.1411 19.1411C48.142 13.8592 45.9968 9.0659 42.5344 5.60606C39.0752 2.14441 34.2812 -0.000905963 29 2.87008e-07C23.7189 -0.000905963 18.9248 2.14441 15.4658 5.60686C12.0033 9.0659 9.85806 13.8592 9.85886 19.1411C9.85806 22.674 10.8229 25.9915 12.4981 28.831C12.499 28.8319 12.4999 28.8327 12.4999 28.8327C12.5052 28.8433 12.5105 28.8541 12.516 28.8629L12.5177 28.8621C13.6926 30.9521 15.383 33.0198 16.7555 34.9931C17.4445 35.9803 18.0507 36.9381 18.4699 37.8138C18.8927 38.6906 19.1161 39.4739 19.1259 40.1033V50.709C19.1268 53.9819 21.7776 56.6327 25.0506 56.6336H26.2459C26.8859 57.4589 27.8758 58 29 58C30.1242 58 31.114 57.4589 31.7541 56.6337H32.9494C36.2225 56.6328 38.8732 53.982 38.874 50.7091V38.7076H37.5068H21.6743C21.5114 37.9974 21.2578 37.3057 20.9356 36.631C20.1479 34.9967 19.0076 33.4158 17.8789 31.8725C16.7493 30.3352 15.6296 28.8372 14.8872 27.5002L14.8747 27.478L14.8685 27.469C13.423 25.0284 12.5943 22.1881 12.5934 19.1411C12.5943 14.606 14.4278 10.5132 17.3991 7.54023C20.372 4.56807 24.4649 2.7354 29 2.73438C33.5351 2.73529 37.6279 4.56807 40.6009 7.54023C43.572 10.5132 45.4057 14.6059 45.4065 19.1411C45.4057 22.1881 44.577 25.0284 43.1306 27.469L43.1207 27.486L43.111 27.5038C41.9912 29.5234 40.5073 30.9495 38.882 31.8858C37.2575 32.8204 35.4844 33.2593 33.8173 33.2593C31.8723 33.2611 30.0921 32.6602 28.8513 31.6348C28.2282 31.1221 27.7343 30.5062 27.3889 29.7861C27.0443 29.065 26.845 28.2337 26.8441 27.2591C26.8441 27.1594 26.8646 27.0454 26.8691 26.9421C28.9671 25.064 34.7369 25.2028 35.9126 18.9898C36.6595 15.0367 34.59 11.7807 34.242 9.41922C23.6077 8.50776 18.7468 18.0782 23.8409 25.6665C23.9745 25.8649 24.0839 26.0216 24.1765 26.1631C24.1374 26.5342 24.1098 26.901 24.1098 27.2589C24.1088 28.6145 24.3964 29.8695 24.9224 30.9661C25.711 32.6155 27.0213 33.8884 28.5781 34.7268C30.1368 35.568 31.9446 35.9926 33.8174 35.9935C35.9599 35.9926 38.1958 35.4336 40.2458 34.2551C42.285 33.0838 44.1311 31.291 45.4832 28.8628C45.4841 28.8611 45.485 28.8592 45.4867 28.8575C45.4922 28.8468 45.4983 28.8379 45.5037 28.828L45.5028 28.8272C47.178 25.9888 48.142 22.673 48.1411 19.1411ZM21.8603 41.4421H36.1395V45.6987L21.8603 42.6625V41.4421ZM21.8603 44.5263L36.1395 47.5626V50.7091C36.1395 50.9041 36.1155 51.0928 36.0826 51.2771L21.8603 48.2533V44.5263ZM21.8603 50.1181L35.2121 52.9567C35.2094 52.9594 35.2076 52.962 35.2049 52.9648C34.6237 53.5443 33.8349 53.8984 32.9493 53.8993H25.0504C24.1648 53.8984 23.3761 53.5442 22.7949 52.9648C22.2155 52.3835 21.8612 51.5949 21.8603 50.7092V50.1181ZM25.8863 22.6303C25.8863 21.8951 25.8863 20.6685 27.2357 17.1099C28.5852 13.5521 32.0201 11.2218 32.2657 11.7121C27.9728 16.8651 27.0799 22.7648 26.99 23.1217C26.8674 23.613 25.8863 23.3673 25.8863 22.6303Z"
-                                fill="white"
-                              />
-                            </g>
-                            <defs>
-                              <clipPath id="clip0_1_186">
-                                <rect width="{58}" height="{58}" fill="white" />
-                              </clipPath>
-                            </defs>
-                          </svg>
+                    <div class="box-div-rectangle rectangle-laptop">
+                      <div class="div-rectagle-top">
+                        <div class="rectagle brow">
+                          <img src="/images/light.svg">
                           <div class="reg-content-w">
                             <div class="reg-title">Phương pháp giảng dạy</div>
-                            <div class="reg-content">
+                            <p class="excerpt">
                               Tập trung vào mục tiêu con người học, không ngừng
                               tìm hiểu, điều chỉnh và hướng khách hàng tới thành
                               công
-                            </div>
+                            </p>
                           </div>
                         </div>
-                        <div class="rectangle2 rectangle">
-                          <svg
-                            preserveAspectRatio="none"
-                            class="svg-grid _no-rote"
-                            viewBox="0 0 83 83"
-                            fill="none"
-                            xmlns="http://www.w3.org/2000/svg"
-                          >
-                            <g clipPath="url(#clip0_1_180)">
-                              <path
-                                d="M56.842 24.0211L50.1664 30.6968L52.6503 33.1806L59.3259 26.505L56.842 24.0211Z"
-                                fill="white"
-                              />
-                              <path
-                                d="M3.16861 38.6005L7.07221 42.5041L8.25135 40.2727L6.57914 38.6005L40.687 4.4926L62.4271 26.2327L35.2857 53.3741L36.9024 55.1706L65.8376 26.2353L40.6857 1.0834L3.16861 38.6005Z"
-                                fill="white"
-                              />
-                              <path
-                                d="M31.665 66.4941L34.9314 63.2276L27.6979 55.9941L22.5861 54.4118L22.9563 53.7932L21.0778 51.9147C18.5741 53.2208 15.4716 52.926 13.2534 51.0251L14.7485 49.9081L15.5456 50.7052L18.972 47.2788L18.4062 46.713L19.0104 46.1089L19.5735 46.672L22.9999 43.2457L22.2226 42.4684L23.1413 41.2112C24.8043 42.9985 26.2227 46.1962 23.9173 49.189L25.6715 50.9431L25.6807 50.9339L26.6113 50.6034L27.9914 55.4337L35.3584 62.8006L37.0954 61.0637L38.7398 59.4192L33.9625 55.8791C33.9625 55.8791 32.5295 53.9333 31.0569 51.8447L34.1832 35.8086L33.1416 35.5363L35.7417 22.5274L34.5798 22.2088L31.9756 35.227L32.47 35.3592L30.6881 34.8965L29.3503 46.2332C28.651 45.3092 28.4488 44.5914 27.2313 43.2655C25.1572 40.9984 18.1286 33.7187 11.8813 39.966C11.2243 40.623 10.5343 41.4743 10.3492 41.9581C10.1668 42.4419 10.447 42.8438 10.3043 43.1346C10.1549 43.4347 9.80591 43.7255 9.70148 44.0177C8.09801 48.6007 11.839 52.1276 11.839 52.1276L19.7572 59.131L27.2498 68.3659L29.386 66.5866L24.1552 59.7986C26.224 60.9235 28.1434 61.9467 28.1434 61.9467L31.665 66.4941ZM18.2066 47.2775L15.543 49.9411L14.1867 48.5848L16.8504 45.9212L18.2066 47.2775ZM22.2371 43.247L19.5735 45.9106L18.2172 44.5543L20.8822 41.8894L22.2371 43.247ZM12.3995 50.1341C13.6831 48.6628 14.1537 46.0217 12.7643 44.3918C15.9515 44.0917 18.4908 41.6924 20.7328 39.818C21.1082 39.6831 21.8154 40.0123 22.5544 40.6455L21.6436 41.8894L20.8822 41.128L17.4558 44.5543L18.2489 45.3475L17.6448 45.9516L16.8517 45.1585L13.4253 48.5848L14.1682 49.3278L12.6559 50.4593C12.57 50.3522 12.4881 50.2438 12.3995 50.1341Z"
-                                fill="white"
-                              />
-                              <path
-                                d="M39.1205 59.9058L32.0682 66.9026L36.6499 71.799L38.8231 69.6258L45.2555 76.0582C44.2813 77.0668 43.8239 77.8308 44.2694 78.2763C44.7387 78.7456 45.8596 77.9366 45.8596 77.9366L46.4968 77.2994L48.0249 75.7713L48.1003 75.696C48.1003 75.696 47.7698 75.3655 47.512 75.1077C47.4208 75.0165 47.3071 74.9504 47.1749 74.9213L40.3526 68.099L41.1642 67.2873L44.1094 69.672L47.7222 74.1546C47.7077 74.3833 47.7843 74.5657 47.9205 74.7019C48.1756 74.957 48.5087 75.2901 48.5087 75.2901L48.5814 75.2174L50.1228 73.6761L50.7507 73.0482C50.7507 73.0482 51.5623 71.9298 51.0904 71.4579C50.6648 71.0323 49.9324 71.4447 48.9873 72.3396L45.5225 68.2589L42.6461 65.8107L44.1041 64.3527L39.1205 59.9058Z"
-                                fill="white"
-                              />
-                            </g>
-                            <defs>
-                              <clipPath id="clip0_1_180">
-                                <rect
-                                  width="{58}"
-                                  height="{58}"
-                                  fill="white"
-                                  transform="translate(0 41.7692) rotate(-45)"
-                                />
-                              </clipPath>
-                            </defs>
-                          </svg>
-                          <div class="reg-content-w">
-                            <div class="reg-title">Đội ngũ giảng viên</div>
-                            <div class="reg-content">
-                              Có chuyên môn cao đến từ nhiều quốc gia và là
-                              chuyên gia trong nhiều lĩnh vực như giáo dục, công
-                              nghệ
-                            </div>
-                          </div>
-                        </div>
-                        <div class="rectangle12 rectangle">
-                          <svg
-                            preserveAspectRatio="none"
-                            viewBox="0 0 58 58"
-                            fill="none"
-                            xmlns="http://www.w3.org/2000/svg"
-                            class="svg-grid"
-                          >
-                            <path
-                              d="M48.9375 23.2C50.7665 24.2532 52.2496 25.8159 53.2057 27.6975C54.1619 29.579 54.5499 31.6982 54.3224 33.7964C54.0948 35.8947 53.2617 37.8815 51.9245 39.5144C50.5873 41.1473 48.8038 42.3558 46.7915 42.9925C46.0803 46.2199 44.2883 49.1076 41.712 51.1776C39.1358 53.2476 35.9299 54.3756 32.625 54.375H27.1875C26.7068 54.375 26.2458 54.1841 25.9059 53.8441C25.566 53.5042 25.375 53.0432 25.375 52.5625C25.375 52.0818 25.566 51.6208 25.9059 51.2809C26.2458 50.941 26.7068 50.75 27.1875 50.75H32.625C34.8748 50.7507 37.0694 50.0538 38.9066 48.7554C40.7439 47.457 42.1334 45.6209 42.8838 43.5H41.6875C41.2068 43.5 40.7458 43.3091 40.4059 42.9691C40.066 42.6292 39.875 42.1682 39.875 41.6875V23.5625C39.875 23.0818 40.066 22.6208 40.4059 22.2809C40.7458 21.941 41.2068 21.75 41.6875 21.75H43.5C44.0873 21.75 44.6637 21.7971 45.2292 21.8878C44.8211 17.8672 42.9352 14.1413 39.9369 11.4319C36.9385 8.72246 33.0412 7.22243 29 7.22243C24.9589 7.22243 21.0615 8.72246 18.0632 11.4319C15.0649 14.1413 13.179 17.8672 12.7709 21.8878C13.3427 21.7962 13.9209 21.7501 14.5 21.75H16.3125C16.7932 21.75 17.2542 21.941 17.5942 22.2809C17.9341 22.6208 18.125 23.0818 18.125 23.5625V41.6875C18.125 42.1682 17.9341 42.6292 17.5942 42.9691C17.2542 43.3091 16.7932 43.5 16.3125 43.5H14.5C12.1038 43.5027 9.77385 42.7139 7.87207 41.2561C5.9703 39.7984 4.60322 37.7534 3.98323 35.4388C3.36325 33.1242 3.52508 30.6696 4.44358 28.4564C5.36209 26.2433 6.98583 24.3954 9.06253 23.2C9.06253 17.9123 11.1631 12.8411 14.9021 9.10207C18.6411 5.36306 23.7123 3.26251 29 3.26251C34.2878 3.26251 39.359 5.36306 43.098 9.10207C46.837 12.8411 48.9375 17.9123 48.9375 23.2ZM14.5 25.375C12.5772 25.375 10.7331 26.1388 9.3735 27.4985C8.01386 28.8581 7.25003 30.7022 7.25003 32.625C7.25003 34.5478 8.01386 36.3919 9.3735 37.7515C10.7331 39.1112 12.5772 39.875 14.5 39.875V25.375ZM50.75 32.625C50.75 30.7022 49.9862 28.8581 48.6266 27.4985C47.2669 26.1388 45.4229 25.375 43.5 25.375V39.875C45.4229 39.875 47.2669 39.1112 48.6266 37.7515C49.9862 36.3919 50.75 34.5478 50.75 32.625Z"
-                              fill="white"
-                            />
-                          </svg>
+                        <div  class="rectagle gray">
+                          <img src="/images/cham-soc-khach-hang.svg" alt="">
                           <div class="reg-content-w">
                             <div class="reg-title">
-                              Dịch vụ chăm sóc khách hàng
+                              Chăm sóc khách hàng
                             </div>
-                            <div class="reg-content">
+                            <p class="excerpt">
                               Thường xuyên hỗ trợ, cập nhật thông tin, giải đáp
                               thắc mắc cùng với app tích hợp tiện ích như
                               booking báo cáo đánh giá
-                            </div>
+                            </p>
                           </div>
                         </div>
-                        <div class="rectangle22 rectangle">
-                          <svg
-                            preserveAspectRatio="none"
-                            viewBox="0 0 58 58"
-                            fill="none"
-                            xmlns="http://www.w3.org/2000/svg"
-                            class="svg-grid"
-                          >
-                            <path
-                              d="M45.6712 8.41101C44.1488 9.27467 42.3103 9.99004 40.6767 9.71737C38.1009 9.28883 31.4618 9.31715 27.0551 10.9192C22.6483 12.5211 14.6363 17.5287 12.2329 18.3314C9.8284 19.1318 9.62869 22.3379 15.0366 22.9377C20.4456 23.5396 25.2525 20.1329 26.4542 19.5331C27.656 18.9312 39.2743 20.7349 39.2743 20.7349L42.9296 21.6356L51.3571 33.0271C52.8357 31.7425 55.7606 29.0163 56.5011 26.9444C56.7705 26.1897 57.1716 25.4962 57.6134 24.88L57.706 25.0075C59.6897 20.5736 51.1836 6.46552 45.6712 8.41101Z"
-                              fill="white"
-                            />
-                            <path
-                              d="M40.6767 23.2889L38.9057 23.1102C36.5819 22.7503 30.0104 21.8146 27.5426 21.8146C27.4347 21.8146 27.3485 21.8157 27.2842 21.8189C27.1849 21.8756 27.0704 21.941 26.9582 22.0065C25.2067 23.0261 21.1065 25.4133 16.33 25.4133C15.8055 25.4133 15.2819 25.3838 14.7717 25.3271C13.9975 25.241 13.3169 25.1079 12.715 24.9399C13.2853 25.1897 13.8098 25.5473 14.2602 26.0064C14.9658 26.7284 15.4041 27.6139 15.5776 28.5397C15.9888 28.4295 16.4151 28.3685 16.8513 28.3685C18.1883 28.3685 19.438 28.8941 20.3726 29.8494C21.2919 30.7894 21.7914 32.0325 21.7772 33.3477C21.7772 33.3608 21.775 33.374 21.775 33.387C23.1053 33.3914 24.3508 33.917 25.282 34.868C26.2025 35.808 26.7019 37.0511 26.6878 38.3663C26.6823 38.8199 26.6125 39.2627 26.4904 39.6881C27.4347 39.8854 28.2995 40.3554 28.9909 41.0621C30.8906 43.0043 30.8567 46.1286 28.9157 48.0283L27.9429 48.9792C27.9472 48.9792 27.9528 48.9792 27.9571 48.9792C29.5896 48.8614 30.9658 47.8539 31.3508 46.3358C32.0159 46.8603 32.8534 47.1754 33.7662 47.1754C35.9232 47.1754 37.6724 45.4274 37.6724 43.2693C37.6724 43.0425 37.6484 42.8221 37.6114 42.6061C38.2985 43.2049 39.1937 43.5701 40.1763 43.5701C42.3334 43.5701 44.0825 41.8209 44.0825 39.664C44.5448 39.8569 45.0519 39.9648 45.5841 39.9648C47.7411 39.9648 49.4903 38.2157 49.4903 36.0587C49.4903 34.4207 48.6888 33.3542 46.7859 31.1513L40.6767 23.2889Z"
-                              fill="white"
-                            />
-                            <path
-                              d="M12.5425 27.6881C11.5676 26.6925 9.97114 26.6749 8.97551 27.6488L5.37135 31.1766C4.37572 32.1505 4.35828 33.7469 5.33216 34.7426C6.30604 35.7382 7.90251 35.7556 8.89825 34.7806L12.5034 31.254C13.4989 30.2802 13.5164 28.6837 12.5425 27.6881Z"
-                              fill="white"
-                            />
-                            <path
-                              d="M18.6538 31.531C17.6799 30.5343 16.0835 30.5168 15.0877 31.4917L10.2807 36.194C9.28512 37.1689 9.26881 38.7654 10.2427 39.7599C11.2165 40.7567 12.8129 40.774 13.8097 39.7992L18.6155 35.0969C19.6113 34.1231 19.6287 32.5267 18.6538 31.531Z"
-                              fill="white"
-                            />
-                            <path
-                              d="M23.5643 36.5495C22.5905 35.5539 20.9941 35.5353 19.9984 36.5103L15.1915 41.2136C14.1958 42.1874 14.1784 43.7839 15.1533 44.7806C16.1272 45.7751 17.7236 45.7927 18.7194 44.8177L23.5264 40.1154C24.5219 39.1406 24.5381 37.544 23.5643 36.5495Z"
-                              fill="white"
-                            />
-                            <path
-                              d="M27.2731 42.7436C26.2983 41.748 24.7018 41.7294 23.7073 42.7043L20.9035 45.4481C19.9078 46.4219 19.8904 48.0183 20.8643 49.014C21.838 50.0096 23.4356 50.026 24.4313 49.0533L27.235 46.3096C28.2296 45.3357 28.247 43.7393 27.2731 42.7436Z"
-                              fill="white"
-                            />
-                            <path
-                              d="M10.7389 24.5255C11.1184 24.5255 11.4891 24.5735 11.849 24.6552C8.82067 23.4938 8.31906 21.3696 8.23942 20.6204C8.02566 18.6028 9.32556 16.7654 11.4717 16.05C12.3354 15.7622 14.6004 14.5276 16.7891 13.3347C19.1381 12.0532 21.716 10.6476 23.9592 9.61372C21.1172 9.38376 18.4543 9.48073 17.0312 9.71737C15.5011 9.97248 13.7912 9.36076 12.3289 8.57346C6.81627 6.62694 -1.68968 20.7349 0.293991 25.1701C0.654905 25.712 0.978889 26.3053 1.20681 26.9444C1.54371 27.8866 2.33317 28.964 3.23296 29.9803C3.37365 29.7993 3.52307 29.6226 3.68994 29.4579L7.29409 25.9302C8.22085 25.025 9.44326 24.5255 10.7389 24.5255Z"
-                              fill="white"
-                            />
-                          </svg>
-                          <div class="reg-content-w">
-                            <div class="reg-title">Giá trị cộng thêm</div>
-                            <div class="reg-content">
-                              BES thường xuyên tổ chức các buổi workshop,
-                              seminars, hoạt động ngoại khóa hay mời các chuyên
-                              gia chia sẻ về các chủ đề
-                            </div>
-                          </div>
-                        </div>
-                        <!-- <div class="coChuyenMonCao">Có chuyên môn cao ...</div>
-                      <div class="OiNguGiangVien">Đội ngũ giảng viên</div>
-                      <div class="coChuyenMonCao2">Có chuyên môn cao ...</div>
-                      <div class="OiNguGiangVien2">Đội ngũ giảng viên</div> -->
-                        <div class="rectangle13 rectangle">
-                          <svg
-                            preserveAspectRatio="none"
-                            viewBox="0 0 70 70"
-                            fill="none"
-                            xmlns="http://www.w3.org/2000/svg"
-                            class="svg-grid"
-                          >
-                            <path
-                              d="M27.825 57.3125C27.7375 57.3125 27.65 57.3125 27.5625 57.3125C26.95 57.225 26.5125 56.875 26.1625 56.35L21.875 48.5625L14.0875 44.275C13.5625 44.0125 13.2125 43.4875 13.125 42.875C13.0375 42.2625 13.2125 41.7375 13.65 41.3L17.5875 37.3625C18.025 36.925 18.6375 36.75 19.25 36.8375L23.7125 37.625L29.575 31.7625L15.4 24.7625C14.875 24.5 14.525 23.975 14.35 23.3625C14.175 22.75 14.4375 22.1375 14.875 21.7L19.25 17.325C19.6875 16.8875 20.3875 16.7125 21 16.8L39.55 21.6125L46.025 15.1375C48.3 12.8625 53.6375 11.2 56.35 13.9125C57.575 15.1375 58.0125 17.15 57.575 19.425C57.225 21.2625 56.2625 23.0125 55.125 24.15L48.65 30.625L53.4625 49.175C53.6375 49.7875 53.4625 50.4875 52.9375 50.925L48.5625 55.3C48.125 55.7375 47.5125 55.9125 46.9 55.825C46.2875 55.7375 45.7625 55.3875 45.5 54.775L38.5 40.6L32.6375 46.4625L33.425 50.925C33.5125 51.5375 33.3375 52.15 32.9 52.5875L28.9625 56.525C28.7875 57.1375 28.35 57.3125 27.825 57.3125ZM18.025 42.175L24.15 45.5C24.5 45.675 24.675 45.9375 24.85 46.2L28.175 52.325L29.6625 50.8375L28.9625 46.375C28.875 45.7625 29.05 45.15 29.4875 44.7125L37.8875 36.3125C38.325 35.875 38.9375 35.7 39.55 35.7875C40.1625 35.875 40.6875 36.225 40.95 36.8375L47.95 51.0125L49.7 49.2625L44.8875 30.7125C44.7125 30.1 44.8875 29.4 45.4125 28.9625L52.5875 21.7875C53.9 20.475 54.6 17.5 53.8125 16.7125C53.025 15.925 50.05 16.7125 48.7375 17.9375L41.5625 25.1125C41.125 25.55 40.425 25.725 39.8125 25.6375L21.175 20.825L19.425 22.575L33.6 29.575C34.125 29.8375 34.475 30.3625 34.65 30.975C34.825 31.5875 34.5625 32.2 34.125 32.6375L25.725 41.0375C25.2875 41.475 24.675 41.65 24.0625 41.5625L19.6 40.775L18.025 42.175Z"
-                              fill="white"
-                            />
-                          </svg>
+                        <div  class="rectagle brow">
+                          <img src="/images/trai-nghiem-thuc-te.svg" alt="">
                           <div class="reg-content-w">
                             <div class="reg-title">Trải nghiệm thực tế</div>
-                            <div class="reg-content">
+                            <p class="excerpt">
                               Bằng các study tour ngắn ngày hoặc chuyến đi khám
                               phá tới các quốc gia như Philipines, Singapore,...
-                            </div>
+                            </p>
                           </div>
                         </div>
-                        <!-- <div class="teacherShowingOnWhiteboardSvgr">
-                        <TeacherShowingOnWhiteboardSvgr class="icon" />
-                      </div> -->
-                        <div class="rectangle3 rectangle">
-                          <svg
-                            preserveAspectRatio="none"
-                            viewBox="0 0 58 58"
-                            fill="none"
-                            xmlns="http://www.w3.org/2000/svg"
-                            class="svg-grid"
-                          >
-                            <path
-                              fillRule="evenodd"
-                              clipRule="evenodd"
-                              d="M12.6875 3.63562C12.2068 3.63567 11.7458 3.82664 11.4059 4.16654C11.066 4.50644 10.875 4.96743 10.875 5.44812V7.26062H7.25C5.26943 7.26062 3.625 8.90505 3.625 10.8856V50.7606C3.625 52.7412 5.26943 54.3856 7.25 54.3856H29H50.75C52.7306 54.3856 54.375 52.7412 54.375 50.7606V10.8856C54.375 8.90505 52.7306 7.26062 50.75 7.26062H47.125V5.44812C47.125 4.96743 46.934 4.50644 46.5941 4.16654C46.2542 3.82664 45.7932 3.63567 45.3125 3.63562H36.25C33.2887 3.63562 30.6565 5.08162 29 7.29602C27.3435 5.08162 24.7113 3.63562 21.75 3.63562H12.6875ZM14.5 7.26062H21.75C24.7745 7.26062 27.1875 9.6736 27.1875 12.6981V45.5214C25.6552 44.336 23.8253 43.5106 21.75 43.5106H14.5V9.07312V7.26062ZM36.25 7.26062H43.5V9.07312V43.5106H36.25C34.1747 43.5106 32.3448 44.336 30.8125 45.5214V12.6981C30.8125 9.6736 33.2255 7.26062 36.25 7.26062ZM7.25 10.8856H10.875V45.3231C10.875 45.8038 11.066 46.2648 11.4059 46.6047C11.7458 46.9446 12.2068 47.1356 12.6875 47.1356H21.75C24.1364 47.1356 26.1359 48.641 26.876 50.7606H7.25V10.8856ZM47.125 10.8856H50.75V50.7606H31.124C31.8641 48.641 33.8636 47.1356 36.25 47.1356H45.3125C45.7932 47.1356 46.2542 46.9446 46.5941 46.6047C46.934 46.2648 47.125 45.8038 47.125 45.3231V10.8856Z"
-                              fill="white"
-                            />
-                          </svg>
+                      </div>
+                      <div class="div-rectagle-bottom">
+                        <div  class="rectagle gray">
+                          <img src="/images/doi-ngu-giang-vien.svg" style="transform: rotate(0);">
                           <div class="reg-content-w">
-                            <div class="reg-title">Giáo trình độc quyền</div>
-                            <div class="reg-content">
-                              Biên soạn bởi các chuyên gia. Các buổi học đề cao
-                              trải nghiệm cá nhân tính thực dụng của ngôn ngữ
-                            </div>
-                          </div>
-                        </div>
-                        <div class="rectangle23 rectangle">
-                          <svg
-                            preserveAspectRatio="none"
-                            viewBox="0 0 58 58"
-                            fill="none"
-                            xmlns="http://www.w3.org/2000/svg"
-                            class="svg-grid"
-                          >
-                            <path
-                              d="M30.3198 6.6726C29.5187 6.2824 28.5824 6.2824 27.7898 6.66818L7.94442 16.5465H50.1563L30.3198 6.6726ZM26.7652 4.58675C28.2081 3.88435 29.8934 3.88435 31.3446 4.59128L52.8443 15.293C54.639 16.1669 54.0175 18.8665 52.0209 18.8665H6.08026C4.08606 18.8665 3.46256 16.1725 5.25093 15.2956L26.7651 4.58675H26.7652ZM51.6201 51.4729V49.1529H6.38006V51.4729H51.6201ZM52.2001 53.7929H5.80006C4.83926 53.7929 4.06006 53.0137 4.06006 52.0529V48.5729C4.06006 47.6121 4.83926 46.8329 5.80006 46.8329H52.2001C53.1609 46.8329 53.9401 47.6121 53.9401 48.5729V52.0529C53.9401 53.0137 53.1609 53.7929 52.2001 53.7929ZM35.5443 30.6108C37.8849 31.419 39.4875 33.6303 39.4875 36.1472C39.4875 39.3815 36.8662 42.0029 33.6318 42.0029C31.4691 42.0029 29.5159 40.8217 28.4939 38.959C28.1857 38.3974 27.4806 38.1919 26.9189 38.5C26.3572 38.8082 26.1517 39.5133 26.4599 40.075C27.8854 42.673 30.6137 44.3229 33.6318 44.3229C38.1475 44.3229 41.8075 40.6629 41.8075 36.1472C41.8075 32.6334 39.5704 29.5466 36.3014 28.4179C35.6959 28.2088 35.0355 28.5302 34.8263 29.1358C34.6172 29.7413 34.9387 30.4017 35.5442 30.6109L35.5443 30.6108Z"
-                              fill="white"
-                            />
-                            <path
-                              d="M30.1836 28.6372C30.1836 25.4035 27.5617 22.7815 24.3279 22.7815C21.0942 22.7815 18.4723 25.4035 18.4723 28.6372C18.4723 31.8709 21.0942 34.4929 24.3279 34.4929C27.5617 34.4929 30.1836 31.8709 30.1836 28.6372ZM32.5036 28.6372C32.5036 33.1523 28.843 36.8129 24.3279 36.8129C19.8129 36.8129 16.1523 33.1523 16.1523 28.6372C16.1523 24.1222 19.8129 20.4615 24.3279 20.4615C28.843 20.4615 32.5036 24.1222 32.5036 28.6372ZM8.26172 17.7064V47.9928C8.26172 48.6335 8.78106 49.1528 9.42172 49.1528C10.0624 49.1528 10.5817 48.6335 10.5817 47.9928V17.7064C10.5817 17.0657 10.0624 16.5464 9.42172 16.5464C8.78106 16.5464 8.26172 17.0657 8.26172 17.7064ZM47.5083 17.7064V47.9928C47.5083 48.6335 48.0277 49.1528 48.6683 49.1528C49.309 49.1528 49.8283 48.6335 49.8283 47.9928V17.7064C49.8283 17.0657 49.309 16.5464 48.6683 16.5464C48.0277 16.5464 47.5083 17.0657 47.5083 17.7064Z"
-                              fill="white"
-                            />
-                          </svg>
-                          <div class="reg-content-w">
-                            <div class="reg-title">Cơ sở vật chất</div>
-                            <div class="reg-content">
-                              Hiện đại, các mối quan hệ và các dịch vụ tiện ích
-                              giúp khách hàng có những trải nghiệm khó quên
-                            </div>
-                          </div>
-                        </div>
-                        <!-- <div class="lightBulb14SvgrepoCom1">
-                        <LightBulb14SvgrepoCom1Icon class="icon2" />
-                      </div> -->
-                        <div class="rectangle4"></div>
-                        <div class="rectangle5"></div>
-                        <div class="rectangle6"></div>
-                        <div class="rectangle7"></div>
-                        <div class="rectangle8"></div>
-                        <div class="rectangle9"></div>
-                        <div class="rectangle10"></div>
-                        <!-- <div class="shakeHandsSvgrepoCom1">
-                        <ShakeHandsSvgrepoCom1Icon class="icon3" />
-                      </div>
-                      <div class="bookLibraryUiSvgrepoCom1">
-                        <BookLibraryUiSvgrepoCom1Icon class="icon4" />
-                      </div>
-                      <div class="serviceSvgrepoCom1">
-                        <ServiceSvgrepoCom1Icon class="icon5" />
-                      </div>
-                      <div class="bankFeeSvgrepoCom1">
-                        <BankFeeSvgrepoCom1Icon class="icon6" />
-                      </div>
-                      <div class="airplaneSvgrepoCom1">
-                        <AirplaneSvgrepoCom1Icon class="icon7" />
-                      </div> -->
-                        <!-- <div class="coChuyenMonCao3">Có chuyên môn cao ...</div>
-                      <div class="OiNguGiangVien3">Đội ngũ giảng viên</div>
-                      <div class="coChuyenMonCao4">Có chuyên môn cao ...</div>
-                      <div class="OiNguGiangVien4">Đội ngũ giảng viên</div>
-                      <div class="coChuyenMonCao5">Có chuyên môn cao ...</div>
-                      <div class="OiNguGiangVien5">Đội ngũ giảng viên</div>
-                      <div class="coChuyenMonCao6">Có chuyên môn cao ...</div>
-                      <div class="OiNguGiangVien6">Đội ngũ giảng viên</div>
-                      <div class="coChuyenMonCao7">Có chuyên môn cao ...</div>
-                      <div class="OiNguGiangVien7">Đội ngũ giảng viên</div> -->
-                      </div>
-                    </div>
-                    <div class="swiper-container" id="swiper-container-bes">
-                      <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                          <div class="item">
-                            <div class="number">
-                              <img
-                                class="lazy"
-                                src="/uploads/2021/09/Icon-2.png"
-                                alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
-                              />
-                            </div>
-                            <p class="name">Đội ngũ giảng viên</p>
+                            <div class="reg-title">Đội ngũ giảng viên</div>
                             <p class="excerpt">
                               Có chuyên môn cao đến từ nhiều quốc gia và là
                               chuyên gia trong nhiều lĩnh vực như giáo dục, công
@@ -628,16 +398,45 @@
                             </p>
                           </div>
                         </div>
-                        <div class="swiper-slide">
-                          <div class="item">
-                            <div class="number">
-                              <img
-                                class="lazy"
-                                src="/uploads/2021/10/Group-3277.png"
-                                alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
-                              />
-                            </div>
-                            <p class="name">Phương pháp giảng dạy</p>
+                        <div  class="rectagle brow">
+                          <img src="/images/gia-tri-cong-them.svg" alt="" srcset="">
+                          <div class="reg-content-w">
+                            <div class="reg-title">Giá trị cộng thêm</div>
+                            <p class="excerpt">
+                              BES thường xuyên tổ chức các buổi workshop,
+                              seminars, hoạt động ngoại khóa hay mời các chuyên
+                              gia chia sẻ về các <br/>chủ đề
+                            </p>
+                          </div>
+                        </div>
+                        <div  class="rectagle brow">
+                          <img src="/images/co-so-vat-chat.svg" alt="">
+                          <div class="reg-content-w">
+                            <div class="reg-title">Cơ sở vật chất</div>
+                            <p class="excerpt">
+                              Hiện đại, các mối quan hệ và các dịch vụ tiện ích
+                              giúp khách hàng có những trải nghiệm khó quên
+                            </p>
+                          </div>
+                        </div>
+                        <div  class="rectagle gray">
+                          <img src="/images/giao-trinh.svg" alt="">
+                          <div class="reg-content-w">
+                            <div class="reg-title">Giáo trình độc quyền</div>
+                            <p class="excerpt">
+                              Biên soạn bởi các chuyên gia. Các buổi học đề cao
+                              trải nghiệm cá nhân tính thực dụng của ngôn ngữ
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="box-div-rectangle rectangle-tablet">
+                      <div class="div-rectagle-top">
+                        <div class="rectagle gray">
+                          <img src="/images/light.svg">
+                          <div class="reg-content-w">
+                            <div class="reg-title">Phương pháp giảng dạy</div>
                             <p class="excerpt">
                               Tập trung vào mục tiêu con người học, không ngừng
                               tìm hiểu, điều chỉnh và hướng khách hàng tới thành
@@ -645,88 +444,153 @@
                             </p>
                           </div>
                         </div>
-                        <div class="swiper-slide">
-                          <div class="item">
-                            <div class="number">
-                              <img
-                                class="lazy"
-                                src="/uploads/2021/09/Icon-4.png"
-                                alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
-                              />
+                        <div  class="rectagle gray">
+                          <img src="/images/cham-soc-khach-hang.svg" alt="">
+                          <div class="reg-content-w">
+                            <div class="reg-title">
+                              Chăm sóc khách hàng
                             </div>
-                            <p class="name">Giá trị cộng thêm</p>
+                            <p class="excerpt">
+                              Thường xuyên hỗ trợ, cập nhật thông tin, giải đáp
+                              thắc mắc cùng với app tích hợp tiện ích như
+                              booking báo cáo đánh giá
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="div-rectagle-bottom">
+                        <div  class="rectagle brow">
+                          <img src="/images/doi-ngu-giang-vien.svg" style="transform: rotate(0);">
+                          <div class="reg-content-w">
+                            <div class="reg-title">Đội ngũ giảng viên</div>
+                            <p class="excerpt">
+                              Có chuyên môn cao đến từ nhiều quốc gia và là
+                              chuyên gia trong nhiều lĩnh vực như giáo dục, công
+                              nghệ
+                            </p>
+                          </div>
+                        </div>
+                        <div  class="rectagle brow">
+                          <img src="/images/gia-tri-cong-them.svg" alt="" srcset="">
+                          <div class="reg-content-w">
+                            <div class="reg-title">Giá trị cộng thêm</div>
                             <p class="excerpt">
                               BES thường xuyên tổ chức các buổi workshop,
                               seminars, hoạt động ngoại khóa hay mời các chuyên
-                              gia chia sẻ về các chủ đề
+                              gia chia sẻ về các <br/>chủ đề
                             </p>
                           </div>
                         </div>
-                        <div class="swiper-slide">
-                          <div class="item">
-                            <div class="number">
-                              <img
-                                class="lazy"
-                                src="/uploads/2021/09/Property-1Icon4.png"
-                                alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
-                              />
-                            </div>
-                            <p class="name">Giáo trình độc quyền</p>
-                            <p class="excerpt">
-                              Biên soạn bởi các chuyên gia. Các buổi học đề cao
-                              trải nghiệm cá nhân tính thực dụng của ngôn ngữ
-                            </p>
-                          </div>
-                        </div>
-                        <div class="swiper-slide">
-                          <div class="item">
-                            <div class="number">
-                              <img
-                                class="lazy"
-                                src="/uploads/2021/09/Icon-6.png"
-                                alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
-                              />
-                            </div>
-                            <p class="name">Cơ sở vật chất</p>
+                        <div  class="rectagle brow">
+                          <img src="/images/co-so-vat-chat.svg" alt="">
+                          <div class="reg-content-w">
+                            <div class="reg-title">Cơ sở vật chất</div>
                             <p class="excerpt">
                               Hiện đại, các mối quan hệ và các dịch vụ tiện ích
                               giúp khách hàng có những trải nghiệm khó quên
                             </p>
                           </div>
                         </div>
-                        <div class="swiper-slide">
-                          <div class="item">
-                            <div class="number">
-                              <img
-                                class="lazy"
-                                src="/uploads/2021/09/Property-1Icon-3.png"
-                                alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
-                              />
-                            </div>
-                            <p class="name">Trải nghiệm thực tế</p>
+                      </div>
+                      <div class="div-rectagle-center div-rectagle-bottom">
+                        <div  class="rectagle gray">
+                          <img src="/images/trai-nghiem-thuc-te.svg" alt="">
+                          <div class="reg-content-w">
+                            <div class="reg-title">Trải nghiệm thực tế</div>
                             <p class="excerpt">
                               Bằng các study tour ngắn ngày hoặc chuyến đi khám
                               phá tới các quốc gia như Philipines, Singapore,...
                             </p>
                           </div>
                         </div>
+                        <div  class="rectagle gray">
+                          <img src="/images/giao-trinh.svg" alt="">
+                          <div class="reg-content-w">
+                            <div class="reg-title">Giáo trình độc quyền</div>
+                            <p class="excerpt">
+                              Biên soạn bởi các chuyên gia. Các buổi học đề cao
+                              trải nghiệm cá nhân tính thực dụng của ngôn ngữ
+                            </p>
+                          </div>
+                        </div>
                       </div>
                     </div>
-                    <div class="swiper_def _center" id="swiper_def-bes">
-                      <div class="swiper-button-prev swiper-button">
-                        <img
-                          class="lazy"
-                          src="/images/common/arr-prev.png"
-                          alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
-                        />
-                      </div>
-                      <div class="swiper-pagination pagination-slide"></div>
-                      <div class="swiper-button-next swiper-button">
-                        <img
-                          class="lazy"
-                          src="/images/common/arr-next.png"
-                          alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
-                        />
+                    <div class="box-div-rectangle rectangle-mobile">
+                        <div class="rectagle brow">
+                          <img src="/images/light.svg">
+                          <div class="reg-content-w">
+                            <div class="reg-title">Phương pháp giảng dạy</div>
+                            <p class="excerpt">
+                              Tập trung vào mục tiêu con người học, không ngừng
+                              tìm hiểu, điều chỉnh và hướng khách hàng tới thành
+                              công
+                            </p>
+                          </div>
+                        </div>
+                        <div  class="rectagle gray">
+                          <img src="/images/cham-soc-khach-hang.svg" alt="">
+                          <div class="reg-content-w">
+                            <div class="reg-title">
+                              Chăm sóc khách hàng
+                            </div>
+                            <p class="excerpt">
+                              Thường xuyên hỗ trợ, cập nhật thông tin, giải đáp
+                              thắc mắc cùng với app tích hợp tiện ích như
+                              booking báo cáo đánh giá
+                            </p>
+                          </div>
+                        </div>
+                        <div  class="rectagle brow">
+                          <img src="/images/trai-nghiem-thuc-te.svg" alt="">
+                          <div class="reg-content-w">
+                            <div class="reg-title">Trải nghiệm thực tế</div>
+                            <p class="excerpt">
+                              Bằng các study tour ngắn ngày hoặc chuyến đi khám
+                              phá tới các quốc gia như Philipines, Singapore,...
+                            </p>
+                          </div>
+                        </div>
+                        <div  class="rectagle gray">
+                          <img src="/images/doi-ngu-giang-vien.svg" style="transform: rotate(0);">
+                          <div class="reg-content-w">
+                            <div class="reg-title">Đội ngũ giảng viên</div>
+                            <p class="excerpt">
+                              Có chuyên môn cao đến từ nhiều quốc gia và là
+                              chuyên gia trong nhiều lĩnh vực như giáo dục, công
+                              nghệ
+                            </p>
+                          </div>
+                        </div>
+                        <div  class="rectagle brow">
+                          <img src="/images/gia-tri-cong-them.svg" alt="" srcset="">
+                          <div class="reg-content-w">
+                            <div class="reg-title">Giá trị cộng thêm</div>
+                            <p class="excerpt">
+                              BES thường xuyên tổ chức các buổi workshop,
+                              seminars, hoạt động ngoại khóa hay mời các chuyên
+                              gia chia sẻ về các <br/>chủ đề
+                            </p>
+                          </div>
+                        </div>
+                        <div  class="rectagle gray">
+                          <img src="/images/co-so-vat-chat.svg" alt="">
+                          <div class="reg-content-w">
+                            <div class="reg-title">Cơ sở vật chất</div>
+                            <p class="excerpt">
+                              Hiện đại, các mối quan hệ và các dịch vụ tiện ích
+                              giúp khách hàng có những trải nghiệm khó quên
+                            </p>
+                          </div>
+                        </div>
+                        <div  class="rectagle brow">
+                          <img src="/images/giao-trinh.svg" alt="">
+                          <div class="reg-content-w">
+                            <div class="reg-title">Giáo trình độc quyền</div>
+                            <p class="excerpt">
+                              Biên soạn bởi các chuyên gia. Các buổi học đề cao
+                              trải nghiệm cá nhân tính thực dụng của ngôn ngữ
+                            </p>
+                          </div>
                       </div>
                     </div>
                   </div>
