@@ -1381,17 +1381,8 @@
                     v-bind="slickOptions2"
                     style="margin-top: 50px"
                   >
-                    <div class="w-review-item">
-                      <review-item />
-                    </div>
-                    <div class="w-review-item">
-                      <review-item />
-                    </div>
-                    <div class="w-review-item">
-                      <review-item />
-                    </div>
-                    <div class="w-review-item">
-                      <review-item />
+                    <div class="w-review-item" v-for="review in reviews" >
+                      <review-item :review="review"/>
                     </div>
                   </VueSlickCarousel>
                   <!-- </div> -->
@@ -2239,9 +2230,20 @@ import FooterSite from "@/components/Footer.vue";
 import decor5 from "@/components/decor5.vue";
 import ReviewItem from "@/components/reviewItem.vue";
 import VueSlickCarousel from "vue-slick-carousel";
+
+const reviews = [
+  { 
+    name: "Mr. Văn Đình Sơn",
+    role: "CEO Sơn An Holding",
+    message: `Ngoài các giờ học trong tuần, BES còn tổ chức các khung cố vấn ngoài giờ hay các buổi hội thảo, workshop để mọi người được
+    gặp và giao lưu về các chủ đề và lĩnh vực khác nhau rất bổ ích và thúc vị.`,
+    avt: "/images/reviews/nguyen_tho.jpg"
+  }
+]
 export default {
   data() {
     return {
+      reviews: reviews,
       slickOptions: {
         arrows: false,
         centerMode: true,
