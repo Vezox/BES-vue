@@ -9,11 +9,11 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'BES ra đời với mục tiêu tạo nên một môi trường giúp cho doanh nhân Việt Nam được nâng cao năng lực bản thân cũng như phát triển thêm các mối quan hệ trong xã hội.' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/images/logo.png' }
     ],
     script: [
       {
