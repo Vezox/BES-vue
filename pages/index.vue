@@ -2187,9 +2187,9 @@
                       <a href="#" class="a-link-brand"
                         ><img src="/images/brands/b3.svg" alt=""
                       /></a>
-                      <a href="#" class="a-link-brand"
-                        ><img src="/images/brands/b4.svg" alt=""
-                      /></a>
+                      <a href="#" class="a-link-brand">
+                        <img src="/images/brands/b4.svg" alt=""/>
+                    </a>
                       <a href="#" class="a-link-brand"
                         ><img src="/images/brands/b5.svg" alt=""
                       /></a>
@@ -2237,7 +2237,108 @@ const reviews = [
     role: "CEO Sơn An Holding",
     message: `Ngoài các giờ học trong tuần, BES còn tổ chức các khung cố vấn ngoài giờ hay các buổi hội thảo, workshop để mọi người được
     gặp và giao lưu về các chủ đề và lĩnh vực khác nhau rất bổ ích và thúc vị.`,
-    avt: "/images/reviews/nguyen_tho.jpg"
+    avt: "/images/reviews/van_dinh_son.jpg"
+  },
+  {
+    name: "Mr. Đức Anh",
+    role: "Phát thanh viên đài NTV",
+    message: `Ở BES mình được lựa chọn lịch học phù hợp với lịch trình và công việc riêng của mình. Các bạn nhân viên cũng thường xuyên
+    nhắc nhở lịch học và hỗ trợ nhiệt tình`,
+    avt: "/images/reviews/duc_anh.jpg"
+  },
+  {
+    name: "Mr. Nguyễn Trung Kiên",
+    role: "CEO Công ty CPTM Công nghệ Xanh",
+    message: `Không gian của BES vừa tiện nghi, vừa hiện đại phục vụ được cho việc học nhóm cũng thích hợp để có thể tự học 
+    hay gặp gỡ bạn bè, nên dù không có giờ học mình vẫn thích đến đây để làm việc và gặp gỡ bạn bè`,
+    avt: "/images/reviews/nguyen_trung_kien.jpg"
+  },
+  {
+    name: "Mrs. Quách Thanh Hạnh",
+    role: "Trưởng phòng HCNS SGD Bảo Việt Bank",
+    message: `Công việc bận rộn nên dù tôi ấp ủ mong muốn nâng cao trình độ tiếng anh đã lâu nhưng vẫn chưa sắp xếp được công việc. Nhưng
+    nhờ BES mà công việc học trở nên linh hoạt và dễ dành hơn rất nhiều.`,
+    avt: "/images/reviews/quach_thanh_hanh.jpg"
+  },
+  {
+    name: "Mrs. Bùi Thị Hải Yến",
+    role: "IDP Education Consultant",
+    message: `Ở Vinh đang thiếu một môi trường để người đi làm như tôi có thể sử dụng và nâng cao trình độ tiếng Anh. Và BES đã giúp tôi
+    thực hiện điều đó. Ngoài việc được sử dụng tiếng Anh, tôi cũng rất vui vì đã làm quen được nhiều bạn bè mới ở đây.`,
+    avt: "/images/reviews/bui_thi_hai_yen.jpg"
+  },
+  {
+    name: "Mrs. Nguyễn Hồng Lê",
+    role: "Giám đốc Ngân Hàng Vietbank",
+    message: `Lịch học của BES khá linh hoạt và có nhiều khung giờ để lựa chọn. Gíao viên cũng như các bạn nhân viên đều rất nhiệt tình giúp đỡ và 
+    hướng dẫn. Một môi trường thích hợp để học tập và nâng cao bản thân`,
+    avt: "/images/reviews/nguyen_hong_le.jpg"
+  },
+  {
+    name: "Mr. Trần Hoàng Em",
+    role: "Cán bộ tổ chức sự kiện - ĐH Đông Á",
+    message: `Giáo viên ở BES đều rất thân thiện và có nhiều kiến thức ở nhiều lĩnh vực khác nhau. Nên ngoài việc nâng cao trình độ tiếng Anh mình còn được giao lưu và trao đổi thêm nhiều kiến thức ở đa lĩnh vực`,
+    avt: "/images/reviews/tran_hoang_em.jpg",
+  },
+  {
+    name: "Mr. Lương Ngọc Dương",
+    role: "Gíao viên Vinschool",
+    message: `Phương pháp học tập của BES luôn lấy mục tiêu học tập của khách hàng làm trung tâm giúp mình biết phải làm gì và tập trung vào đâu. 
+    Do đó, rất nhanh đạt được hiệu quả mà mình mong muốn`,
+    avt: "/images/reviews/luong_ngoc_duong.jpg"
+  }, 
+  {
+    name: "Ths. Nguyễn Việt Hùng",
+    role: "CEO IRC - Trung tâm phục hồi chấn thương Thể Thao VN",
+    message: `Mình thât trân trọng khi đội ngũ BES đang không ngừng nâng cao chất lượng đào tạo và trải nghiệm khách hàng một cách toàn diện
+    nhất khiến mỗi lần đến đây mình đều có những trải nghiệm hài lòng và vui vẻ.`,
+    avt: "/images/reviews/nguyen_viet_hung.jpg"
+  },
+  {
+    name: "ThS. Bác sĩ. Vũ Hồng Sơn",
+    role: "Trưởng Khoa Nhiễm Khuẩn BV Đa Khoa Thành phố Vinh",
+    message: `Phương pháp học tập của BES không đi theo lối mòn trải nghiệm học tập của mình khá vui vẻ và dễ hiểu. Điều này khiến cho con đường
+    chinh phục môn ngoại ngữ này dễ dàng và hiệu quả hơn.`,
+    avt: "/images/reviews/vu_hong_son.jpg"
+  },
+  {
+    name: "Ths. Nguyễn Xuân Tài",
+    role: "Phó Tổng giám đốc Bệnh Viện Đa Khoa Cửa Đông",
+    message: `BES có nhiều chương trình phù hợp với nhiều trình độ. Các giáo viên luôn nhiệt tình gíup đỡ nên việc học tiếng Anh trở nên dễ
+    dàng hơn rất nhiều.`,
+    avt: "/images/reviews/nguyen_xuan_tai.jpg"
+  },
+  {
+    name: "Mr. Trần Văn Dương",
+    role: "Gíam đốc Công ty CP Thiết kế Đầu tư & Xây dựng HHD (SG)",
+    message: `Cơ sở vật chất hiện đại và tiện nghi giúp nâng cao trải nghiệm học tập tại BES. Ngoài ra, mọi người ở đây đều rât thân thiện
+    và nhiệt tình giúp đỡ nên mình cảm thấy rất thoải mái khi học tập tại đây.`,
+    avt: "/images/reviews/tran_van_duong.jpg"
+  }, 
+  {
+    name: "Mr. Vũ Duy Đông",
+    role: "Thuyền phó tàu Viễn Dương tâp đoàn dầu khí Việt Nam",
+    message: `Học tiếng Anh chưa bao giờ dễ dàng với tôi đến vậy. Giáo viên chất lựợng, chương tình học phù hợp, nhân viên nhiệt tình,
+    môi trường học tập thoải mái, mọi thứ tạo nên BES.`,
+    avt: "/images/riviews/vu_duy_dong.jpg"
+  },
+  {
+    name: "Mr.Nguyễn Đức Thành",
+    role: "CEO Mindplus+ - Đơn vị đào tạo Boki duy nhất bằng tiếng Việt",
+    message: "Không chỉ học tiếng Anh giao tiếp, ở BES có những giáo viên, chuyên gia ở nhiều lĩnh vực khác nhau nên học tập ở đay rất vui vẻ và hữu ích",
+    avt:  "/images/riviews/nguyen_duc_thanh.jpg"
+  },
+  {
+    name: "Mr.Bùi Anh Tú",
+    role: "Tiếp viên trưởng hãng hàng không Vietjet Air",
+    message: "BES là một môi trường thích hợp cho những người đi làm muốn nâng cao trình độ tiếng Anh cũng như mở rộng các mối quan hệ trong xã hội. Cho nên, tôi thường giới thiệu các bạn bè mình tới đây để học tập",
+    avt:  "/images/riviews/bui_anh_tu.jpg"
+  },
+  {
+    name: "Bác sĩ. Nguyễn Thọ",
+    role: "Viện IAD Đà Nẵng - Nghiên cứu Quốc tế về Trí tuệ nhân tạo và Khoa học dữ liệu",
+    message: "Học tập nâng cao kiến thức bản thân luôn là ưu tiên hàng đầu của tôi. Tôi chọn BES vì giáo trình, giáo viên hay chương trình học ở đây luôn dược đầu tư kỹ càng và chất lượng.",
+    avt:  "/images/riviews/nguyen_tho.jpg"
   }
 ]
 export default {
