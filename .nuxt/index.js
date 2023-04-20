@@ -12,10 +12,10 @@ import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_79ca05c5 from 'nuxt_plugin_plugin_79ca05c5' // Source: ./components/plugin.js (mode: 'all')
-import nuxt_plugin_pluginutils_21764180 from 'nuxt_plugin_pluginutils_21764180' // Source: ./nuxt-i18n/plugin.utils.js (mode: 'all')
-import nuxt_plugin_pluginrouting_30eac6ea from 'nuxt_plugin_pluginrouting_30eac6ea' // Source: ./nuxt-i18n/plugin.routing.js (mode: 'all')
-import nuxt_plugin_pluginmain_16cf92c4 from 'nuxt_plugin_pluginmain_16cf92c4' // Source: ./nuxt-i18n/plugin.main.js (mode: 'all')
+import nuxt_plugin_plugin_08435c63 from 'nuxt_plugin_plugin_08435c63' // Source: ./components/plugin.js (mode: 'all')
+import nuxt_plugin_pluginutils_52cefb62 from 'nuxt_plugin_pluginutils_52cefb62' // Source: ./nuxt-i18n/plugin.utils.js (mode: 'all')
+import nuxt_plugin_pluginrouting_de038fa6 from 'nuxt_plugin_pluginrouting_de038fa6' // Source: ./nuxt-i18n/plugin.routing.js (mode: 'all')
+import nuxt_plugin_pluginmain_f53f2b3c from 'nuxt_plugin_pluginmain_f53f2b3c' // Source: ./nuxt-i18n/plugin.main.js (mode: 'all')
 import nuxt_plugin_antdui_2b2dca90 from 'nuxt_plugin_antdui_2b2dca90' // Source: ../plugins/antd-ui (mode: 'all')
 import nuxt_plugin_vuestackgrid_3ff1a708 from 'nuxt_plugin_vuestackgrid_3ff1a708' // Source: ../plugins/vue-stack-grid (mode: 'client')
 
@@ -183,20 +183,20 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_79ca05c5 === 'function') {
-    await nuxt_plugin_plugin_79ca05c5(app.context, inject)
+  if (typeof nuxt_plugin_plugin_08435c63 === 'function') {
+    await nuxt_plugin_plugin_08435c63(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_pluginutils_21764180 === 'function') {
-    await nuxt_plugin_pluginutils_21764180(app.context, inject)
+  if (typeof nuxt_plugin_pluginutils_52cefb62 === 'function') {
+    await nuxt_plugin_pluginutils_52cefb62(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_pluginrouting_30eac6ea === 'function') {
-    await nuxt_plugin_pluginrouting_30eac6ea(app.context, inject)
+  if (typeof nuxt_plugin_pluginrouting_de038fa6 === 'function') {
+    await nuxt_plugin_pluginrouting_de038fa6(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_pluginmain_16cf92c4 === 'function') {
-    await nuxt_plugin_pluginmain_16cf92c4(app.context, inject)
+  if (typeof nuxt_plugin_pluginmain_f53f2b3c === 'function') {
+    await nuxt_plugin_pluginmain_f53f2b3c(app.context, inject)
   }
 
   if (typeof nuxt_plugin_antdui_2b2dca90 === 'function') {

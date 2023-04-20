@@ -1366,8 +1366,8 @@
               </div>
             </section>
             <section class="h_section4 container" id="h_section4">
-              <div class="container_common">
-                <div class="content_common">
+              <div class="container_common" >
+                <div class="content_common" style="padding: 64px 0px 100px">
                   <div class="label_def _white">
                     <img
                       class="lazy"
@@ -2320,25 +2320,25 @@ const reviews = [
     role: "Thuyền phó tàu Viễn Dương tâp đoàn dầu khí Việt Nam",
     message: `Học tiếng Anh chưa bao giờ dễ dàng với tôi đến vậy. Giáo viên chất lựợng, chương tình học phù hợp, nhân viên nhiệt tình,
     môi trường học tập thoải mái, mọi thứ tạo nên BES.`,
-    avt: "/images/riviews/vu_duy_dong.jpg"
+    avt: "/images/reviews/vu_duy_dong.jpg"
   },
   {
     name: "Mr.Nguyễn Đức Thành",
     role: "CEO Mindplus+ - Đơn vị đào tạo Boki duy nhất bằng tiếng Việt",
     message: "Không chỉ học tiếng Anh giao tiếp, ở BES có những giáo viên, chuyên gia ở nhiều lĩnh vực khác nhau nên học tập ở đay rất vui vẻ và hữu ích",
-    avt:  "/images/riviews/nguyen_duc_thanh.jpg"
+    avt:  "/images/reviews/nguyen_duc_thanh.jpg"
   },
   {
     name: "Mr.Bùi Anh Tú",
     role: "Tiếp viên trưởng hãng hàng không Vietjet Air",
     message: "BES là một môi trường thích hợp cho những người đi làm muốn nâng cao trình độ tiếng Anh cũng như mở rộng các mối quan hệ trong xã hội. Cho nên, tôi thường giới thiệu các bạn bè mình tới đây để học tập",
-    avt:  "/images/riviews/bui_anh_tu.jpg"
+    avt:  "/images/reviews/bui_anh_tu.jpg"
   },
   {
     name: "Bác sĩ. Nguyễn Thọ",
     role: "Viện IAD Đà Nẵng - Nghiên cứu Quốc tế về Trí tuệ nhân tạo và Khoa học dữ liệu",
     message: "Học tập nâng cao kiến thức bản thân luôn là ưu tiên hàng đầu của tôi. Tôi chọn BES vì giáo trình, giáo viên hay chương trình học ở đây luôn dược đầu tư kỹ càng và chất lượng.",
-    avt:  "/images/riviews/nguyen_tho.jpg"
+    avt:  "/images/reviews/nguyen_tho.jpg"
   }
 ]
 export default {

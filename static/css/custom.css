@@ -1036,7 +1036,7 @@ p {
 }
 
 .review-name {
-  font-size: 38px;
+  font-size: 2.8em;
   color: #fff;
   width: 100%;
   padding-left: 40px;
@@ -1060,15 +1060,15 @@ p {
 }
 
 .review-message {
-  padding: 24px 10px;
+  padding: 1.7em 0.7em;
   background-color: #61422e94;
   color: #fff;
-  margin-top: 80px;
-  border-radius: 16px;
-  margin-left: 16px;
+  margin-top: 5.7em;
+  border-radius: 1.14em;
+  margin-left: 1.14em;
   position: relative;
-  margin-right: 16px;
-  max-width: calc(100% - 212px);
+  margin-right: 1.14em;
+  max-width: calc(100% - 15em );
 }
 
 .review-message>.review__m {
@@ -1096,7 +1096,7 @@ p {
   border-radius: 50%;
   z-index: 9;
   user-select: none;
-
+  object-fit: cover;
 }
 
 .quote-top,

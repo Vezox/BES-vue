@@ -13,17 +13,34 @@ export default {
 </script>
 
 <template>
-  <div class="review-item">
-    <span class="review-name">{{ review.name }}</span>
-    <div class="review-row">
-      <div class="review-role">{{ review.role }}</div>
-      <div class="review-message">
-        <div class="review__m">
-          {{ review.message }}
+  <div
+    class="review-item">
+    <span
+      class="review-name">{{
+        review.name
+      }}</span>
+    <div
+      class="review-row">
+      <div
+        class="review-role">
+        {{
+          review.role
+        }}
+      </div>
+      <div
+        class="review-message">
+        <div
+          class="review__m">
+          {{
+            review.message
+          }}
         </div>
       </div>
-      <div class="review-avt">
-        <img :src="review.avt" alt="" />
+      <div
+        class="review-avt">
+        <img
+          :src="review.avt"
+          alt="" />
       </div>
     </div>
   </div>
@@ -32,32 +49,99 @@ export default {
 <style>
 .review-item {
   background-image: linear-gradient(to right, black, #cf8e2e);
-  width: 600px;
+  width: 620px;
+  height: 380px;
+  font-size: 14px;
 }
 
 .review-name {
-  color: rgba(0, 0, 0, 0.5);
+  color: #000;
   text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff,
     1px 1px 0 #fff;
 }
 
 .review-role {
   font-weight: 700;
-    font-family: 'AvenirLTStd-Heavy.ttf';;
+  font-family: 'AvenirLTStd-Heavy.ttf';
+  ;
+  padding-right: 1.7em;
 }
 
 .review-role,
 .review-message {
   background-image: linear-gradient(to right, #000, #cf8e2e);
-  max-width: 340px;
-  width: 340px;
-  padding-left: 40px;
+  max-width: 26em;
+  width: 26em;
+  padding-left: 2.8em;
   margin-left: 0;
   margin-right: 0;
+  font-size: 1em;
+  line-height: 1.6;
+}
+
+.review-avt {
+  width: 17em;
+  height: 17em;
 }
 
 .review-message {
-  margin-top: 72px;
-  margin-bottom: 12px;
+  margin-top: 5em;
+  margin-bottom: 0.85em;
 }
-</style>
+
+@media screen and (max-width: 1400px) and (min-width: 1160px) {
+  .review-item {
+    font-size: 12px;
+    width: 520px;
+    height: 320px;
+  }
+}
+
+@media screen and (max-width: 1160px) and (min-width: 1024px) {
+  .review-item {
+    font-size: 11px;
+    width: 470px;
+    height: 290px;
+  }
+}
+
+@media screen and (max-width: 740px) and (min-width: 0px) {
+  .review-item {
+    font-size: 11px;
+    width: 240px;
+    height: 360px;
+  }
+
+  .review-name {
+    font-size: 1.6em;
+  }
+
+  .review-role,
+  .review-message {
+    background-image: linear-gradient(to right, #000, #cf8e2e);
+    max-width: 13em;
+    width: 13em;
+    padding-left: 2em;
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 1em;
+    line-height: 1.6;
+  }
+  
+  .review-role {
+  padding-right: 1em;
+  }
+
+  .review-avt {
+    padding: 0;
+  }
+
+  .review-message {
+    margin-top: 8em;
+  }
+
+  .review-avt {
+    width: 8em;
+    height: 8em;
+  }
+}</style>
