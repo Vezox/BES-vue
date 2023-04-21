@@ -12,10 +12,10 @@ import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_08435c63 from 'nuxt_plugin_plugin_08435c63' // Source: ./components/plugin.js (mode: 'all')
-import nuxt_plugin_pluginutils_52cefb62 from 'nuxt_plugin_pluginutils_52cefb62' // Source: ./nuxt-i18n/plugin.utils.js (mode: 'all')
-import nuxt_plugin_pluginrouting_de038fa6 from 'nuxt_plugin_pluginrouting_de038fa6' // Source: ./nuxt-i18n/plugin.routing.js (mode: 'all')
-import nuxt_plugin_pluginmain_f53f2b3c from 'nuxt_plugin_pluginmain_f53f2b3c' // Source: ./nuxt-i18n/plugin.main.js (mode: 'all')
+import nuxt_plugin_plugin_e201732a from 'nuxt_plugin_plugin_e201732a' // Source: ./components/plugin.js (mode: 'all')
+import nuxt_plugin_pluginutils_249c165a from 'nuxt_plugin_pluginutils_249c165a' // Source: ./nuxt-i18n/plugin.utils.js (mode: 'all')
+import nuxt_plugin_pluginrouting_23f07525 from 'nuxt_plugin_pluginrouting_23f07525' // Source: ./nuxt-i18n/plugin.routing.js (mode: 'all')
+import nuxt_plugin_pluginmain_1888106a from 'nuxt_plugin_pluginmain_1888106a' // Source: ./nuxt-i18n/plugin.main.js (mode: 'all')
 import nuxt_plugin_antdui_2b2dca90 from 'nuxt_plugin_antdui_2b2dca90' // Source: ../plugins/antd-ui (mode: 'all')
 import nuxt_plugin_vuestackgrid_3ff1a708 from 'nuxt_plugin_vuestackgrid_3ff1a708' // Source: ../plugins/vue-stack-grid (mode: 'client')
 
@@ -68,7 +68,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"title":"BES-web","htmlAttrs":{"lang":"en"},"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"BES ra đời với mục tiêu tạo nên một môi trường giúp cho doanh nhân Việt Nam được nâng cao năng lực bản thân cũng như phát triển thêm các mối quan hệ trong xã hội."},{"name":"format-detection","content":"telephone=no"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Fimages\u002Flogo.png"}],"script":[{"src":"\u002Fjs\u002Fjquery\u002Fjquery.min.js","type":"text\u002Fjavascript"},{"src":"\u002Fjs\u002Fjquery\u002Fjquery-migrate.min.js","type":"text\u002Fjavascript"},{"src":"\u002Fjs\u002Faos.js","type":"text\u002Fjavascript","ssr":true},{"src":"\u002Fjs\u002Fswiper.min.js","type":"text\u002Fjavascript"},{"src":"\u002Fjs\u002Fscripts\u002Fform-validation.js","type":"text\u002Fjavascript"},{"src":"\u002Fjs\u002Fscripts\u002Fhome.min.js","type":"text\u002Fjavascript"},{"src":"\u002Fjs\u002Fscripts\u002Fscripts.js","type":"text\u002Fjavascript"},{"src":"\u002Fjs\u002Fscripts\u002Ftabs.min.js","type":"text\u002Fjavascript"}],"style":[]},
+    head: {"title":"BES-web","htmlAttrs":{"lang":"en"},"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"BES ra đời với mục tiêu tạo nên một môi trường giúp cho doanh nhân Việt Nam được nâng cao năng lực bản thân cũng như phát triển thêm các mối quan hệ trong xã hội."},{"name":"format-detection","content":"telephone=no"},{"name":"keywords","content":"bes, cộng đồng học tiếng anh, doanh nhân việt nam, giảm giá, ưu đãi, tiếng anh ưu đãi, sale"},{"property":"og:title","content":"Cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"},{"property":"og:image","content":"\u002Fimages\u002Flogo-meta.png"},{"property":"og:url","content":"http:\u002F\u002Fbesgroup.asia\u002F"},{"property":"og:site_name","content":"Cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"},{"property":"og:description","content":"BES ra đời với mục tiêu tạo nên một môi trường giúp cho doanh nhân Việt Nam được nâng cao năng lực bản thân cũng như phát triển thêm các mối quan hệ trong xã hội."}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Fimages\u002Flogo-meta.png"}],"script":[{"src":"\u002Fjs\u002Fjquery\u002Fjquery.min.js","type":"text\u002Fjavascript"},{"src":"\u002Fjs\u002Fjquery\u002Fjquery-migrate.min.js","type":"text\u002Fjavascript"},{"src":"\u002Fjs\u002Faos.js","type":"text\u002Fjavascript","ssr":true},{"src":"\u002Fjs\u002Fswiper.min.js","type":"text\u002Fjavascript"},{"src":"\u002Fjs\u002Fscripts\u002Fform-validation.js","type":"text\u002Fjavascript"},{"src":"\u002Fjs\u002Fscripts\u002Fhome.min.js","type":"text\u002Fjavascript"},{"src":"\u002Fjs\u002Fscripts\u002Fscripts.js","type":"text\u002Fjavascript"},{"src":"\u002Fjs\u002Fscripts\u002Ftabs.min.js","type":"text\u002Fjavascript"}],"style":[]},
 
     router,
     nuxt: {
@@ -183,20 +183,20 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_08435c63 === 'function') {
-    await nuxt_plugin_plugin_08435c63(app.context, inject)
+  if (typeof nuxt_plugin_plugin_e201732a === 'function') {
+    await nuxt_plugin_plugin_e201732a(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_pluginutils_52cefb62 === 'function') {
-    await nuxt_plugin_pluginutils_52cefb62(app.context, inject)
+  if (typeof nuxt_plugin_pluginutils_249c165a === 'function') {
+    await nuxt_plugin_pluginutils_249c165a(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_pluginrouting_de038fa6 === 'function') {
-    await nuxt_plugin_pluginrouting_de038fa6(app.context, inject)
+  if (typeof nuxt_plugin_pluginrouting_23f07525 === 'function') {
+    await nuxt_plugin_pluginrouting_23f07525(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_pluginmain_f53f2b3c === 'function') {
-    await nuxt_plugin_pluginmain_f53f2b3c(app.context, inject)
+  if (typeof nuxt_plugin_pluginmain_1888106a === 'function') {
+    await nuxt_plugin_pluginmain_1888106a(app.context, inject)
   }
 
   if (typeof nuxt_plugin_antdui_2b2dca90 === 'function') {

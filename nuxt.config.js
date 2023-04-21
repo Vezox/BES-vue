@@ -2,7 +2,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'BES-web',
+    title: 'BES',
     htmlAttrs: {
       lang: 'en'
     },
@@ -10,10 +10,16 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'BES ra đời với mục tiêu tạo nên một môi trường giúp cho doanh nhân Việt Nam được nâng cao năng lực bản thân cũng như phát triển thêm các mối quan hệ trong xã hội.' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { name: 'format-detection', content: 'telephone=no' },
+      { name: 'keywords', content: 'bes, cộng đồng học tiếng anh, doanh nhân việt nam, giảm giá, ưu đãi, tiếng anh ưu đãi, sale' },
+      { property: "og:title", content: "Cộng đồng học tiếng anh dành cho doanh nhân Việt Nam" },
+      { property: "og:image", content: "/images/logo-meta.png" },
+      { property: "og:url", content: "http://besgroup.asia/" },
+      { property: "og:site_name", content: "Cộng đồng học tiếng anh dành cho doanh nhân Việt Nam" },
+      { property: "og:description", content: "BES ra đời với mục tiêu tạo nên một môi trường giúp cho doanh nhân Việt Nam được nâng cao năng lực bản thân cũng như phát triển thêm các mối quan hệ trong xã hội." },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/images/logo.png' }
+      { rel: 'icon', type: 'image/x-icon', href: '/images/logo-meta.png' }
     ],
     script: [
       {
