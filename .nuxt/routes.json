@@ -3,156 +3,182 @@
     "name": "app___en",
     "path": "/app",
     "component": "/Users/macos/Freelance/BES-vue/pages/app.vue",
-    "chunkName": "pages/app"
+    "chunkName": "pages/app",
+    "_name": "_99699ee8"
   },
   {
     "name": "gioi-thieu___en",
     "path": "/gioi-thieu",
     "component": "/Users/macos/Freelance/BES-vue/pages/gioi-thieu.vue",
-    "chunkName": "pages/gioi-thieu"
+    "chunkName": "pages/gioi-thieu",
+    "_name": "_ef7d040e"
   },
   {
     "name": "he-thong-nhuong-quyen___en",
     "path": "/he-thong-nhuong-quyen",
     "component": "/Users/macos/Freelance/BES-vue/pages/he-thong-nhuong-quyen.vue",
-    "chunkName": "pages/he-thong-nhuong-quyen"
+    "chunkName": "pages/he-thong-nhuong-quyen",
+    "_name": "_63f4a032"
   },
   {
     "name": "khoa-hoc-class___en",
     "path": "/khoa-hoc-class",
     "component": "/Users/macos/Freelance/BES-vue/pages/khoa-hoc-class.vue",
-    "chunkName": "pages/khoa-hoc-class"
+    "chunkName": "pages/khoa-hoc-class",
+    "_name": "_43760fa4"
   },
   {
     "name": "khoa-hoc-vip___en",
     "path": "/khoa-hoc-vip",
     "component": "/Users/macos/Freelance/BES-vue/pages/khoa-hoc-vip.vue",
-    "chunkName": "pages/khoa-hoc-vip"
+    "chunkName": "pages/khoa-hoc-vip",
+    "_name": "_4fbaabd3"
   },
   {
     "name": "lien-he___en",
     "path": "/lien-he",
     "component": "/Users/macos/Freelance/BES-vue/pages/lien-he.vue",
-    "chunkName": "pages/lien-he"
+    "chunkName": "pages/lien-he",
+    "_name": "_31563ea2"
   },
   {
     "name": "su-kien___en",
     "path": "/su-kien",
     "component": "/Users/macos/Freelance/BES-vue/pages/su-kien.vue",
-    "chunkName": "pages/su-kien"
+    "chunkName": "pages/su-kien",
+    "_name": "_27c16f7d"
   },
   {
     "name": "su-kien-hinh-anh___en",
     "path": "/su-kien-hinh-anh",
     "component": "/Users/macos/Freelance/BES-vue/pages/su-kien-hinh-anh.vue",
-    "chunkName": "pages/su-kien-hinh-anh"
+    "chunkName": "pages/su-kien-hinh-anh",
+    "_name": "_a3e411ee"
   },
   {
     "name": "tin-tuc___en",
     "path": "/tin-tuc",
     "component": "/Users/macos/Freelance/BES-vue/pages/tin-tuc.vue",
-    "chunkName": "pages/tin-tuc"
+    "chunkName": "pages/tin-tuc",
+    "_name": "_26a33939"
   },
   {
     "name": "tuyen-dung___en",
     "path": "/tuyen-dung",
     "component": "/Users/macos/Freelance/BES-vue/pages/tuyen-dung.vue",
-    "chunkName": "pages/tuyen-dung"
+    "chunkName": "pages/tuyen-dung",
+    "_name": "_0ce3e90a"
   },
   {
     "name": "index___vi",
     "path": "/vi",
     "component": "/Users/macos/Freelance/BES-vue/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_7aa35406"
   },
   {
     "name": "website-privacy___en",
     "path": "/website-privacy",
     "component": "/Users/macos/Freelance/BES-vue/pages/website-privacy.vue",
-    "chunkName": "pages/website-privacy"
+    "chunkName": "pages/website-privacy",
+    "_name": "_0a58687e"
   },
   {
     "name": "website-terms-and-conditions___en",
     "path": "/website-terms-and-conditions",
     "component": "/Users/macos/Freelance/BES-vue/pages/website-terms-and-conditions.vue",
-    "chunkName": "pages/website-terms-and-conditions"
+    "chunkName": "pages/website-terms-and-conditions",
+    "_name": "_5f6afe0b"
   },
   {
     "name": "app___vi",
     "path": "/vi/app",
     "component": "/Users/macos/Freelance/BES-vue/pages/app.vue",
-    "chunkName": "pages/app"
+    "chunkName": "pages/app",
+    "_name": "_99699ee8"
   },
   {
     "name": "gioi-thieu___vi",
     "path": "/vi/gioi-thieu",
     "component": "/Users/macos/Freelance/BES-vue/pages/gioi-thieu.vue",
-    "chunkName": "pages/gioi-thieu"
+    "chunkName": "pages/gioi-thieu",
+    "_name": "_ef7d040e"
   },
   {
     "name": "he-thong-nhuong-quyen___vi",
     "path": "/vi/he-thong-nhuong-quyen",
     "component": "/Users/macos/Freelance/BES-vue/pages/he-thong-nhuong-quyen.vue",
-    "chunkName": "pages/he-thong-nhuong-quyen"
+    "chunkName": "pages/he-thong-nhuong-quyen",
+    "_name": "_63f4a032"
   },
   {
     "name": "khoa-hoc-class___vi",
     "path": "/vi/khoa-hoc-class",
     "component": "/Users/macos/Freelance/BES-vue/pages/khoa-hoc-class.vue",
-    "chunkName": "pages/khoa-hoc-class"
+    "chunkName": "pages/khoa-hoc-class",
+    "_name": "_43760fa4"
   },
   {
     "name": "khoa-hoc-vip___vi",
     "path": "/vi/khoa-hoc-vip",
     "component": "/Users/macos/Freelance/BES-vue/pages/khoa-hoc-vip.vue",
-    "chunkName": "pages/khoa-hoc-vip"
+    "chunkName": "pages/khoa-hoc-vip",
+    "_name": "_4fbaabd3"
   },
   {
     "name": "lien-he___vi",
     "path": "/vi/lien-he",
     "component": "/Users/macos/Freelance/BES-vue/pages/lien-he.vue",
-    "chunkName": "pages/lien-he"
+    "chunkName": "pages/lien-he",
+    "_name": "_31563ea2"
   },
   {
     "name": "su-kien___vi",
     "path": "/vi/su-kien",
     "component": "/Users/macos/Freelance/BES-vue/pages/su-kien.vue",
-    "chunkName": "pages/su-kien"
+    "chunkName": "pages/su-kien",
+    "_name": "_27c16f7d"
   },
   {
     "name": "su-kien-hinh-anh___vi",
     "path": "/vi/su-kien-hinh-anh",
     "component": "/Users/macos/Freelance/BES-vue/pages/su-kien-hinh-anh.vue",
-    "chunkName": "pages/su-kien-hinh-anh"
+    "chunkName": "pages/su-kien-hinh-anh",
+    "_name": "_a3e411ee"
   },
   {
     "name": "tin-tuc___vi",
     "path": "/vi/tin-tuc",
     "component": "/Users/macos/Freelance/BES-vue/pages/tin-tuc.vue",
-    "chunkName": "pages/tin-tuc"
+    "chunkName": "pages/tin-tuc",
+    "_name": "_26a33939"
   },
   {
     "name": "tuyen-dung___vi",
     "path": "/vi/tuyen-dung",
     "component": "/Users/macos/Freelance/BES-vue/pages/tuyen-dung.vue",
-    "chunkName": "pages/tuyen-dung"
+    "chunkName": "pages/tuyen-dung",
+    "_name": "_0ce3e90a"
   },
   {
     "name": "website-privacy___vi",
     "path": "/vi/website-privacy",
     "component": "/Users/macos/Freelance/BES-vue/pages/website-privacy.vue",
-    "chunkName": "pages/website-privacy"
+    "chunkName": "pages/website-privacy",
+    "_name": "_0a58687e"
   },
   {
     "name": "website-terms-and-conditions___vi",
     "path": "/vi/website-terms-and-conditions",
     "component": "/Users/macos/Freelance/BES-vue/pages/website-terms-and-conditions.vue",
-    "chunkName": "pages/website-terms-and-conditions"
+    "chunkName": "pages/website-terms-and-conditions",
+    "_name": "_5f6afe0b"
   },
   {
     "name": "index___en",
     "path": "/",
     "component": "/Users/macos/Freelance/BES-vue/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_7aa35406"
   }
 ]

@@ -28,6 +28,10 @@ export default {
         type: "text/javascript"
       },
       {
+        src: "/js/fb.js",
+        type: "text/javascript"
+      },
+      {
         src:
           "/js/jquery/jquery-migrate.min.js",
         type: "text/javascript"

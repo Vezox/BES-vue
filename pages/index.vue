@@ -2270,7 +2270,7 @@ const reviews = [
   {
     name: "Mrs. Nguyễn Hồng Lê",
     role: "Giám đốc Ngân Hàng Vietbank",
-    message: `Lịch học của BES khá linh hoạt và có nhiều khung giờ để lựa chọn. Gíao viên cũng như các bạn nhân viên đều rất nhiệt tình giúp đỡ và 
+    message: `Lịch học của BES khá linh hoạt và có nhiều khung giờ để lựa chọn. Giáo viên cũng như các bạn nhân viên đều rất nhiệt tình giúp đỡ và 
     hướng dẫn. Một môi trường thích hợp để học tập và nâng cao bản thân`,
     avt: "/images/reviews/nguyen_hong_le.jpg"
   },
@@ -2282,7 +2282,7 @@ const reviews = [
   },
   {
     name: "Mr. Lương Ngọc Dương",
-    role: "Gíao viên Vinschool",
+    role: "Giáo viên Vinschool",
     message: `Phương pháp học tập của BES luôn lấy mục tiêu học tập của khách hàng làm trung tâm giúp mình biết phải làm gì và tập trung vào đâu. 
     Do đó, rất nhanh đạt được hiệu quả mà mình mong muốn`,
     avt: "/images/reviews/luong_ngoc_duong.jpg"
@@ -2304,13 +2304,13 @@ const reviews = [
   {
     name: "Ths. Nguyễn Xuân Tài",
     role: "Phó Tổng giám đốc Bệnh Viện Đa Khoa Cửa Đông",
-    message: `BES có nhiều chương trình phù hợp với nhiều trình độ. Các giáo viên luôn nhiệt tình gíup đỡ nên việc học tiếng Anh trở nên dễ
+    message: `BES có nhiều chương trình phù hợp với nhiều trình độ. Các giáo viên luôn nhiệt tình giúp đỡ nên việc học tiếng Anh trở nên dễ
     dàng hơn rất nhiều.`,
     avt: "/images/reviews/nguyen_xuan_tai.jpg"
   },
   {
     name: "Mr. Trần Văn Dương",
-    role: "Gíam đốc Công ty CP Thiết kế Đầu tư & Xây dựng HHD (SG)",
+    role: "Giám đốc Công ty CP Thiết kế Đầu tư & Xây dựng HHD (SG)",
     message: `Cơ sở vật chất hiện đại và tiện nghi giúp nâng cao trải nghiệm học tập tại BES. Ngoài ra, mọi người ở đây đều rât thân thiện
     và nhiệt tình giúp đỡ nên mình cảm thấy rất thoải mái khi học tập tại đây.`,
     avt: "/images/reviews/tran_van_duong.jpg"
