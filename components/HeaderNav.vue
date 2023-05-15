@@ -16,28 +16,28 @@
               class="lazy"
               src="/images/logo.png"
               :style="{ height: '48px' }"
-              alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+              alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
             />
           </a>
           <a :href="localePath('/')" class="logo-main-mobi">
             <img
               class="lazy"
               src="/images/logo.png"
-              alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+              alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
             />
           </a>
           <div class="back1">
             <img
               class="lazy"
               src="/images/common/back.png"
-              alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+              alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
             />
           </div>
           <div class="back2">
             <img
               class="lazy"
               src="/images/common/back.png"
-              alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+              alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
             />
           </div>
           <div class="menu-main">

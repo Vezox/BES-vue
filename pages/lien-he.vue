@@ -9,7 +9,7 @@
               <img
                 class="lazy"
                 src="/images/common/close-mobi.png"
-                alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
               />
             </button>
             <header-nav />
@@ -23,7 +23,7 @@
                 class="lazy"
                 :style="{ height: '48px', width: 'auto' }"
                 src="/images/logo.png"
-                alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
               />
             </a>
             <div class="hamburger" id="show-menu">

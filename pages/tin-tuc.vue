@@ -178,7 +178,7 @@ export default {
                             <img
                               class="lazy"
                               src="/uploads/2023/KEN_9291-scaled.jpg"
-                              alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                              alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
                             />
                           </a>
                           <div class="_text">

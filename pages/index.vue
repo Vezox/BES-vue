@@ -15,7 +15,7 @@
                         <img
                           class="lazy"
                           src="/images/common/arr-prev.png"
-                          alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                          alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
                         />
                       </div>
                       <div class="swiper-pagination pagination-slide"></div>
@@ -23,7 +23,7 @@
                         <img
                           class="lazy"
                           src="/images/common/arr-next.png"
-                          alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                          alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
                         />
                       </div>
                     </div>
@@ -344,7 +344,7 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
                     />
                     BES - Tại sao nên lựa chọn BES ?
                   </div>
@@ -604,7 +604,7 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
                     />
                     Giá trị cốt lõi
                   </div>
@@ -1008,7 +1008,7 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
                     />
                     Khóa học
                   </div>
@@ -1020,7 +1020,7 @@
                       <img
                         class="_img lazy"
                         src="/uploads/2021/11/Screen-Shot-2021-11-25-at-10.10.41.png"
-                        alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                        alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
                       />
                       <div class="_content">
                         <div class="_type">Private courses</div>
@@ -1050,7 +1050,7 @@
                           <img
                             class="lazy"
                             src="/images/common/arrow-right.png"
-                            alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                            alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
                           />
                         </div>
                       </div>
@@ -1081,7 +1081,7 @@
                           ><img
                             class="lazy"
                             src="/uploads/2023/02/PR-QAA-1-scaled.jpg"
-                            alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                            alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
                         /></a>
                         <div class="_text">
                           <p class="time">Th2 15, 2023</p>
@@ -1214,7 +1214,7 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
                     />
                     Hệ thống chuyển nhượng
                   </div>
@@ -1372,7 +1372,7 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
                     />
                     Review
                   </div>
@@ -2169,7 +2169,7 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
                     />
                     Đối tác
                   </div>

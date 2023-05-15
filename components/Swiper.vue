@@ -8,7 +8,7 @@
                     <img
                       class="bg-mobi lazy"
                       src="/images/banner/banner_1.png"
-                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
                     />
                   </div>
                   <div
@@ -18,7 +18,7 @@
                     <img
                       class="bg-mobi lazy"
                       src="/images/banner/banner_2.png"
-                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
                     />
                   </div>
                   <div
@@ -28,7 +28,7 @@
                     <img
                       class="bg-mobi lazy"
                       src="/images/banner/banner_3.png"
-                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
                     />
                    
                   </div>
@@ -39,7 +39,7 @@
                     <img
                       class="bg-mobi lazy"
                       src="/images/banner/banner_4.png"
-                      alt="BES đạt chứng nhận kiểm định toàn diện từ Cơ quan Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc (QAA)"
+                      alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
                     />
                     
                   </div>
