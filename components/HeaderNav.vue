@@ -9,35 +9,35 @@
           alt="Về chúng tôi"
         />
       </button>
-      <div class="container_common"> 
+      <div class="container_common">
         <div class="content_common">
           <a :href="localePath('/')" class="logo-main">
             <img
               class="lazy"
               src="/images/logo.png"
               :style="{ height: '48px' }"
-              alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
+              alt="BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
             />
           </a>
           <a :href="localePath('/')" class="logo-main-mobi">
             <img
               class="lazy"
               src="/images/logo.png"
-              alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
+              alt="BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
             />
           </a>
           <div class="back1">
             <img
               class="lazy"
               src="/images/common/back.png"
-              alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
+              alt="BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
             />
           </div>
           <div class="back2">
             <img
               class="lazy"
               src="/images/common/back.png"
-              alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
+              alt="BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
             />
           </div>
           <div class="menu-main">
@@ -150,7 +150,9 @@
                 id="menu-item-2799"
                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2799"
               >
-                <a :href="localePath('/he-thong-nhuong-quyen/')">Hệ thống nhượng quyền</a>
+                <a :href="localePath('/he-thong-nhuong-quyen/')"
+                  >Hệ thống nhượng quyền</a
+                >
               </li>
               <li
                 id="menu-item-2803"
@@ -159,32 +161,48 @@
                 <a :href="localePath('/app')">App</a>
               </li>
               <li
+                id="menu-item-2809"
+                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2803"
+              >
+                <a :href="localePath('/test')">Viện INTIC</a>
+              </li>
+              <li
                 id="menu-item-2803"
                 class="has-sub menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2803"
               >
-                <span >Liên hệ</span>
+                <span href="">Liên hệ</span>
                 <ul class="sub-menu">
                   <li
-                    id="menu-item-9430"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9430"
+                    id="menu-item-2796"
+                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2796"
                   >
-                    <a :href="localePath('/tuyen-dung/')">Tuyển dụng</a>
+                    <a :href="localePath('/tuyen-dung/')">Tuyển dụng </a>
                   </li>
                   <li
-                    id="menu-item-9430"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9430"
+                    id="menu-item-2797"
+                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2797"
                   >
-                    <a :href="localePath('/lien-he')">Tư vấn</a>
+                    <a :href="localePath('/tu-van/')">Tư vấn</a>
                   </li>
                 </ul>
               </li>
             </ul>
             <ul class="language">
               <li class="lang-item lang-item-3 lang-item-en lang-item-first">
-                <a lang="en-US" hreflang="en-US" @click.prevent.stop="$i18n.setLocale('en')">en</a>
+                <a
+                  lang="en-US"
+                  hreflang="en-US"
+                  @click.prevent.stop="$i18n.setLocale('en')"
+                  >en</a
+                >
               </li>
               <li class="lang-item lang-item-6 lang-item-vi current-lang">
-                <a lang="vi" hreflang="vi" @click.prevent.stop="$i18n.setLocale('vi')">vi</a>
+                <a
+                  lang="vi"
+                  hreflang="vi"
+                  @click.prevent.stop="$i18n.setLocale('vi')"
+                  >vi</a
+                >
               </li>
             </ul>
           </div>
@@ -239,11 +257,7 @@
 
     <div class="navigation-mobile">
       <a href="/" class="logo-main">
-        <img
-          class="lazy"
-          src="/images/common/logo.png"
-          alt="Về chúng tôi"
-        />
+        <img class="lazy" src="/images/common/logo.png" alt="Về chúng tôi" />
       </a>
       <div class="hamburger" id="show-menu">
         <span></span>
@@ -258,6 +272,6 @@
 import TopNav from "@/components/TopNav.vue";
 import SocialFix from "@/components/SocialFix.vue";
 export default {
-  components: { TopNav,SocialFix },
+  components: { TopNav, SocialFix },
 };
 </script>

@@ -399,8 +399,8 @@
                       <div class="_item">
                         <p>Liên hệ:</p>
                         <p>
-                          <a href="tel:+84 (221) 6 250 250"
-                            >+84 (221) 6 250 250</a
+                          <a href="tel:+84 928 33 22 28"
+                            >+84 928 33 22 28</a
                           >
                           <a href="tel:+84 96 662 9909">+84 96 662 9909</a>
                         </p>
@@ -408,7 +408,7 @@
                       <div class="_item">
                         <p>Email:</p>
                         <p>
-                          <a href="mailto:info@BES.edu.vn">info@BES.edu.vn</a>
+                          <a href="mailto:besgroupasia@gmail.com">besgroupasia@gmail.com</a>
                         </p>
                       </div>
                       <div class="_item">
@@ -511,21 +511,18 @@
                       <div class="_item">
                         <p>Liên hệ:</p>
                         <p>
-                          <a href="tel:+84 (221) 6 250 250"
-                            >+84 (221) 6 250 250</a
-                          >
-                          <a href="tel:+84 96 662 9909">+84 96 662 9909</a>
+                          <a href="tel:0928 33 22 28">0928 33 22 28</a>
                         </p>
                       </div>
                       <div class="_item">
                         <p>Email:</p>
                         <p>
-                          <a href="mailto:info@BES.edu.vn">info@BES.edu.vn</a>
+                          <a href="mailto:besgroupasia@gmail.com">besgroupasia@gmail.com</a>
                         </p>
                       </div>
                       <div class="_item">
                         <p>Địa chỉ:</p>
-                        <p>Ecopark, Xuân Quan, Văn Giang, Hưng Yên</p>
+                        <p>KĐT Mới, đường Hồ Sỹ Dương, phường Hưng Bình, TP Vinh (44 NQT rẽ vào)</p>
                       </div>
                     </div>
                     <iframe

@@ -1,8 +1,10 @@
+<script></script>
+
 <template>
      <div class="social-fix">
             <div class="list">
               <a
-                :href="localePath('/lien-he')"
+                :href="localePath('/tuyen-dung')"
                 class="social-item"
                 id="enquiry-now-fix"
               >
@@ -102,7 +104,7 @@
                 </svg>
               </a>
               <a
-                href="tel:+84 (221) 6 250 250"
+                href="tel:+84 928 33 22 28"
                 class="social-item"
                 id="call-fix"
               >
