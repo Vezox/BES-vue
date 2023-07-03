@@ -73,74 +73,6 @@ export default {
                     </ul>
                   </div>
                 </div>
-                <div
-                  class="_tabs_fix2 is-bgr lazy"
-                  style=""
-                  data-bg="url(/images/ifprogramme/bgr_fix.png)"
-                >
-                  <div class="_nav">
-                    <ul class="is-flex-cl">
-                      <li>
-                        <a href="#bes-story" data-h="1" class="active"
-                          >GIỚI THIỆU VỀ TRƯỜNG ĐẠI HỌC ANH QUỐC VIỆT NAM</a
-                        >
-                      </li>
-                      <li>
-                        <a href="#data-h2" data-h="2"
-                          >Sứ mệnh & giá trị cốt lõi</a
-                        >
-                      </li>
-                    </ul>
-                  </div>
-                  <div class="_contact">
-                    <ul>
-                      <li>
-                        <a
-                          ><span
-                            ><img
-                              class="lazy"
-                              src="/images/ifprogramme/icon1.png"
-                              alt="Về chúng tôi"
-                          /></span>
-                          Tìm hiểu ngay
-                        </a>
-                      </li>
-
-                      <li>
-                        <a
-                          ><span
-                            ><img
-                              class="lazy"
-                              src="/images/ifprogramme/icon2.png"
-                              alt="Về chúng tôi"
-                          /></span>
-                          Apply Now</a
-                        >
-                      </li>
-                      <li>
-                        <a href="https://pay.BES.edu.vn" target="_blank"
-                          ><span
-                            ><img
-                              class="lazy"
-                              src="/images/common/payment_red.png"
-                              alt="Về chúng tôi"
-                          /></span>
-                          Thanh toán online
-                        </a>
-                      </li>
-                      <li>
-                        <a class="js_scroll_footer"
-                          ><span
-                            ><img
-                              class="lazy"
-                              src="/images/ifprogramme/icon3.png"
-                              alt="Về chúng tôi" /></span
-                          >Liên hệ
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
                 <div class="_wrapper">
                   <div class="section1" id="bes-story">
                     <div class="title-def">
@@ -186,23 +118,6 @@ export default {
                       Tầm nhìn, sứ mệnh
                     </div>
                     <div class="content_section2">
-                      <div class="slide-prev">
-                        <div class="text"></div>
-                      </div>
-                      <div class="swiper-button-prev">
-                        <img
-                          class="lazy"
-                          src="/images/about/prev.png"
-                          alt="Về chúng tôi"
-                        />
-                      </div>
-                      <div class="swiper-button-next">
-                        <img
-                          class="lazy"
-                          src="/images/about/next.png"
-                          alt="Về chúng tôi"
-                        />
-                      </div>
                       <div class="swiper-container js-slide-mission">
                         <div class="swiper-wrapper">
                           <div class="swiper-slide">
@@ -215,23 +130,86 @@ export default {
                                 <div class="layer"></div>
                               </div>
                               <div class="text">
-                                S<br />ứ<br /><br />m<br />ệ<br />n<br />h
+                                T<br />ầ<br />m<br /><br />N<br />h<br />ì<br />n
                               </div>
                             </div>
                             <div class="right">
                               <div class="content_right the_content_def">
                                 <p>
-                                  <span style="font-weight: 400"
-                                    >Be the best, giúp doanh nhân Việt Nam tìm
-                                    kiếm những cơ hội mới để phát triển hơn nữa
-                                    trong sự nghiệp thông qua tri thức và sự kết
-                                    nối.</span
-                                  >
+                                  <span style="font-weight: 400">
+                                    Tầm nhìn của chúng tôi là đồng hành cùng các
+                                    doanh nghiệp Việt Nam và giúp họ vươn tầm
+                                    quốc tế. Chúng tôi cam kết hỗ trợ các doanh
+                                    nghiệp Việt Nam trong việc nâng cao khả năng
+                                    tiếng Anh chuyên ngành và giao tiếp quốc tế,
+                                    nhằm tạo điều kiện thuận lợi cho việc mở
+                                    rộng thị trường và tăng cường cạnh tranh
+                                    trên sân chơi quốc tế. <br /> <br>
+
+                                    Chúng tôi hiểu rằng việc có khả năng giao
+                                    tiếp và hiểu biết về ngôn ngữ, văn hóa và
+                                    thị trường quốc tế là vô cùng quan trọng để
+                                    các doanh nghiệp Việt Nam có thể vươn tầm và
+                                    tận dụng những cơ hội mới. Tầm nhìn của
+                                    chúng tôi là cung cấp cho các doanh nghiệp
+                                    Việt Nam một nền tảng học tập và phát triển
+                                    tiếng Anh chuyên ngành đáng tin cậy. <br /> <br>
+
+                                    Chúng tôi tận dụng các phương pháp giảng dạy
+                                    tiên tiến, tài liệu chuyên ngành chất lượng
+                                    và giảng viên có kinh nghiệm để đảm bảo rằng
+                                    các doanh nghiệp Việt Nam sẽ được trang bị
+                                    những kỹ năng cần thiết để tự tin giao tiếp
+                                    trong môi trường quốc tế và xây dựng các mối
+                                    quan hệ kinh doanh hiệu quả.<br />
+                                  </span>
                                 </p>
                               </div>
                             </div>
                           </div>
+                        </div>
+                      </div>
+                      <div
+                        class="swiper-container js-slide-mission"
+                        style="margin-top: 60px"
+                      >
+                        <div class="swiper-wrapper">
                           <div class="swiper-slide">
+                            <div class="right">
+                              <div class="content_right the_content_def">
+                                <p>
+                                  <span style="font-weight: 400">
+                                    Be the best là một cộng đồng học tiếng Anh
+                                    dành riêng cho doanh nhân Việt Nam, với sứ
+                                    mệnh quan trọng là nâng cao khả năng giao
+                                    tiếp tiếng Anh chuyên ngành và tạo ra môi
+                                    trường học tập đáng tin cậy để hỗ trợ sự
+                                    phát triển nghề nghiệp của các doanh nhân.
+                                    <br /> <br>
+
+                                    Sứ mệnh của BES là đáp ứng nhu cầu ngày càng
+                                    tăng về kỹ năng tiếng Anh chuyên ngành trong
+                                    môi trường kinh doanh, nơi mà việc giao tiếp
+                                    hiệu quả và mở rộng mạng lưới quan hệ quốc
+                                    tế đóng vai trò quan trọng trong sự thành
+                                    công của một doanh nhân. Chúng tôi hiểu rằng
+                                    tiếng Anh không chỉ là một phương tiện
+                                    truyền thông, mà còn là một công cụ quan
+                                    trọng giúp mở ra những cơ hội mới, thúc đẩy
+                                    sự phát triển cá nhân và mở rộng tầm nhìn.
+                                    <br /> <br>
+
+                                    BES tập trung vào việc cung
+                                    cấp các khóa học tiếng Anh chất lượng cao,
+                                    tập trung vào từ vựng và ngữ cảnh chuyên
+                                    ngành, cung cấp cho các doanh nhân Việt Nam
+                                    những kỹ năng cần thiết để tự tin và thành
+                                    công khi giao tiếp trong môi trường kinh
+                                    doanh quốc tế.<br />
+                                  </span>
+                                </p>
+                              </div>
+                            </div>
                             <div class="left">
                               <div class="decor">
                                 <img
@@ -241,18 +219,7 @@ export default {
                                 <div class="layer"></div>
                               </div>
                               <div class="text">
-                                T<br />ầ<br />m<br />
-                                <br />n<br />h<br />ì<br />n
-                              </div>
-                            </div>
-                            <div class="right">
-                              <div class="content_right the_content_def">
-                                <p>
-                                  <span style="font-weight: 400"
-                                    >Đồng hành cùng các doanh nghiệp Việt Nam
-                                    vươn tầm quốc tế.</span
-                                  >
-                                </p>
+                                S<br />ứ<br /><br />m<br />ệ<br />n<br />h
                               </div>
                             </div>
                           </div>
@@ -264,8 +231,12 @@ export default {
               </div>
             </div>
           </div>
-          <div class="container section0" id="gia-tri-cot-loi" style="margin-bottom: 62px;">
-            <h1 style="margin-top: 0;">GÍA TRỊ CỐT LÕI CỦA BES</h1>
+          <div
+            class="container section0"
+            id="gia-tri-cot-loi"
+            style="margin-bottom: 62px"
+          >
+            <h1 style="margin-top: 0">GÍA TRỊ CỐT LÕI CỦA BES</h1>
             <div class="content">
               <div class="box-content">
                 <div class="content-item">

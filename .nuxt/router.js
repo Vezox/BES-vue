@@ -11,11 +11,11 @@ const _f9f3a7b4 = () => interopDefault(import('../pages/khoa-hoc-class.vue' /* w
 const _78a87dcb = () => interopDefault(import('../pages/khoa-hoc-vip.vue' /* webpackChunkName: "pages/khoa-hoc-vip" */))
 const _15864285 = () => interopDefault(import('../pages/su-kien.vue' /* webpackChunkName: "pages/su-kien" */))
 const _27520d01 = () => interopDefault(import('../pages/su-kien-hinh-anh.vue' /* webpackChunkName: "pages/su-kien-hinh-anh" */))
-const _5cc0362f = () => interopDefault(import('../pages/test.vue' /* webpackChunkName: "pages/test" */))
 const _14680c41 = () => interopDefault(import('../pages/tin-tuc.vue' /* webpackChunkName: "pages/tin-tuc" */))
 const _6afa0898 = () => interopDefault(import('../pages/tu-van.vue' /* webpackChunkName: "pages/tu-van" */))
 const _6537fb73 = () => interopDefault(import('../pages/tuyen-dung.vue' /* webpackChunkName: "pages/tuyen-dung" */))
 const _541c4b05 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _2781d5b5 = () => interopDefault(import('../pages/vien-intic.vue' /* webpackChunkName: "pages/vien-intic" */))
 const _238dd26e = () => interopDefault(import('../pages/website-privacy.vue' /* webpackChunkName: "pages/website-privacy" */))
 const _3db43ffa = () => interopDefault(import('../pages/website-terms-and-conditions.vue' /* webpackChunkName: "pages/website-terms-and-conditions" */))
 
@@ -59,10 +59,6 @@ export const routerOptions = {
     component: _27520d01,
     name: "su-kien-hinh-anh___en"
   }, {
-    path: "/test",
-    component: _5cc0362f,
-    name: "test___en"
-  }, {
     path: "/tin-tuc",
     component: _14680c41,
     name: "tin-tuc___en"
@@ -78,6 +74,10 @@ export const routerOptions = {
     path: "/vi",
     component: _541c4b05,
     name: "index___vi"
+  }, {
+    path: "/vien-intic",
+    component: _2781d5b5,
+    name: "vien-intic___en"
   }, {
     path: "/website-privacy",
     component: _238dd26e,
@@ -115,10 +115,6 @@ export const routerOptions = {
     component: _27520d01,
     name: "su-kien-hinh-anh___vi"
   }, {
-    path: "/vi/test",
-    component: _5cc0362f,
-    name: "test___vi"
-  }, {
     path: "/vi/tin-tuc",
     component: _14680c41,
     name: "tin-tuc___vi"
@@ -130,6 +126,10 @@ export const routerOptions = {
     path: "/vi/tuyen-dung",
     component: _6537fb73,
     name: "tuyen-dung___vi"
+  }, {
+    path: "/vi/vien-intic",
+    component: _2781d5b5,
+    name: "vien-intic___vi"
   }, {
     path: "/vi/website-privacy",
     component: _238dd26e,

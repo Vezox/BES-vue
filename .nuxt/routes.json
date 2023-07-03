@@ -49,13 +49,6 @@
     "_name": "_27520d01"
   },
   {
-    "name": "test___en",
-    "path": "/test",
-    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/test.vue",
-    "chunkName": "pages/test",
-    "_name": "_5cc0362f"
-  },
-  {
     "name": "tin-tuc___en",
     "path": "/tin-tuc",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/tin-tuc.vue",
@@ -82,6 +75,13 @@
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/index.vue",
     "chunkName": "pages/index",
     "_name": "_541c4b05"
+  },
+  {
+    "name": "vien-intic___en",
+    "path": "/vien-intic",
+    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/vien-intic.vue",
+    "chunkName": "pages/vien-intic",
+    "_name": "_2781d5b5"
   },
   {
     "name": "website-privacy___en",
@@ -147,13 +147,6 @@
     "_name": "_27520d01"
   },
   {
-    "name": "test___vi",
-    "path": "/vi/test",
-    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/test.vue",
-    "chunkName": "pages/test",
-    "_name": "_5cc0362f"
-  },
-  {
     "name": "tin-tuc___vi",
     "path": "/vi/tin-tuc",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/tin-tuc.vue",
@@ -173,6 +166,13 @@
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/tuyen-dung.vue",
     "chunkName": "pages/tuyen-dung",
     "_name": "_6537fb73"
+  },
+  {
+    "name": "vien-intic___vi",
+    "path": "/vi/vien-intic",
+    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/vien-intic.vue",
+    "chunkName": "pages/vien-intic",
+    "_name": "_2781d5b5"
   },
   {
     "name": "website-privacy___vi",

@@ -1,8 +1,57 @@
 <script>
 import HeaderNav from "../components/HeaderNav.vue";
 import FooterSite from "../components/Footer.vue";
+import api from "../plugins/api";
+
 export default {
   components: { HeaderNav, FooterSite },
+  data() {
+    return {
+      form: {
+        full_name: "",
+        email: "",
+        phone: "",
+        current_salary: "",
+        expected_salary: "",
+        file: "",
+      },
+    };
+  },
+  methods: {
+    async submit() {
+      try {
+        const res = await api.post("/recruitment/create", this.form);
+        alert("Đã gửi thành công");
+        const btn = document.querySelector(
+          ".box__online__application__form.active"
+        );
+        btn.classList.remove("active");
+      } catch (error) {
+        console.error("submit", error);
+      }
+    },
+    async uploadFile(e) {
+      try {
+        const formData = new FormData();
+        formData.append("file", e.target.files[0]);
+        formData.append("name", e.target.files[0].name);
+        const res = await api("/recruitment/upload-cv", {
+          method: "POST",
+          headers: {
+            "Content-Type": "multipart/form-data",
+          },
+          data: formData,
+        });
+        const data = res.data;
+        this.form.file = data.url;
+      } catch (error) {
+        console.error("uploadFile", error);
+        if (error?.response?.data.message) {
+          alert(error.response.data.message);
+        }
+      }
+    },
+  },
 };
 </script>
 
@@ -101,19 +150,14 @@ export default {
                           class="lazy"
                           src="/images/common/star.png"
                           alt="Software Engineer"
-                        /> Gửi CV của bạn
+                        />
+                        Gửi CV của bạn
                       </div>
                       <div class="content the_content_def">
-                        <p>
-                          Các vị trí mà BES đang tuyển dụng:
-                        </p>
+                        <p>Các vị trí mà BES đang tuyển dụng:</p>
                         <ul>
-                          <li>
-                           Giá viên nước ngoài.
-                          </li>
-                          <li>
-                            Trợ giảng.
-                          </li>
+                          <li>Giá viên nước ngoài.</li>
+                          <li>Trợ giảng.</li>
                           <li>Nhân viên trải nghiệm khách hàng.</li>
                         </ul>
                         <p>
@@ -220,42 +264,19 @@ export default {
                 <div class="content-main">
                   <form
                     class="form-item active frm-application"
-                    action="#"
-                    method="post"
                     id="apply_form"
+                    @submit.prevent="submit"
                   >
-                    <input type="hidden" name="nonce" value="14f9956d67" />
-                    <input
-                      type="hidden"
-                      name="action"
-                      value="form_submit_recruiment_ajax"
-                    />
-                    <input
-                      type="hidden"
-                      name="frm_source"
-                      id="frm_source"
-                      value=""
-                    />
                     <div class="frm-all active">
                       <div class="frm-group the_content_def">
-                        <label>Full name<span>*</span></label>
+                        <label>Họ và tên<span>*</span></label>
                         <input
-                          placeholder="Enter your name"
+                          placeholder="Họ và tên"
                           type="text"
-                          name="apply_name"
-                          id="apply_name"
+                          name="full_name"
+                          id="fullname"
                           required
-                        />
-                        <div class="msg_error name_error"></div>
-                      </div>
-                      <div class="frm-group the_content_def">
-                        <label>Date of birth</label>
-                        <input
-                          placeholder="DD/MM/YY"
-                          class="textbox-n"
-                          type="date"
-                          id="apply_date"
-                          name="apply_date"
+                          v-model="form.full_name"
                         />
                       </div>
                       <div class="frm-group the_content_def">
@@ -266,6 +287,7 @@ export default {
                           name="apply_phone"
                           id="apply_phone"
                           required
+                          v-model="form.phone"
                         />
                         <div class="msg_error phone_error"></div>
                       </div>
@@ -277,121 +299,41 @@ export default {
                           name="apply_email"
                           id="apply_email"
                           required
+                          v-model="form.email"
                         />
                         <div class="msg_error email_error"></div>
                       </div>
+
                       <div class="frm-group the_content_def">
-                        <label>Address</label>
+                        <label>Mức lương hiện tại</label>
                         <input
-                          placeholder="Enter your address"
-                          type="text"
-                          name="apply_address"
-                          id="apply_address"
+                          placeholder="Mức lương hiện tại"
+                          type="number"
+                          name="current_salary"
+                          id="current_salary"
+                          v-model="form.current_salary"
                         />
                       </div>
                       <div class="frm-group the_content_def">
-                        <label>How did you find out about BES?</label>
-                        <div class="custom-select">
-                          <select name="apply_find_about" id="apply_find_about">
-                            <option value="Google">Google</option>
-                            <option value="Facebook">Facebook</option>
-                            <option value="Instagram">Instagram</option>
-                            <option value="Zalo">Zalo</option>
-                            <option value="Others">Others</option>
-                          </select>
-                          <span class="custom-arrow"></span>
-                          <input
-                            type="text"
-                            value=""
-                            id="apply_find_about_other"
-                            placeholder="Enter content"
-                          />
-                        </div>
-                      </div>
-                      <div class="frm-group the_content_def" id="frm_area">
-                        <label
-                          >Area/ industry you're interested in<span
-                            >*</span
-                          ></label
-                        >
-                        <input
-                          placeholder="Enter your Area/ industry..."
-                          type="text"
-                          name="apply_area"
-                          id="apply_area"
-                          required
-                        />
-                      </div>
-                      <div class="frm-group the_content_def">
-                        <label>Date available to commence work</label>
-                        <input
-                          placeholder="DD/MM/YY"
-                          type="date"
-                          name="apply_date_available"
-                          id="apply_date_available"
-                        />
-                      </div>
-                      <div class="frm-group the_content_def">
-                        <label>Current salary<span>*</span></label>
-                        <input
-                          placeholder="Enter current salary"
-                          type="text"
-                          name="apply_current_salary"
-                          id="apply_current_salary"
-                          required
-                        />
-                      </div>
-                      <div class="frm-group the_content_def">
-                        <label>Expected Salary<span>*</span></label>
+                        <label>Mức lương mong muốn</label>
                         <input
                           placeholder="Enter expected salary"
-                          type="text"
-                          name="apply_expected_salary"
-                          id="apply_expected_salary"
-                          required
-                        />
-                      </div>
-                      <div class="frm-group the_content_def" id="frm_question">
-                        <label>Your question for us?</label>
-                        <input
-                          placeholder="Enter your question..."
-                          type="text"
-                          name="apply_question"
-                          id="apply_question"
+                          type="number"
+                          name="expected_salary"
+                          id="expected_salary"
+                          v-model="form.expected_salary"
                         />
                       </div>
                       <div class="frm-group the_content_def">
-                        <label>Upload your CV<span>*</span></label>
+                        <label>Tải lên CV<span>*</span></label>
                         <input
                           type="file"
                           class="upload_cv"
-                          name="apply_upload_cv"
-                          id="apply_upload_cv"
-                          data-multiple-caption="{count} files selected"
+                          name="upload_cv"
+                          id="upload_cv"
                           required
+                          @change="uploadFile"
                         />
-                        <div class="upload_file">
-                          <label for="">Choose file</label
-                          ><span class="js_upload_name">No file chosen</span>
-                        </div>
-                        <div class="msg_error cv_error"></div>
-                      </div>
-                      <div class="frm-group the_content_def">
-                        <label>Upload your Cover letter </label>
-                        <input
-                          type="file"
-                          class="upload_letter"
-                          name="apply_upload_letter"
-                          id="apply_upload_letter"
-                          data-multiple-caption="{count} files selected"
-                        />
-                        <div class="upload_file">
-                          <label for="">Choose file</label
-                          ><span class="js_upload_name_letter"
-                            >No file chosen</span
-                          >
-                        </div>
-                        <div class="msg_error letter_error"></div>
                       </div>
                       <div class="frm-group">
                         <button class="btn_site _far btn_submit" type="submit">
@@ -415,28 +357,11 @@ export default {
           <script>
             jQuery(document).ready(function ($) {
               $("#apply_find_about").on("change", function () {
-                var $val_apply_find = $(this).val();
-                if ($val_apply_find == "Others") {
-                  $("#apply_find_about_other").addClass("show");
-                  $("#apply_find_about_other").on("change", function () {
-                    var $val_apply_find_other = $(this).val();
-                    $(
-                      "#apply_find_about option[value=" + $val_apply_find + "]"
-                    ).attr("selected", "selected");
-                    $(
-                      "#apply_find_about option[value=" + $val_apply_find + "]"
-                    ).val($val_apply_find_other);
-                  });
-                }
-              });
 
               $(".x_close").click("on", function (event) {
                 $(".box__online__application__form.active").removeClass(
                   "active"
                 );
-                $(".form-group").find("input").val("");
-                $(".js_upload_name").text("No file chosen");
-                $(".js_upload_name_letter").text("No file chosen");
               });
               var regex_name_input =
                 /^[a-zA-Z_àáảãạâầấẩẫậăằắẳẵặèéẻẽẹêềếểễệđìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵÀÁẢÃẠÂẦẤẨẪẬĂẰẮẲẴẶÈÉẺẼẸÊỀẾỂỄỆĐÌÍỈĨỊÒÓỎÕỌÔỒỐỔỖỘƠỜỚỞỠỢÙÚỦŨỤƯỪỨỬỮỰỲÝỶỸỴÂĂĐÔƠƯ\s-']+$/;
@@ -540,6 +465,7 @@ export default {
                 const formMsgSuccess = thisEl.find(".frm_msg");
                 const formMsgUnsuccessful = thisEl.find(".frm_msg");
                 const fieldGroup = thisEl.find(".frm-all");
+                console.log("oke la")
                 $.ajax({
                   type: "post",
                   url: obj.AJAX_URL,
@@ -562,8 +488,8 @@ export default {
                       $("#apply_question").val("");
                       $("#apply_area").val("");
                       $("#apply_date_available").val("");
-                      $("#apply_expected_salary").val("");
-                      $("#apply_current_salary").val("");
+                      $("#expected_salary").val("");
+                      $("#current_salary").val("");
                       $(".js_upload_name").text("No file chosen");
                       $(".js_upload_name_letter").text("No file chosen");
                       fieldGroup.remove();
@@ -639,15 +565,9 @@ export default {
             value="/work-for-buv/"
           />
         </form>
-        <!--
-<form style="margin: 0;">
-    </form>
--->
       </div>
 
-      <!-- #content -->
       <FooterSite />
     </div>
-    <!-- #page -->
   </body>
 </template>

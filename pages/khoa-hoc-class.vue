@@ -336,22 +336,22 @@ export default {
                                 <td style="width: 40%; height: 60px">
                                   Phương pháp học độc quyền
                                 </td>
-                                <td style="width: 30%; height: 60px">yes</td>
-                                <td style="width: 30%; height: 60px">yes</td>
+                                <td style="width: 30%; height: 60px"><img src="/images/check.svg"></td>
+                                <td style="width: 30%; height: 60px"><img src="/images/check.svg"></td>
                               </tr>
                               <tr style="height: 60px">
                                 <td style="width: 40%; height: 60px">
                                   Lớp học với giáo viên nước ngoài
                                 </td>
-                                <td style="width: 30%; height: 60px">yes</td>
-                                <td style="width: 30%; height: 60px">yes</td>
+                                <td style="width: 30%; height: 60px"><img src="/images/check.svg"></td>
+                                <td style="width: 30%; height: 60px"><img src="/images/check.svg"></td>
                               </tr>
                               <tr style="height: 60px">
                                 <td style="width: 40%; height: 60px">
                                   Lớp học tương tác 1-1 với giáo viên nước ngoài
                                 </td>
-                                <td style="width: 30%; height: 60px">yes</td>
-                                <td style="width: 30%; height: 60px">no</td>
+                                <td style="width: 30%; height: 60px"><img src="/images/check.svg"></td>
+                                <td style="width: 30%; height: 60px"><img src="/images/x.svg"></td>
                               </tr>
                               <tr style="height: 60px">
                                 <td style="width: 40%; height: 60px">
@@ -368,29 +368,29 @@ export default {
                                 <td style="width: 40%; height: 60px">
                                   Giáo trình độc quyền
                                 </td>
-                                <td style="width: 30%; height: 60px">yes</td>
-                                <td style="width: 30%; height: 60px">yes</td>
+                                <td style="width: 30%; height: 60px"><img src="/images/check.svg"></td>
+                                <td style="width: 30%; height: 60px"><img src="/images/check.svg"></td>
                               </tr>
                               <tr style="height: 60px">
                                 <td style="width: 40%; height: 60px">
                                   Kiểm tra trình độ đầu vào
                                 </td>
-                                <td style="width: 30%; height: 60px">yes</td>
-                                <td style="width: 30%; height: 60px">yes</td>
+                                <td style="width: 30%; height: 60px"><img src="/images/check.svg"></td>
+                                <td style="width: 30%; height: 60px"><img src="/images/check.svg"></td>
                               </tr>
                               <tr style="height: 60px">
                                 <td style="width: 40%; height: 60px">
                                   Học 24/7
                                 </td>
-                                <td style="width: 30%; height: 60px">yes</td>
-                                <td style="width: 30%; height: 60px">no</td>
+                                <td style="width: 30%; height: 60px"><img src="/images/check.svg"></td>
+                                <td style="width: 30%; height: 60px"><img src="/images/x.svg"></td>
                               </tr>
                               <tr style="height: 60px">
                                 <td style="width: 40%; height: 60px">
                                   Cố vấn học tập
                                 </td>
-                                <td style="width: 30%; height: 60px">yes</td>
-                                <td style="width: 30%; height: 60px">yes</td>
+                                <td style="width: 30%; height: 60px"><img src="/images/check.svg"></td>
+                                <td style="width: 30%; height: 60px"><img src="/images/check.svg"></td>
                               </tr>
                               <tr></tr>
                             </tbody>
