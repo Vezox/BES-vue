@@ -102,41 +102,36 @@
               </li>
               <li
                 id="menu-item-2798"
-                class="has-sub menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2798"
+                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2798"
               >
-                <span href="">Khoá học</span>
-                <ul class="sub-menu">
-                  <li
-                    id="menu-item-2796"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2796"
-                  >
-                    <a :href="localePath('/khoa-hoc-vip/')">VIP</a>
-                  </li>
-                  <li
-                    id="menu-item-2797"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2797"
-                  >
-                    <a :href="localePath('/khoa-hoc-class/')"> Class </a>
-                  </li>
-                </ul>
+                <a :href="localePath('/khoa-hoc/')">Khoá học</a>
               </li>
               <li
                 id="menu-item-2803"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2803"
+                class="has-sub menu-item menu-item-type-post_type menu-item-object-page menu-item-2803 menu-item-has-children"
               >
-                <a :href="localePath('/su-kien-hinh-anh')">Sự kiện/Hình ảnh</a>
+               <span href="/">Hình ảnh</span>
+                <ul class="sub-menu">
+                  <li
+                    class="menu-item"
+                    v-for="item in topics"
+                  >
+                  <a :href="localePath('/hinh-anh/' + item.slug)">{{ item.name }}</a>
+                >
+                  </li>
+                </ul>
               </li>
               <li
                 id="menu-item-2800"
                 class="has-sub menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2800"
               >
-                <span href="/">Thông tin</span>
+              <a :href="localePath('/tin-tuc/')">Tin tức</a>
+                <!-- <span href="/">Thông tin</span>
                 <ul class="sub-menu">
                   <li
                     id="menu-item-2802"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2802"
                   >
-                    <a :href="localePath('/tin-tuc/')">Tin tức</a>
                   </li>
                   <li
                     id="menu-item-2801"
@@ -144,16 +139,16 @@
                   >
                     <a :href="localePath('/su-kien')">Sự kiện</a>
                   </li>
-                </ul>
+                </ul> -->
               </li>
-              <li
+              <!-- <li
                 id="menu-item-2799"
                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2799"
               >
                 <a :href="localePath('/he-thong-nhuong-quyen/')"
                   >Hệ thống nhượng quyền</a
                 >
-              </li>
+              </li> -->
               <li
                 id="menu-item-2803"
                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2803"
@@ -271,7 +266,23 @@
 <script>
 import TopNav from "@/components/TopNav.vue";
 import SocialFix from "@/components/SocialFix.vue";
+import api from "../plugins/api";
 export default {
   components: { TopNav, SocialFix },
+  data() {
+    return {
+      topics: [],
+    };
+  },
+  created() {
+    this.getTopic();
+  },
+  methods: {
+    getTopic() {
+      api.post("/topic/list", {page: 1, limit: 10}).then((res) => {
+        this.topics = res.data.list;
+      });
+    },
+  },
 };
 </script>

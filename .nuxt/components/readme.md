@@ -15,5 +15,4 @@ You can directly use them in pages and other components without the need to impo
 - `<Tutorial>` | `<tutorial>` (components/Tutorial.vue)
 - `<Decor>` | `<decor>` (components/decor.vue)
 - `<Decor5>` | `<decor5>` (components/decor5.vue)
-- `<Header>` | `<header>` (components/header.vue)
 - `<ReviewItem>` | `<review-item>` (components/reviewItem.vue)

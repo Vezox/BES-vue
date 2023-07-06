@@ -1216,11 +1216,11 @@
                       src="/images/common/star.png"
                       alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
                     />
-                    Hệ thống chuyển nhượng
+                    Hệ thống BES
                   </div>
                   <div class="_list_degree">
                     <div class="_item">
-                      <div class="_title">Cơ sở miền bắc</div>
+                      <div class="_title">Management Office</div>
                       <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
                         <a
                           href=""
@@ -1230,59 +1230,82 @@
                             src="/uploads/2021/10/Group-1.png"
                             alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
                           />
-                          <span>99, XXX , YYY, Hà Nội</span>
-                        </a>
-                        <a
-                          href=""
-                        >
-                          <img
-                            class="lazy"
-                            src="/uploads/2021/10/Group-3.png"
-                            alt="Cử nhân Quản trị Kinh doanh Quốc tế"
-                          />
-                          <span>888, ZZZ, NNN , Hải Phòng</span>
+                          <span>Ocean Gold Building, 32 Phạm Kiệt, Ngũ Hành Sơn</span>
                         </a>
                       </div>
                     </div>
                     <div class="_item">
-                      <div class="_title">Cơ sở miền trung</div>
-                      <div
-                        class="_content khoi-nganh-khoa-hoc-may-tinh-va-cong-nghe"
-                      >
+                      <div class="_title">Head Office</div>
+                      <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
                         <a
                           href=""
                         >
                           <img
                             class="lazy"
-                            src="/uploads/2021/10/Group-3277.png"
-                            alt="Cử nhân Khoa học Máy tính: An ninh mạng/ Công nghệ Đám mây"
+                            src="/uploads/2021/10/Group-1.png"
+                            alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
                           />
-                          <span>08, XXX, TP Vinh, Nghệ An</span>
-                        </a>
-                        <a
-                          href="http://BES.edu.vn/degree_by_schools/bsc-hons-computer-games-design-and-programming/"
-                        >
-                          <img
-                            class="lazy"
-                            src="/uploads/2021/10/Group.png"
-                            alt="Cử nhân Thiết kế và Lập trình Game"
-                          />
-                          <span>01, YYY, TP Hà Tĩnh</span>
+                          <span>Tòa nhà Vincom Center, 72 Lê Thánh Tôn, Phường Bến Nghé</span>
                         </a>
                       </div>
                     </div>
                     <div class="_item">
-                      <div class="_title">Cơ sở miền nam</div>
-                      <div class="_content khoi-nganh-thiet-ke-sang-tao">
+                      <div class="_title">Hà Nội</div>
+                      <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
                         <a
                           href=""
                         >
                           <img
                             class="lazy"
-                            src="/uploads/2021/09/Icon-9.png"
-                            alt="Cử nhân Ứng dụng Sáng tạo đương đại: Thiết kế Đồ họa/ Phác họa/ Nhiếp ảnh"
+                            src="/uploads/2021/10/Group-1.png"
+                            alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
                           />
-                          <span>01, XXX, Quận 1, TP.HCM</span>
+                          <span>Belvedere Building ở số 28A Trần Hưng Đạo, quận Hoàn Kiếm</span>
+                        </a>
+                      </div>
+                    </div>
+                    <div class="_item">
+                      <div class="_title">Singapore</div>
+                      <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
+                        <a
+                          href=""
+                        >
+                          <img
+                            class="lazy"
+                            src="/uploads/2021/10/Group-1.png"
+                            alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
+                          />
+                          <span>9 Raffles Pl, #29-05 REPUBLIC PLAZA, Singapore 048619</span>
+                        </a>
+                      </div>
+                    </div>
+                    <div class="_item">
+                      <div class="_title">Philippines</div>
+                      <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
+                        <a
+                          href=""
+                        >
+                          <img
+                            class="lazy"
+                            src="/uploads/2021/10/Group-1.png"
+                            alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
+                          />
+                          <span>LKG Tower, 6801 Ayala Ave, Makati, 1226 Metro Manila, Philippines</span>
+                        </a>
+                      </div>
+                    </div>
+                    <div class="_item">
+                      <div class="_title">Management Office</div>
+                      <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
+                        <a
+                          href=""
+                        >
+                          <img
+                            class="lazy"
+                            src="/uploads/2021/10/Group-1.png"
+                            alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
+                          />
+                          <span>Ocean Gold Building, 32 Phạm Kiệt, Ngũ Hành Sơn</span>
                         </a>
                       </div>
                     </div>

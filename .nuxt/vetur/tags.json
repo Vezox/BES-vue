@@ -26,9 +26,6 @@
   "Decor5": {
     "description": "Auto imported from components/decor5.vue"
   },
-  "Header": {
-    "description": "Auto imported from components/header.vue"
-  },
   "ReviewItem": {
     "description": "Auto imported from components/reviewItem.vue"
   }
