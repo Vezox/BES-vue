@@ -2,7 +2,7 @@
   <div>
     <div class="home blog">
       <div id="page" class="site">
-         <header-nav />
+        <header-nav />
         <div id="content" class="site-content">
           <div class="home-page typography">
             <section class="h_section1 container" id="h_section1">
@@ -15,7 +15,18 @@
                         <img
                           class="lazy"
                           src="/images/common/arr-prev.png"
-                          alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
+                          alt="BES"
+                          cộng
+                          đồng
+                          học
+                          tiếng
+                          anh
+                          dành
+                          cho
+                          doanh
+                          nhân
+                          Việt
+                          Nam
                         />
                       </div>
                       <div class="swiper-pagination pagination-slide"></div>
@@ -23,14 +34,24 @@
                         <img
                           class="lazy"
                           src="/images/common/arr-next.png"
-                          alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
+                          alt="BES"
+                          cộng
+                          đồng
+                          học
+                          tiếng
+                          anh
+                          dành
+                          cho
+                          doanh
+                          nhân
+                          Việt
+                          Nam
                         />
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            
             </section>
             <section class="h_section2 container" id="h_section2">
               <div class="_decor">
@@ -344,7 +365,18 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
+                      alt="BES"
+                      cộng
+                      đồng
+                      học
+                      tiếng
+                      anh
+                      dành
+                      cho
+                      doanh
+                      nhân
+                      Việt
+                      Nam
                     />
                     BES - Tại sao nên lựa chọn BES ?
                   </div>
@@ -352,7 +384,7 @@
                     <div class="box-div-rectangle rectangle-laptop">
                       <div class="div-rectagle-top">
                         <div class="rectagle brow">
-                          <img src="/images/light.svg">
+                          <img src="/images/light.svg" />
                           <div class="reg-content-w">
                             <div class="reg-title">Phương pháp giảng dạy</div>
                             <p class="excerpt">
@@ -362,12 +394,10 @@
                             </p>
                           </div>
                         </div>
-                        <div  class="rectagle gray">
-                          <img src="/images/cham-soc-khach-hang.svg" alt="">
+                        <div class="rectagle gray">
+                          <img src="/images/cham-soc-khach-hang.svg" alt="" />
                           <div class="reg-content-w">
-                            <div class="reg-title">
-                              Chăm sóc khách hàng
-                            </div>
+                            <div class="reg-title">Chăm sóc khách hàng</div>
                             <p class="excerpt">
                               Thường xuyên hỗ trợ, cập nhật thông tin, giải đáp
                               thắc mắc cùng với app tích hợp tiện ích như
@@ -375,8 +405,8 @@
                             </p>
                           </div>
                         </div>
-                        <div  class="rectagle brow">
-                          <img src="/images/trai-nghiem-thuc-te.svg" alt="">
+                        <div class="rectagle brow">
+                          <img src="/images/trai-nghiem-thuc-te.svg" alt="" />
                           <div class="reg-content-w">
                             <div class="reg-title">Trải nghiệm thực tế</div>
                             <p class="excerpt">
@@ -387,8 +417,11 @@
                         </div>
                       </div>
                       <div class="div-rectagle-bottom">
-                        <div  class="rectagle gray">
-                          <img src="/images/doi-ngu-giang-vien.svg" style="transform: rotate(0);">
+                        <div class="rectagle gray">
+                          <img
+                            src="/images/doi-ngu-giang-vien.svg"
+                            style="transform: rotate(0)"
+                          />
                           <div class="reg-content-w">
                             <div class="reg-title">Đội ngũ giảng viên</div>
                             <p class="excerpt">
@@ -398,19 +431,23 @@
                             </p>
                           </div>
                         </div>
-                        <div  class="rectagle brow">
-                          <img src="/images/gia-tri-cong-them.svg" alt="" srcset="">
+                        <div class="rectagle brow">
+                          <img
+                            src="/images/gia-tri-cong-them.svg"
+                            alt=""
+                            srcset=""
+                          />
                           <div class="reg-content-w">
                             <div class="reg-title">Giá trị cộng thêm</div>
                             <p class="excerpt">
                               BES thường xuyên tổ chức các buổi workshop,
                               seminars, hoạt động ngoại khóa hay mời các chuyên
-                              gia chia sẻ về các <br/>chủ đề
+                              gia chia sẻ về các <br />chủ đề
                             </p>
                           </div>
                         </div>
-                        <div  class="rectagle brow">
-                          <img src="/images/co-so-vat-chat.svg" alt="">
+                        <div class="rectagle brow">
+                          <img src="/images/co-so-vat-chat.svg" alt="" />
                           <div class="reg-content-w">
                             <div class="reg-title">Cơ sở vật chất</div>
                             <p class="excerpt">
@@ -419,8 +456,8 @@
                             </p>
                           </div>
                         </div>
-                        <div  class="rectagle gray">
-                          <img src="/images/giao-trinh.svg" alt="">
+                        <div class="rectagle gray">
+                          <img src="/images/giao-trinh.svg" alt="" />
                           <div class="reg-content-w">
                             <div class="reg-title">Giáo trình độc quyền</div>
                             <p class="excerpt">
@@ -434,7 +471,7 @@
                     <div class="box-div-rectangle rectangle-tablet">
                       <div class="div-rectagle-top">
                         <div class="rectagle gray">
-                          <img src="/images/light.svg">
+                          <img src="/images/light.svg" />
                           <div class="reg-content-w">
                             <div class="reg-title">Phương pháp giảng dạy</div>
                             <p class="excerpt">
@@ -444,12 +481,10 @@
                             </p>
                           </div>
                         </div>
-                        <div  class="rectagle gray">
-                          <img src="/images/cham-soc-khach-hang.svg" alt="">
+                        <div class="rectagle gray">
+                          <img src="/images/cham-soc-khach-hang.svg" alt="" />
                           <div class="reg-content-w">
-                            <div class="reg-title">
-                              Chăm sóc khách hàng
-                            </div>
+                            <div class="reg-title">Chăm sóc khách hàng</div>
                             <p class="excerpt">
                               Thường xuyên hỗ trợ, cập nhật thông tin, giải đáp
                               thắc mắc cùng với app tích hợp tiện ích như
@@ -459,8 +494,11 @@
                         </div>
                       </div>
                       <div class="div-rectagle-bottom">
-                        <div  class="rectagle brow">
-                          <img src="/images/doi-ngu-giang-vien.svg" style="transform: rotate(0);">
+                        <div class="rectagle brow">
+                          <img
+                            src="/images/doi-ngu-giang-vien.svg"
+                            style="transform: rotate(0)"
+                          />
                           <div class="reg-content-w">
                             <div class="reg-title">Đội ngũ giảng viên</div>
                             <p class="excerpt">
@@ -470,19 +508,23 @@
                             </p>
                           </div>
                         </div>
-                        <div  class="rectagle brow">
-                          <img src="/images/gia-tri-cong-them.svg" alt="" srcset="">
+                        <div class="rectagle brow">
+                          <img
+                            src="/images/gia-tri-cong-them.svg"
+                            alt=""
+                            srcset=""
+                          />
                           <div class="reg-content-w">
                             <div class="reg-title">Giá trị cộng thêm</div>
                             <p class="excerpt">
                               BES thường xuyên tổ chức các buổi workshop,
                               seminars, hoạt động ngoại khóa hay mời các chuyên
-                              gia chia sẻ về các <br/>chủ đề
+                              gia chia sẻ về các <br />chủ đề
                             </p>
                           </div>
                         </div>
-                        <div  class="rectagle brow">
-                          <img src="/images/co-so-vat-chat.svg" alt="">
+                        <div class="rectagle brow">
+                          <img src="/images/co-so-vat-chat.svg" alt="" />
                           <div class="reg-content-w">
                             <div class="reg-title">Cơ sở vật chất</div>
                             <p class="excerpt">
@@ -493,8 +535,8 @@
                         </div>
                       </div>
                       <div class="div-rectagle-center div-rectagle-bottom">
-                        <div  class="rectagle gray">
-                          <img src="/images/trai-nghiem-thuc-te.svg" alt="">
+                        <div class="rectagle gray">
+                          <img src="/images/trai-nghiem-thuc-te.svg" alt="" />
                           <div class="reg-content-w">
                             <div class="reg-title">Trải nghiệm thực tế</div>
                             <p class="excerpt">
@@ -503,8 +545,8 @@
                             </p>
                           </div>
                         </div>
-                        <div  class="rectagle gray">
-                          <img src="/images/giao-trinh.svg" alt="">
+                        <div class="rectagle gray">
+                          <img src="/images/giao-trinh.svg" alt="" />
                           <div class="reg-content-w">
                             <div class="reg-title">Giáo trình độc quyền</div>
                             <p class="excerpt">
@@ -516,81 +558,85 @@
                       </div>
                     </div>
                     <div class="box-div-rectangle rectangle-mobile">
-                        <div class="rectagle brow">
-                          <img src="/images/light.svg">
-                          <div class="reg-content-w">
-                            <div class="reg-title">Phương pháp giảng dạy</div>
-                            <p class="excerpt">
-                              Tập trung vào mục tiêu con người học, không ngừng
-                              tìm hiểu, điều chỉnh và hướng khách hàng tới thành
-                              công
-                            </p>
-                          </div>
+                      <div class="rectagle brow">
+                        <img src="/images/light.svg" />
+                        <div class="reg-content-w">
+                          <div class="reg-title">Phương pháp giảng dạy</div>
+                          <p class="excerpt">
+                            Tập trung vào mục tiêu con người học, không ngừng
+                            tìm hiểu, điều chỉnh và hướng khách hàng tới thành
+                            công
+                          </p>
                         </div>
-                        <div  class="rectagle gray">
-                          <img src="/images/cham-soc-khach-hang.svg" alt="">
-                          <div class="reg-content-w">
-                            <div class="reg-title">
-                              Chăm sóc khách hàng
-                            </div>
-                            <p class="excerpt">
-                              Thường xuyên hỗ trợ, cập nhật thông tin, giải đáp
-                              thắc mắc cùng với app tích hợp tiện ích như
-                              booking báo cáo đánh giá
-                            </p>
-                          </div>
+                      </div>
+                      <div class="rectagle gray">
+                        <img src="/images/cham-soc-khach-hang.svg" alt="" />
+                        <div class="reg-content-w">
+                          <div class="reg-title">Chăm sóc khách hàng</div>
+                          <p class="excerpt">
+                            Thường xuyên hỗ trợ, cập nhật thông tin, giải đáp
+                            thắc mắc cùng với app tích hợp tiện ích như booking
+                            báo cáo đánh giá
+                          </p>
                         </div>
-                        <div  class="rectagle brow">
-                          <img src="/images/trai-nghiem-thuc-te.svg" alt="">
-                          <div class="reg-content-w">
-                            <div class="reg-title">Trải nghiệm thực tế</div>
-                            <p class="excerpt">
-                              Bằng các study tour ngắn ngày hoặc chuyến đi khám
-                              phá tới các quốc gia như Philipines, Singapore,...
-                            </p>
-                          </div>
+                      </div>
+                      <div class="rectagle brow">
+                        <img src="/images/trai-nghiem-thuc-te.svg" alt="" />
+                        <div class="reg-content-w">
+                          <div class="reg-title">Trải nghiệm thực tế</div>
+                          <p class="excerpt">
+                            Bằng các study tour ngắn ngày hoặc chuyến đi khám
+                            phá tới các quốc gia như Philipines, Singapore,...
+                          </p>
                         </div>
-                        <div  class="rectagle gray">
-                          <img src="/images/doi-ngu-giang-vien.svg" style="transform: rotate(0);">
-                          <div class="reg-content-w">
-                            <div class="reg-title">Đội ngũ giảng viên</div>
-                            <p class="excerpt">
-                              Có chuyên môn cao đến từ nhiều quốc gia và là
-                              chuyên gia trong nhiều lĩnh vực như giáo dục, công
-                              nghệ
-                            </p>
-                          </div>
+                      </div>
+                      <div class="rectagle gray">
+                        <img
+                          src="/images/doi-ngu-giang-vien.svg"
+                          style="transform: rotate(0)"
+                        />
+                        <div class="reg-content-w">
+                          <div class="reg-title">Đội ngũ giảng viên</div>
+                          <p class="excerpt">
+                            Có chuyên môn cao đến từ nhiều quốc gia và là chuyên
+                            gia trong nhiều lĩnh vực như giáo dục, công nghệ
+                          </p>
                         </div>
-                        <div  class="rectagle brow">
-                          <img src="/images/gia-tri-cong-them.svg" alt="" srcset="">
-                          <div class="reg-content-w">
-                            <div class="reg-title">Giá trị cộng thêm</div>
-                            <p class="excerpt">
-                              BES thường xuyên tổ chức các buổi workshop,
-                              seminars, hoạt động ngoại khóa hay mời các chuyên
-                              gia chia sẻ về các <br/>chủ đề
-                            </p>
-                          </div>
+                      </div>
+                      <div class="rectagle brow">
+                        <img
+                          src="/images/gia-tri-cong-them.svg"
+                          alt=""
+                          srcset=""
+                        />
+                        <div class="reg-content-w">
+                          <div class="reg-title">Giá trị cộng thêm</div>
+                          <p class="excerpt">
+                            BES thường xuyên tổ chức các buổi workshop,
+                            seminars, hoạt động ngoại khóa hay mời các chuyên
+                            gia chia sẻ về các <br />chủ đề
+                          </p>
                         </div>
-                        <div  class="rectagle gray">
-                          <img src="/images/co-so-vat-chat.svg" alt="">
-                          <div class="reg-content-w">
-                            <div class="reg-title">Cơ sở vật chất</div>
-                            <p class="excerpt">
-                              Hiện đại, các mối quan hệ và các dịch vụ tiện ích
-                              giúp khách hàng có những trải nghiệm khó quên
-                            </p>
-                          </div>
+                      </div>
+                      <div class="rectagle gray">
+                        <img src="/images/co-so-vat-chat.svg" alt="" />
+                        <div class="reg-content-w">
+                          <div class="reg-title">Cơ sở vật chất</div>
+                          <p class="excerpt">
+                            Hiện đại, các mối quan hệ và các dịch vụ tiện ích
+                            giúp khách hàng có những trải nghiệm khó quên
+                          </p>
                         </div>
-                        <div  class="rectagle brow">
-                          <img src="/images/giao-trinh.svg" alt="">
-                          <div class="reg-content-w">
-                            <div class="reg-title">Giáo trình độc quyền</div>
-                            <p class="excerpt">
-                              Biên soạn bởi các chuyên gia. Các buổi học đề cao
-                              trải nghiệm cá nhân tính thực dụng của ngôn ngữ
-                            </p>
-                          </div>
+                      </div>
+                      <div class="rectagle brow">
+                        <img src="/images/giao-trinh.svg" alt="" />
+                        <div class="reg-content-w">
+                          <div class="reg-title">Giáo trình độc quyền</div>
+                          <p class="excerpt">
+                            Biên soạn bởi các chuyên gia. Các buổi học đề cao
+                            trải nghiệm cá nhân tính thực dụng của ngôn ngữ
+                          </p>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -1008,22 +1054,19 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
+                      alt="BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
                     />
                     Khóa học
                   </div>
                   <div class="_list_courses">
-                    <a
-                      :href="localePath('/khoa-hoc-vip')"
-                      class="_item"
-                    >
+                    <a :href="localePath('/khoa-hoc')" class="_item">
                       <img
                         class="_img lazy"
                         src="/uploads/2021/11/Screen-Shot-2021-11-25-at-10.10.41.png"
-                        alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
+                         alt="BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
                       />
                       <div class="_content">
-                        <div class="_type">Private courses</div>
+                        <div class="_type">VIP</div>
                         <div class="btn_site _near">
                           <span>Xem thêm</span>
                           <img
@@ -1034,28 +1077,24 @@
                         </div>
                       </div>
                     </a>
-                    <a
-                      :href="localePath('/khoa-hoc-class')"
-                      class="_item"
-                    >
+                    <a :href="localePath('/khoa-hoc')" class="_item">
                       <img
                         class="_img lazy"
                         src="/uploads/2021/11/image-15.png"
                         alt=""
                       />
                       <div class="_content">
-                        <div class="_type">Group courses</div>
+                        <div class="_type">Class</div>
                         <div class="btn_site _near">
                           <span>Xem thêm</span>
                           <img
                             class="lazy"
                             src="/images/common/arrow-right.png"
-                            alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
+                             alt="BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
                           />
                         </div>
                       </div>
                     </a>
-                  
                   </div>
                 </div>
               </div>
@@ -1072,120 +1111,54 @@
                     />
                     Tin tức & Blog
                   </div>
-                  <div class="_content">
+                  <div class="_content" v-if="!loading">
                     <div class="_left">
                       <div class="new_feature">
                         <a
-                          href=""
+                          :href="localePath('/tin-tuc/' + news[0].slug)"
                           class="_img"
-                          ><img
+                        >
+                          <img
                             class="lazy"
-                            src="/uploads/2023/02/PR-QAA-1-scaled.jpg"
-                            alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
+                            :src="news[0].image.url"
+                            :alt="news[0].title"
                         /></a>
                         <div class="_text">
-                          <p class="time">Th2 15, 2023</p>
-                          <a
-                            href=""
-                            class="title"
-                            >BES đạt chứng nhận kiểm định toàn diện từ Cơ quan
-                            Đảm bảo Chất lượng Giáo dục Đại học Anh Quốc
-                            (QAA)</a
-                          >
+                          <p class="time">
+                            {{ formatDate(news[0].created_time) }}
+                          </p>
+                          <a href="" class="title">
+                            {{ news[0].title }}
+                          </a>
                           <p class="excerpt">
-                            Trường Đại học Anh Quốc Việt Nam (BES) chính thức
-                            trở thành trường đại học đầu tiên và duy nhất tại
-                            Việt Nam đạt chứng nhận kiểm định QAA với cương vị
-                            một cơ sở giáo dục độc lập. Tính đến thời điểm hiện
-                            nay, BES là trường đại học đầu tiên và duy nhất
-                            [&hellip;]
+                            {{ news[0].descriptions }}
                           </p>
                         </div>
                       </div>
                       <div class="new_latest_list">
-                        <div class="new_latest">
+                        <div
+                          class="new_latest"
+                          v-for="(item, index) in news.filter((i, k) => k != 0)"
+                        >
                           <a
-                            href=""
+                            :href="localePath('/tin-tuc/' + item.slug)"
                             class="_img"
-                            ><img
+                          >
+                            <img
                               class="lazy"
-                              src="/uploads/2022/12/HTQT4.jpg"
-                              alt="<strong>Trường Đại học Anh Quốc Việt Nam hợp tác với Trường Đại học Khánh Hòa tổ chức Hội thảo khoa học quốc tế với chủ đề “Đổi mới và phát triển Du lịch sau đại dịch Covid 19”</strong> "
-                          /></a>
+                              :src="item.image.url"
+                              :alt="item.title"
+                            />
+                          </a>
                           <div class="_text">
-                            <p class="time">Th12 08, 2022</p>
+                            <p class="time">
+                              {{ formatDate(item.created_time) }}
+                            </p>
                             <a
-                              href=""
+                              :href="localePath('/tin-tuc/' + item.slug)"
                               class="title"
-                              ><strong
-                                >Trường Đại học Anh Quốc Việt Nam hợp tác với
-                                Trường Đại học Khánh Hòa tổ chức Hội thảo khoa
-                                học quốc tế với chủ đề “Đổi mới và phát triển Du
-                                lịch sau đại dịch Covid 19”</strong
-                              > </a
                             >
-                          </div>
-                        </div>
-                        <div class="new_latest">
-                          <a
-                            href=""
-                            class="_img"
-                            ><img
-                              class="lazy"
-                              src="/uploads/2022/12/IMG_8874-01-1-2-scaled.jpeg"
-                              alt="BES KÍ KẾT THỎA THUẬN HỢP TÁC CÙNG TRƯỜNG ĐẠI HỌC BRISTOL, MỞ RỘNG CƠ HỘI CHUYỂN TIẾP SAU ĐẠI HỌC CHO SINH VIÊN"
-                          /></a>
-                          <div class="_text">
-                            <p class="time">Th12 06, 2022</p>
-                            <a
-                              href=""
-                              class="title"
-                              >BES KÍ KẾT THỎA THUẬN HỢP TÁC CÙNG TRƯỜNG ĐẠI HỌC
-                              BRISTOL, MỞ RỘNG CƠ HỘI CHUYỂN TIẾP SAU ĐẠI HỌC
-                              CHO SINH VIÊN</a
-                            >
-                          </div>
-                        </div>
-                        <div class="new_latest">
-                          <a
-                            href=""
-                            class="_img"
-                            ><img
-                              class="lazy"
-                              src="/uploads/2022/11/DCI_4591-scaled.jpg"
-                              alt="<strong>Trường Đại học Anh Quốc Việt Nam nhận chứng chỉ QS Stars 5 sao tại Lễ trao giải QS Awards Ceremony</strong> "
-                          /></a>
-                          <div class="_text">
-                            <p class="time">Th11 23, 2022</p>
-                            <a
-                              href=""
-                              class="title"
-                              ><strong
-                                >Trường Đại học Anh Quốc Việt Nam nhận chứng chỉ
-                                QS Stars 5 sao tại Lễ trao giải QS Awards
-                                Ceremony</strong
-                              > </a
-                            >
-                          </div>
-                        </div>
-                        <div class="new_latest">
-                          <a
-                            href=""
-                            class="_img"
-                            ><img
-                              class="lazy"
-                              src="/uploads/2022/11/BES-55-scaled.jpg"
-                              alt="<strong>Những câu chuyện truyền cảm hứng tại TEDxBES 2022</strong> "
-                          /></a>
-                          <div class="_text">
-                            <p class="time">Th11 23, 2022</p>
-                            <a
-                              href=""
-                              class="title"
-                              ><strong
-                                >Những câu chuyện truyền cảm hứng tại TEDxBES
-                                2022</strong
-                              > </a
+                              <strong> {{ item.title }} </strong> </a
                             >
                           </div>
                         </div>
@@ -1193,6 +1166,7 @@
                       <a
                         :href="localePath('tin-tuc')"
                         class="btn_site _far _see_news"
+                        style="bottom: -36px"
                       >
                         <span>Xem thêm</span>
                         <img
@@ -1202,7 +1176,6 @@
                         />
                       </a>
                     </div>
-                   
                   </div>
                 </div>
               </div>
@@ -1214,7 +1187,18 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
+                      alt="BES"
+                      cộng
+                      đồng
+                      học
+                      tiếng
+                      anh
+                      dành
+                      cho
+                      doanh
+                      nhân
+                      Việt
+                      Nam
                     />
                     Hệ thống BES
                   </div>
@@ -1222,94 +1206,99 @@
                     <div class="_item">
                       <div class="_title">Management Office</div>
                       <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
-                        <a
-                          href=""
-                        >
+                        <a href="">
                           <img
                             class="lazy"
                             src="/uploads/2021/10/Group-1.png"
                             alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
                           />
-                          <span>Ocean Gold Building, 32 Phạm Kiệt, Ngũ Hành Sơn</span>
+                          <span
+                            >Ocean Gold Building, 32 Phạm Kiệt, Ngũ Hành
+                            Sơn</span
+                          >
                         </a>
                       </div>
                     </div>
                     <div class="_item">
                       <div class="_title">Head Office</div>
                       <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
-                        <a
-                          href=""
-                        >
+                        <a href="">
                           <img
                             class="lazy"
                             src="/uploads/2021/10/Group-1.png"
                             alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
                           />
-                          <span>Tòa nhà Vincom Center, 72 Lê Thánh Tôn, Phường Bến Nghé</span>
+                          <span
+                            >Tòa nhà Vincom Center, 72 Lê Thánh Tôn, Phường Bến
+                            Nghé</span
+                          >
                         </a>
                       </div>
                     </div>
                     <div class="_item">
                       <div class="_title">Hà Nội</div>
                       <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
-                        <a
-                          href=""
-                        >
+                        <a href="">
                           <img
                             class="lazy"
                             src="/uploads/2021/10/Group-1.png"
                             alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
                           />
-                          <span>Belvedere Building ở số 28A Trần Hưng Đạo, quận Hoàn Kiếm</span>
+                          <span
+                            >Belvedere Building ở số 28A Trần Hưng Đạo, quận
+                            Hoàn Kiếm</span
+                          >
                         </a>
                       </div>
                     </div>
                     <div class="_item">
                       <div class="_title">Singapore</div>
                       <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
-                        <a
-                          href=""
-                        >
+                        <a href="">
                           <img
                             class="lazy"
                             src="/uploads/2021/10/Group-1.png"
                             alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
                           />
-                          <span>9 Raffles Pl, #29-05 REPUBLIC PLAZA, Singapore 048619</span>
+                          <span
+                            >9 Raffles Pl, #29-05 REPUBLIC PLAZA, Singapore
+                            048619</span
+                          >
                         </a>
                       </div>
                     </div>
                     <div class="_item">
                       <div class="_title">Philippines</div>
                       <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
-                        <a
-                          href=""
-                        >
+                        <a href="">
                           <img
                             class="lazy"
                             src="/uploads/2021/10/Group-1.png"
                             alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
                           />
-                          <span>LKG Tower, 6801 Ayala Ave, Makati, 1226 Metro Manila, Philippines</span>
+                          <span
+                            >LKG Tower, 6801 Ayala Ave, Makati, 1226 Metro
+                            Manila, Philippines</span
+                          >
                         </a>
                       </div>
                     </div>
                     <div class="_item">
                       <div class="_title">Management Office</div>
                       <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
-                        <a
-                          href=""
-                        >
+                        <a href="">
                           <img
                             class="lazy"
                             src="/uploads/2021/10/Group-1.png"
                             alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
                           />
-                          <span>Ocean Gold Building, 32 Phạm Kiệt, Ngũ Hành Sơn</span>
+                          <span
+                            >Ocean Gold Building, 32 Phạm Kiệt, Ngũ Hành
+                            Sơn</span
+                          >
                         </a>
                       </div>
                     </div>
-                    
                   </div>
                 </div>
               </div>
@@ -1389,13 +1378,24 @@
               </div>
             </section>
             <section class="h_section4 container" id="h_section4">
-              <div class="container_common" >
+              <div class="container_common">
                 <div class="content_common" style="padding: 64px 0px 100px">
                   <div class="label_def _white">
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
+                      alt="BES"
+                      cộng
+                      đồng
+                      học
+                      tiếng
+                      anh
+                      dành
+                      cho
+                      doanh
+                      nhân
+                      Việt
+                      Nam
                     />
                     Review
                   </div>
@@ -1404,8 +1404,8 @@
                     v-bind="slickOptions2"
                     style="margin-top: 50px"
                   >
-                    <div class="w-review-item" v-for="review in reviews" >
-                      <review-item :review="review"/>
+                    <div class="w-review-item" v-for="review in reviews">
+                      <review-item :review="review" />
                     </div>
                   </VueSlickCarousel>
                   <!-- </div> -->
@@ -1436,14 +1436,14 @@
                       type specimen book. It has survived not only five
                       centuries, but also the leap into electronic typesetting,
                       remaining essentially unchanged.
-                       <div class="app-down-btn">
-                      <div>
-                        <img src="/images/ggdownload.png" alt="" />
+                      <div class="app-down-btn">
+                        <div>
+                          <img src="/images/ggdownload.png" alt="" />
+                        </div>
+                        <div>
+                          <img src="/images/appledownload.png" alt="" />
+                        </div>
                       </div>
-                      <div>
-                        <img src="/images/appledownload.png" alt="" />
-                      </div>
-                    </div>
                     </div>
                     <div class="app-col app-col-pr">
                       <img
@@ -1773,7 +1773,18 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt=BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam
+                      alt="BES"
+                      cộng
+                      đồng
+                      học
+                      tiếng
+                      anh
+                      dành
+                      cho
+                      doanh
+                      nhân
+                      Việt
+                      Nam
                     />
                     Đối tác
                   </div>
@@ -1792,8 +1803,8 @@
                         ><img src="/images/brands/b3.svg" alt=""
                       /></a>
                       <a href="#" class="a-link-brand">
-                        <img src="/images/brands/b4.svg" alt=""/>
-                    </a>
+                        <img src="/images/brands/b4.svg" alt="" />
+                      </a>
                       <a href="#" class="a-link-brand"
                         ><img src="/images/brands/b5.svg" alt=""
                       /></a>
@@ -1834,49 +1845,50 @@ import FooterSite from "@/components/Footer.vue";
 import decor5 from "@/components/decor5.vue";
 import ReviewItem from "@/components/reviewItem.vue";
 import VueSlickCarousel from "vue-slick-carousel";
+import api from "../plugins/api";
 
 const reviews = [
-  { 
+  {
     name: "Mr. Văn Đình Sơn",
     role: "CEO Sơn An Holding",
     message: `Ngoài các giờ học trong tuần, BES còn tổ chức các khung cố vấn ngoài giờ hay các buổi hội thảo, workshop để mọi người được
     gặp và giao lưu về các chủ đề và lĩnh vực khác nhau rất bổ ích và thúc vị.`,
-    avt: "/images/reviews/van_dinh_son.jpg"
+    avt: "/images/reviews/van_dinh_son.jpg",
   },
   {
     name: "Mr. Đức Anh",
     role: "Phát thanh viên đài NTV",
     message: `Ở BES mình được lựa chọn lịch học phù hợp với lịch trình và công việc riêng của mình. Các bạn nhân viên cũng thường xuyên
     nhắc nhở lịch học và hỗ trợ nhiệt tình`,
-    avt: "/images/reviews/duc_anh.jpg"
+    avt: "/images/reviews/duc_anh.jpg",
   },
   {
     name: "Mr. Nguyễn Trung Kiên",
     role: "CEO Công ty CPTM Công nghệ Xanh",
     message: `Không gian của BES vừa tiện nghi, vừa hiện đại phục vụ được cho việc học nhóm cũng thích hợp để có thể tự học 
     hay gặp gỡ bạn bè, nên dù không có giờ học mình vẫn thích đến đây để làm việc và gặp gỡ bạn bè`,
-    avt: "/images/reviews/nguyen_trung_kien.jpg"
+    avt: "/images/reviews/nguyen_trung_kien.jpg",
   },
   {
     name: "Mrs. Quách Thanh Hạnh",
     role: "Trưởng phòng HCNS SGD Bảo Việt Bank",
     message: `Công việc bận rộn nên dù tôi ấp ủ mong muốn nâng cao trình độ tiếng anh đã lâu nhưng vẫn chưa sắp xếp được công việc. Nhưng
     nhờ BES mà công việc học trở nên linh hoạt và dễ dành hơn rất nhiều.`,
-    avt: "/images/reviews/quach_thanh_hanh.jpg"
+    avt: "/images/reviews/quach_thanh_hanh.jpg",
   },
   {
     name: "Mrs. Bùi Thị Hải Yến",
     role: "IDP Education Consultant",
     message: `Ở Vinh đang thiếu một môi trường để người đi làm như tôi có thể sử dụng và nâng cao trình độ tiếng Anh. Và BES đã giúp tôi
     thực hiện điều đó. Ngoài việc được sử dụng tiếng Anh, tôi cũng rất vui vì đã làm quen được nhiều bạn bè mới ở đây.`,
-    avt: "/images/reviews/bui_thi_hai_yen.jpg"
+    avt: "/images/reviews/bui_thi_hai_yen.jpg",
   },
   {
     name: "Mrs. Nguyễn Hồng Lê",
     role: "Giám đốc Ngân Hàng Vietbank",
     message: `Lịch học của BES khá linh hoạt và có nhiều khung giờ để lựa chọn. Giáo viên cũng như các bạn nhân viên đều rất nhiệt tình giúp đỡ và 
     hướng dẫn. Một môi trường thích hợp để học tập và nâng cao bản thân`,
-    avt: "/images/reviews/nguyen_hong_le.jpg"
+    avt: "/images/reviews/nguyen_hong_le.jpg",
   },
   {
     name: "Mr. Trần Hoàng Em",
@@ -1889,62 +1901,65 @@ const reviews = [
     role: "Giáo viên Vinschool",
     message: `Phương pháp học tập của BES luôn lấy mục tiêu học tập của khách hàng làm trung tâm giúp mình biết phải làm gì và tập trung vào đâu. 
     Do đó, rất nhanh đạt được hiệu quả mà mình mong muốn`,
-    avt: "/images/reviews/luong_ngoc_duong.jpg"
-  }, 
+    avt: "/images/reviews/luong_ngoc_duong.jpg",
+  },
   {
     name: "Ths. Nguyễn Việt Hùng",
     role: "CEO IRC - Trung tâm phục hồi chấn thương Thể Thao VN",
     message: `Mình thât trân trọng khi đội ngũ BES đang không ngừng nâng cao chất lượng đào tạo và trải nghiệm khách hàng một cách toàn diện
     nhất khiến mỗi lần đến đây mình đều có những trải nghiệm hài lòng và vui vẻ.`,
-    avt: "/images/reviews/nguyen_viet_hung.jpg"
+    avt: "/images/reviews/nguyen_viet_hung.jpg",
   },
   {
     name: "ThS. Bác sĩ. Vũ Hồng Sơn",
     role: "Trưởng Khoa Nhiễm Khuẩn BV Đa Khoa Thành phố Vinh",
     message: `Phương pháp học tập của BES không đi theo lối mòn trải nghiệm học tập của mình khá vui vẻ và dễ hiểu. Điều này khiến cho con đường
     chinh phục môn ngoại ngữ này dễ dàng và hiệu quả hơn.`,
-    avt: "/images/reviews/vu_hong_son.jpg"
+    avt: "/images/reviews/vu_hong_son.jpg",
   },
   {
     name: "Ths. Nguyễn Xuân Tài",
     role: "Phó Tổng giám đốc Bệnh Viện Đa Khoa Cửa Đông",
     message: `BES có nhiều chương trình phù hợp với nhiều trình độ. Các giáo viên luôn nhiệt tình giúp đỡ nên việc học tiếng Anh trở nên dễ
     dàng hơn rất nhiều.`,
-    avt: "/images/reviews/nguyen_xuan_tai.jpg"
+    avt: "/images/reviews/nguyen_xuan_tai.jpg",
   },
   {
     name: "Mr. Trần Văn Dương",
     role: "Giám đốc Công ty CP Thiết kế Đầu tư & Xây dựng HHD (SG)",
     message: `Cơ sở vật chất hiện đại và tiện nghi giúp nâng cao trải nghiệm học tập tại BES. Ngoài ra, mọi người ở đây đều rât thân thiện
     và nhiệt tình giúp đỡ nên mình cảm thấy rất thoải mái khi học tập tại đây.`,
-    avt: "/images/reviews/tran_van_duong.jpg"
-  }, 
+    avt: "/images/reviews/tran_van_duong.jpg",
+  },
   {
     name: "Mr. Vũ Duy Đông",
     role: "Thuyền phó tàu Viễn Dương tâp đoàn dầu khí Việt Nam",
     message: `Học tiếng Anh chưa bao giờ dễ dàng với tôi đến vậy. Giáo viên chất lựợng, chương tình học phù hợp, nhân viên nhiệt tình,
     môi trường học tập thoải mái, mọi thứ tạo nên BES.`,
-    avt: "/images/reviews/vu_duy_dong.jpg"
+    avt: "/images/reviews/vu_duy_dong.jpg",
   },
   {
     name: "Mr.Nguyễn Đức Thành",
     role: "CEO Mindplus+ - Đơn vị đào tạo Boki duy nhất bằng tiếng Việt",
-    message: "Không chỉ học tiếng Anh giao tiếp, ở BES có những giáo viên, chuyên gia ở nhiều lĩnh vực khác nhau nên học tập ở đay rất vui vẻ và hữu ích",
-    avt:  "/images/reviews/nguyen_duc_thanh.jpg"
+    message:
+      "Không chỉ học tiếng Anh giao tiếp, ở BES có những giáo viên, chuyên gia ở nhiều lĩnh vực khác nhau nên học tập ở đay rất vui vẻ và hữu ích",
+    avt: "/images/reviews/nguyen_duc_thanh.jpg",
   },
   {
     name: "Mr.Bùi Anh Tú",
     role: "Tiếp viên trưởng hãng hàng không Vietjet Air",
-    message: "BES là một môi trường thích hợp cho những người đi làm muốn nâng cao trình độ tiếng Anh cũng như mở rộng các mối quan hệ trong xã hội. Cho nên, tôi thường giới thiệu các bạn bè mình tới đây để học tập",
-    avt:  "/images/reviews/bui_anh_tu.jpg"
+    message:
+      "BES là một môi trường thích hợp cho những người đi làm muốn nâng cao trình độ tiếng Anh cũng như mở rộng các mối quan hệ trong xã hội. Cho nên, tôi thường giới thiệu các bạn bè mình tới đây để học tập",
+    avt: "/images/reviews/bui_anh_tu.jpg",
   },
   {
     name: "Bác sĩ. Nguyễn Thọ",
     role: "Viện IAD Đà Nẵng - Nghiên cứu Quốc tế về Trí tuệ nhân tạo và Khoa học dữ liệu",
-    message: "Học tập nâng cao kiến thức bản thân luôn là ưu tiên hàng đầu của tôi. Tôi chọn BES vì giáo trình, giáo viên hay chương trình học ở đây luôn dược đầu tư kỹ càng và chất lượng.",
-    avt:  "/images/reviews/nguyen_tho.jpg"
-  }
-]
+    message:
+      "Học tập nâng cao kiến thức bản thân luôn là ưu tiên hàng đầu của tôi. Tôi chọn BES vì giáo trình, giáo viên hay chương trình học ở đây luôn dược đầu tư kỹ càng và chất lượng.",
+    avt: "/images/reviews/nguyen_tho.jpg",
+  },
+];
 export default {
   data() {
     return {
@@ -1987,6 +2002,8 @@ export default {
           },
         ],
       },
+      news: [],
+      loading: true,
     };
   },
   components: {
@@ -1999,6 +2016,48 @@ export default {
     FooterSite,
     VueSlickCarousel,
   },
+  created() {
+    this.loading = true;
+    const params = {
+      limit: 5,
+      page: 1,
+      type: "news",
+    };
+    api
+      .post("/post/list", params)
+      .then((res) => {
+        this.news = res.data.list;
+      })
+      .catch((err) => {
+        console.log(err);
+      })
+      .finally(() => {
+        this.loading = false;
+      });
+  },
+  methods: {
+    formatDate(timestamp) {
+      const date = new Date(timestamp);
+      const day = date.getDate();
+      const month = date.getMonth() + 1;
+      const year = date.getFullYear();
+
+      const daysOfWeek = {
+        0: "Chủ nhật",
+        1: "Thứ hai",
+        2: "Thứ ba",
+        3: "Thứ tư",
+        4: "Thứ năm",
+        5: "Thứ sáu",
+        6: "Thứ bảy",
+      };
+      const dayOfWeek = daysOfWeek[date.getDay()];
+      const formattedDate = `${dayOfWeek}, ${day < 10 ? "0" + day : day}/${
+        month < 10 ? "0" + month : month
+      }/${year}`;
+
+      return formattedDate;
+    },
+  },
 };
 </script>
-
