@@ -327,92 +327,183 @@ export default {
                       Phương pháp giảng dạy
                     </div>
                     <div class="content-section2 the_content_def">
-                    <div class="circle-study">
-                      <div class="circle">
-                        <div
-                          v-for="i in 18"
-                          class="circle-line"
-                          :style="getStyle(i)"
-                        ></div>
-                        <div class="circle-content content1">
-                          <img src="/images/users.svg" alt="">
-                          <h1>workshop ngoại khoá</h1>
-                          <p>Tăng cường thực hành</p>
-                          <ul>
-                            <li>Đa dạng hoạt động</li>
-                            <li>Khách mời là chuyên gia từ nhiều lĩnh vực</li>
-                            <li>Giao lưu, kết nối bạn bè</li>
-                          </ul>
+                      <div class="circle-container">
+                        <div class="line-1 dotted-line"></div>
+                        <div class="line-2 dotted-line"></div>
+                        <div class="line-3 dotted-line"></div>
+                        <div class="line-4 dotted-line">
+                          <div id="triangle-up" class="triangle-dotted"></div>
                         </div>
-                        <div class="circle-content content2">
-                          <img src="/images/comments.svg" alt="">
-                          <h1>Giờ học 1-1</h1>
-                          <p>Tăng cường tương tác</p>
-                          <ul>
-                            <li>Giao tiếp với giáo viên nước ngoài</li>
-                            <li>Phát triển phản xạ ngôn ngữ</li>
-                            <li>Điều chỉnh theo năng lực học viên</li>
-                          </ul>
-                        </div>
-                        <div class="circle-content content3">
-                          <img src="/images/people.svg" alt="">
-                          <h1>Lớp thảo luận</h1>
-                          <p>Vận dụng tiếng anh vào thực tế</p>
-                          <ul>
-                            <li>Đa dạng các chủ để</li>
-                            <li>Phát triển kỹ năng mềm</li>
-                            <li>Giao lưu, kết nối</li>
-                          </ul>
+                        <div class="line-5 dotted-line">
+                          <div id="triangle-left" class="triangle-dotted"></div>
                         </div>
 
-                        <div class="circle-content content4">
-                          <h1>Giờ học 1-1</h1>
-                          <p>Tăng cường tương tác</p>
-                          <ul>
-                            <li>Giao tiếp với giáo viên nước ngoài</li>
-                            <li>Phát triển phản xạ ngôn ngữ</li>
-                            <li>Điều chỉnh theo năng lực học viên</li>
-                          </ul>
-                        </div>
-                        <div class="circle-content content5">
-                          <h1>Giờ học 1-1</h1>
-                          <p>Tăng cường tương tác</p>
-                          <ul>
-                            <li>Giao tiếp với giáo viên nước ngoài</li>
-                            <li>Phát triển phản xạ ngôn ngữ</li>
-                            <li>Điều chỉnh theo năng lực học viên</li>
-                          </ul>
-                        </div>
-                        <div class="circle-content content6">
-                          <h1>Giờ học 1-1</h1>
-                          <p>Tăng cường tương tác</p>
-                          <ul>
-                            <li>Giao tiếp với giáo viên nước ngoài</li>
-                            <li>Phát triển phản xạ ngôn ngữ</li>
-                            <li>Điều chỉnh theo năng lực học viên</li>
-                          </ul>
-                        </div>
-                        <div class="mini-circle">
-                          <img
-                          class="lazy mini-img1"
-                            src="/images/book.svg"
-                            alt="Cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
-                          />
+                        <h1 class="title-circle">
+                          Vòng tròng tuần hoàn mục tiêu
+                        </h1>
 
-                          <img
-                            class="lazy mini-img2"
-                            src="/images/group.svg"
-                            alt="Cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
-                          />
+                        <div class="circle-box">
+                          <div class="box-1">
+                            <h1>Quá trình đánh giá</h1>
+                            <span>(trước khoá học)</span>
+                          </div>
 
-                          <img
-                            class="lazy mini-img3"
-                            src="/images/headphone.svg"
-                            alt="Cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
-                          />
+                          <div class="box-2">
+                            <h1>Quá trình đánh giá</h1>
+                            <span>(trước khoá học)</span>
+                          </div>
+
+                          <div class="box-3">
+                            <h1>Quá trình đánh giá</h1>
+                            <span>(trước khoá học)</span>
+                          </div>
+                        </div>
+                        <div class="circle-arrow-container">
+                          <div class="big-arrow">
+                            <div class="triangle-top"></div>
+                            <div class="triangle-bottom"></div>
+                            <div class="triangle-right"></div>
+                            <span> Kiểm tra năng lực </span>
+                          </div>
+                          <div class="big-arrow">
+                            <div class="triangle-top"></div>
+                            <div class="triangle-bottom"></div>
+                            <div class="triangle-right"></div>
+                            <span> Tìm hiểu nhu cầu </span>
+                          </div>
+                          <div class="big-arrow">
+                            <div class="triangle-top"></div>
+                            <div class="triangle-bottom"></div>
+                            <div class="triangle-right"></div>
+                            <span> Xác định mục tiêu </span>
+                          </div>
+                          <div class="big-arrow">
+                            <div class="triangle-top"></div>
+                            <div class="triangle-bottom"></div>
+                            <div class="triangle-right"></div>
+                            <span> Thoả thuận mục tiêu </span>
+                          </div>
+                          <div class="circle-arrow">
+                            <div class="arrow arrow-1"></div>
+                            <div class="arrow arrow-2"></div>
+                            <div class="arrow arrow-3"></div>
+
+                            <div class="circle-part-line">
+                              <div class="part-line" style="rotate: -30deg">
+                                <div class="part-text part-text-1">Đào tạo</div>
+                              </div>
+                              <div class="part-line" style="rotate: 90deg">
+                                <div class="part-text part-text-2">
+                                  Đánh giá
+                                </div>
+                              </div>
+                              <div class="part-line" style="rotate: 210deg">
+                                <div class="part-text part-text-3">
+                                  Hiệu chỉnh
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="big-arrow">
+                            <div class="triangle-top"></div>
+                            <div class="triangle-bottom"></div>
+                            <div class="triangle-right"></div>
+                            <span> Kết khoá & chứng chỉ </span>
+                          </div>
+                          <div class="big-arrow">
+                            <div class="triangle-top"></div>
+                            <div class="triangle-bottom"></div>
+                            <div class="triangle-right"></div>
+                            <span> Xác định mục tiêu mới </span>
+                          </div>
                         </div>
                       </div>
-                    </div>
+                      <div class="circle-study">
+                        <div class="circle">
+                          <div
+                            v-for="i in 18"
+                            class="circle-line"
+                            :style="getStyle(i)"
+                          ></div>
+                          <div class="circle-content content1">
+                            <img src="/images/users.svg" alt="" />
+                            <h1>workshop ngoại khoá</h1>
+                            <p>Tăng cường thực hành</p>
+                            <ul>
+                              <li>Đa dạng hoạt động</li>
+                              <li>Khách mời là chuyên gia từ nhiều lĩnh vực</li>
+                              <li>Giao lưu, kết nối bạn bè</li>
+                            </ul>
+                          </div>
+                          <div class="circle-content content2">
+                            <img src="/images/comments.svg" alt="" />
+                            <h1>Giờ học 1-1</h1>
+                            <p>Tăng cường tương tác</p>
+                            <ul>
+                              <li>Giao tiếp với giáo viên nước ngoài</li>
+                              <li>Phát triển phản xạ ngôn ngữ</li>
+                              <li>Điều chỉnh theo năng lực học viên</li>
+                            </ul>
+                          </div>
+                          <div class="circle-content content3">
+                            <img src="/images/people.svg" alt="" />
+                            <h1>Lớp thảo luận</h1>
+                            <p>Vận dụng tiếng anh vào thực tế</p>
+                            <ul>
+                              <li>Đa dạng các chủ để</li>
+                              <li>Phát triển kỹ năng mềm</li>
+                              <li>Giao lưu, kết nối</li>
+                            </ul>
+                          </div>
+
+                          <div class="circle-content content4">
+                            <h1>Giờ học 1-1</h1>
+                            <p>Tăng cường tương tác</p>
+                            <ul>
+                              <li>Giao tiếp với giáo viên nước ngoài</li>
+                              <li>Phát triển phản xạ ngôn ngữ</li>
+                              <li>Điều chỉnh theo năng lực học viên</li>
+                            </ul>
+                          </div>
+                          <div class="circle-content content5">
+                            <h1>Giờ học 1-1</h1>
+                            <p>Tăng cường tương tác</p>
+                            <ul>
+                              <li>Giao tiếp với giáo viên nước ngoài</li>
+                              <li>Phát triển phản xạ ngôn ngữ</li>
+                              <li>Điều chỉnh theo năng lực học viên</li>
+                            </ul>
+                          </div>
+                          <div class="circle-content content6">
+                            <h1>Giờ học 1-1</h1>
+                            <p>Tăng cường tương tác</p>
+                            <ul>
+                              <li>Giao tiếp với giáo viên nước ngoài</li>
+                              <li>Phát triển phản xạ ngôn ngữ</li>
+                              <li>Điều chỉnh theo năng lực học viên</li>
+                            </ul>
+                          </div>
+                          <div class="mini-circle">
+                            <img
+                              class="lazy mini-img1"
+                              src="/images/book.svg"
+                              alt="Cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
+                            />
+
+                            <img
+                              class="lazy mini-img2"
+                              src="/images/group.svg"
+                              alt="Cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
+                            />
+
+                            <img
+                              class="lazy mini-img3"
+                              src="/images/headphone.svg"
+                              alt="Cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
+                            />
+                          </div>
+                        </div>
+                      </div>
                     </div>
                   </div>
                   <div class="section4" id="data-h5">
@@ -545,6 +636,260 @@ export default {
 ._wrapper .section4 {
   padding: 0;
 }
+
+.circle-container {
+  padding: 4em 0 12em;
+  position: relative;
+  margin-bottom: 8em;
+}
+
+.circle-box {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 6em;
+}
+
+.dotted-line {
+  border: none;
+  border-top: 8px dotted var(--color-main);
+  color: #fff;
+  background-color: #fff;
+  position: absolute;
+  height: 4px;
+}
+
+.line-1 {
+  rotate: 90deg;
+  width: 20em;
+  left: -8em;
+  top: 14em;
+}
+
+.line-2 {
+  rotate: 90deg;
+  width: 38em;
+  left: 12em;
+  top: 23em;
+}
+.line-3 {
+  rotate: 90deg;
+  width: 20em;
+  right: 5em;
+  top: 14em;
+}
+
+.line-4 {
+  width: 22em;
+  rotate: 0deg;
+  bottom: 7em;
+  left: 32em;
+}
+
+.line-5 {
+  rotate: 90deg;
+  width: 10em;
+  right: 15em;
+  bottom: 12em;
+}
+
+.triangle-dotted {
+  width: 0;
+  height: 0;
+  position: absolute;
+}
+
+#triangle-up {
+  border-left: 1.2em solid transparent;
+  border-right: 1.2em solid transparent;
+  border-bottom: 2.4em solid var(--color-main);
+  top: -8em;
+  left: -2.2em;
+}
+
+#triangle-left {
+  border-top: 1.2em solid transparent;
+  border-right: 2.4em solid var(--color-main);
+  border-bottom: 1.2em solid transparent;
+  top: 10em;
+  left: 8.8em;
+  rotate: -90deg;
+}
+
+.title-circle {
+  position: absolute;
+  bottom: 3em;
+  left: 43%;
+  color: var(--color-main);
+}
+
+.circle-box > div {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  color: var(--color-main);
+}
+
+.circle-box > div > h1 {
+  color: var(--color-main);
+}
+
+.box-1 {
+  width: 40%;
+}
+
+.box-2 {
+  width: 40%;
+}
+
+.box-3 {
+  width: 20%;
+}
+
+.circle-arrow-container {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+}
+
+.big-arrow {
+  width: 6.2em;
+  height: 4em;
+  background-color: var(--color-main);
+  color: #fff;
+  font-weight: 900;
+  font-size: 1em;
+  padding-left: 0.4em;
+  display: flex;
+  align-items: center;
+  position: relative;
+  top: 10em;
+}
+
+.big-arrow span {
+  display: block;
+  z-index: 9999;
+}
+
+.triangle-top {
+  width: 0;
+  height: 0;
+  border-top: 3.6em solid var(--color-main);
+  border-left: 2em solid transparent;
+  position: absolute;
+  left: -1.1em;
+  top: 0;
+}
+
+.triangle-right {
+  width: 0;
+  height: 0;
+  border-top: 2em solid transparent;
+  border-left: 1.2em solid var(--color-main);
+  border-bottom: 2em solid transparent;
+  position: absolute;
+  left: 6.2em;
+  top: 1px;
+}
+
+.triangle-bottom {
+  width: 0;
+  height: 0;
+  border-bottom: 3.6em solid var(--color-main);
+  border-left: 2em solid transparent;
+  position: absolute;
+  left: -1.1em;
+  top: calc(0.4em);
+}
+
+.circle-arrow {
+  width: 24em;
+  height: 24em;
+  background-color: var(--color-main);
+  border-radius: 50%;
+  position: relative;
+}
+
+.circle-arrow .arrow {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-top: 4em solid transparent;
+  border-left: 5em solid white;
+  border-bottom: 4em solid transparent;
+}
+
+.circle-arrow .arrow::after {
+  display: block;
+  content: "";
+  width: 0;
+  height: 0;
+  border-top: 4em solid transparent;
+  border-left: 5em solid var(--color-main);
+  border-bottom: 4em solid transparent;
+  top: -4em;
+  left: -104px;
+  position: absolute;
+}
+
+.circle-arrow .arrow-1 {
+  top: -2em;
+  left: 50%;
+  transform: translateX(-50%);
+  rotate: -4deg;
+}
+
+.circle-arrow .arrow-2 {
+  bottom: 40px;
+  right: 20px;
+  rotate: 120deg;
+}
+
+.circle-arrow .arrow-3 {
+  bottom: 50px;
+  left: 16px;
+  rotate: 232deg;
+}
+
+.circle-part-line {
+  width: 20em;
+  height: 20em;
+  border-radius: 50%;
+  background-color: #ccc;
+  position: absolute;
+  top: 2em;
+  left: 2em;
+  z-index: 9999;
+  overflow: hidden;
+}
+
+.part-text {
+  font-size: 1.6em;
+  color: var(--color-main);
+}
+
+.part-text-1 {
+  rotate: 30deg;
+  transform: translate(30px, -84px);
+}
+
+.part-text-2 {
+  transform: translate(26%, -116px) rotate(-90deg);
+}
+
+.part-text-3 {
+  transform: translate(8%, -74px) rotate(-210deg);
+}
+.circle-part-line .part-line {
+  position: absolute;
+  width: calc(50% + 2px);
+  height: 1em;
+  background-color: var(--color-main);
+  top: 48%;
+  left: 24%;
+  transform: translate(-50%, 0);
+}
+
 .circle-study {
   display: flex;
   justify-content: center;
@@ -636,7 +981,7 @@ h1 {
 
 .circle-content.content6 {
   left: 50%;
-  bottom:-2%;
+  bottom: -2%;
   height: auto;
   transform: translate(-50%, -50%);
 }
