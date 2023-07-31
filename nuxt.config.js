@@ -69,6 +69,14 @@ export default {
 
     ]
   },
+  
+
+  server: {
+    https: {
+      cert: require('fs').readFileSync('./cert/server.crt'),
+      key: require('fs').readFileSync('./cert/server.key'),
+    },
+  },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
@@ -135,6 +143,6 @@ export default {
   // buildDir: '../bes-build'
   // Environment variables
   env: {
-    api: process.env.API || 'http://localhost:3100/api'
+    api: process.env.API || 'https://localhost:3100/api'
   },
 }

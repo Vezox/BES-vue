@@ -400,8 +400,9 @@
                             <div class="reg-title">Chăm sóc khách hàng</div>
                             <p class="excerpt">
                               Thường xuyên hỗ trợ, cập nhật thông tin, giải đáp
-                              thắc mắc cùng với app tích hợp tiện ích như
-                              booking báo cáo đánh giá
+                              thắc mắc cùng với app tích hợp tiện ích như <br />
+                              booking báo cáo <br />
+                              đánh giá
                             </p>
                           </div>
                         </div>
@@ -518,8 +519,8 @@
                             <div class="reg-title">Giá trị cộng thêm</div>
                             <p class="excerpt">
                               BES thường xuyên tổ chức các buổi workshop,
-                              seminars, hoạt động ngoại khóa hay mời các chuyên
-                              gia chia sẻ về các <br />chủ đề
+                              seminars, hoạt động ngoại khóa hay mời các
+                              <br />chuyên gia chia sẻ về các <br />chủ đề
                             </p>
                           </div>
                         </div>
@@ -1063,7 +1064,7 @@
                       <img
                         class="_img lazy"
                         src="/uploads/2021/11/Screen-Shot-2021-11-25-at-10.10.41.png"
-                         alt="BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
+                        alt="BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
                       />
                       <div class="_content">
                         <div class="_type">VIP</div>
@@ -1090,7 +1091,7 @@
                           <img
                             class="lazy"
                             src="/images/common/arrow-right.png"
-                             alt="BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
+                            alt="BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
                           />
                         </div>
                       </div>
@@ -1187,18 +1188,7 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BES"
-                      cộng
-                      đồng
-                      học
-                      tiếng
-                      anh
-                      dành
-                      cho
-                      doanh
-                      nhân
-                      Việt
-                      Nam
+                      alt="BES cộng đồng học tiếng anh dành cho doanh  nhân Việt Nam"
                     />
                     Hệ thống BES
                   </div>
@@ -1207,15 +1197,21 @@
                       <div class="_title">Management Office</div>
                       <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
                         <a href="">
-                          <img
-                            class="lazy"
-                            src="/uploads/2021/10/Group-1.png"
-                            alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
-                          />
-                          <span
-                            >Ocean Gold Building, 32 Phạm Kiệt, Ngũ Hành
-                            Sơn</span
+                          <svg
+                            width="25"
+                            height="25"
+                            viewBox="0 0 25 25"
+                            fill="none"
                           >
+                            <path
+                              d="M8.50002 0C5.10516 0 2.34326 2.7619 2.34326 6.15672C2.34326 10.3698 7.85295 16.5548 8.08753 16.8161C8.30787 17.0615 8.69256 17.0611 8.9125 16.8161C9.14708 16.5548 14.6568 10.3698 14.6568 6.15672C14.6567 2.7619 11.8948 0 8.50002 0ZM8.50002 9.25434C6.79198 9.25434 5.40243 7.86476 5.40243 6.15672C5.40243 4.44869 6.79202 3.05914 8.50002 3.05914C10.208 3.05914 11.5976 4.44872 11.5976 6.15676C11.5976 7.86479 10.208 9.25434 8.50002 9.25434Z"
+                              fill="red"
+                            ></path>
+                          </svg>
+                          <span>
+                            Ocean Gold Building, 32 Pham Kiet St, Khue My W.,
+                            Ngu Hanh Son Dist, Da Nang City
+                          </span>
                         </a>
                       </div>
                     </div>
@@ -1223,78 +1219,104 @@
                       <div class="_title">Head Office</div>
                       <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
                         <a href="">
-                          <img
-                            class="lazy"
-                            src="/uploads/2021/10/Group-1.png"
-                            alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
-                          />
+                          <svg
+                            width="25"
+                            height="25"
+                            viewBox="0 0 25 25"
+                            fill="none"
+                          >
+                            <path
+                              d="M8.50002 0C5.10516 0 2.34326 2.7619 2.34326 6.15672C2.34326 10.3698 7.85295 16.5548 8.08753 16.8161C8.30787 17.0615 8.69256 17.0611 8.9125 16.8161C9.14708 16.5548 14.6568 10.3698 14.6568 6.15672C14.6567 2.7619 11.8948 0 8.50002 0ZM8.50002 9.25434C6.79198 9.25434 5.40243 7.86476 5.40243 6.15672C5.40243 4.44869 6.79202 3.05914 8.50002 3.05914C10.208 3.05914 11.5976 4.44872 11.5976 6.15676C11.5976 7.86479 10.208 9.25434 8.50002 9.25434Z"
+                              fill="red"
+                            ></path>
+                          </svg>
                           <span
-                            >Tòa nhà Vincom Center, 72 Lê Thánh Tôn, Phường Bến
-                            Nghé</span
+                            >  Vincom Center, 72 Le Thanh Ton St, Ben Nghe W., Dist 1, HCMC </span
                           >
                         </a>
                       </div>
                     </div>
                     <div class="_item">
-                      <div class="_title">Hà Nội</div>
+                      <div class="_title">Campus 1</div>
                       <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
                         <a href="">
-                          <img
-                            class="lazy"
-                            src="/uploads/2021/10/Group-1.png"
-                            alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
-                          />
+                          <svg
+                            width="25"
+                            height="25"
+                            viewBox="0 0 25 25"
+                            fill="none"
+                          >
+                            <path
+                              d="M8.50002 0C5.10516 0 2.34326 2.7619 2.34326 6.15672C2.34326 10.3698 7.85295 16.5548 8.08753 16.8161C8.30787 17.0615 8.69256 17.0611 8.9125 16.8161C9.14708 16.5548 14.6568 10.3698 14.6568 6.15672C14.6567 2.7619 11.8948 0 8.50002 0ZM8.50002 9.25434C6.79198 9.25434 5.40243 7.86476 5.40243 6.15672C5.40243 4.44869 6.79202 3.05914 8.50002 3.05914C10.208 3.05914 11.5976 4.44872 11.5976 6.15676C11.5976 7.86479 10.208 9.25434 8.50002 9.25434Z"
+                              fill="red"
+                            ></path>
+                          </svg>
                           <span
-                            >Belvedere Building ở số 28A Trần Hưng Đạo, quận
-                            Hoàn Kiếm</span
+                            > BES Building, Nguyen Quoc Tri St, Hung Binh W., Vinh City
+ </span
                           >
                         </a>
                       </div>
                     </div>
                     <div class="_item">
-                      <div class="_title">Singapore</div>
+                      <div class="_title">Ha Noi Office</div>
                       <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
                         <a href="">
-                          <img
-                            class="lazy"
-                            src="/uploads/2021/10/Group-1.png"
-                            alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
-                          />
+                          <svg
+                            width="25"
+                            height="25"
+                            viewBox="0 0 25 25"
+                            fill="none"
+                          >
+                            <path
+                              d="M8.50002 0C5.10516 0 2.34326 2.7619 2.34326 6.15672C2.34326 10.3698 7.85295 16.5548 8.08753 16.8161C8.30787 17.0615 8.69256 17.0611 8.9125 16.8161C9.14708 16.5548 14.6568 10.3698 14.6568 6.15672C14.6567 2.7619 11.8948 0 8.50002 0ZM8.50002 9.25434C6.79198 9.25434 5.40243 7.86476 5.40243 6.15672C5.40243 4.44869 6.79202 3.05914 8.50002 3.05914C10.208 3.05914 11.5976 4.44872 11.5976 6.15676C11.5976 7.86479 10.208 9.25434 8.50002 9.25434Z"
+                              fill="red"
+                            ></path>
+                          </svg>
                           <span
-                            >9 Raffles Pl, #29-05 REPUBLIC PLAZA, Singapore
-                            048619</span
+                            > Belvedere Building, 28A Tran Hung Dao  St, Hoan Kiem Dist, Ha Noi </span
                           >
                         </a>
                       </div>
                     </div>
                     <div class="_item">
-                      <div class="_title">Philippines</div>
+                      <div class="_title">Singapore Office</div>
                       <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
                         <a href="">
-                          <img
-                            class="lazy"
-                            src="/uploads/2021/10/Group-1.png"
-                            alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
-                          />
+                          <svg
+                            width="25"
+                            height="25"
+                            viewBox="0 0 25 25"
+                            fill="none"
+                          >
+                            <path
+                              d="M8.50002 0C5.10516 0 2.34326 2.7619 2.34326 6.15672C2.34326 10.3698 7.85295 16.5548 8.08753 16.8161C8.30787 17.0615 8.69256 17.0611 8.9125 16.8161C9.14708 16.5548 14.6568 10.3698 14.6568 6.15672C14.6567 2.7619 11.8948 0 8.50002 0ZM8.50002 9.25434C6.79198 9.25434 5.40243 7.86476 5.40243 6.15672C5.40243 4.44869 6.79202 3.05914 8.50002 3.05914C10.208 3.05914 11.5976 4.44872 11.5976 6.15676C11.5976 7.86479 10.208 9.25434 8.50002 9.25434Z"
+                              fill="red"
+                            ></path>
+                          </svg>
                           <span
-                            >LKG Tower, 6801 Ayala Ave, Makati, 1226 Metro
-                            Manila, Philippines</span
+                            >  #29-05 REPUBLIC PLAZA, 9 Raffles Pl, Singapore 048619 </span
                           >
                         </a>
                       </div>
                     </div>
                     <div class="_item">
-                      <div class="_title">Management Office</div>
+                      <div class="_title">Philippines Office</div>
                       <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
                         <a href="">
-                          <img
-                            class="lazy"
-                            src="/uploads/2021/10/Group-1.png"
-                            alt="Thạc sĩ Quản trị Kinh doanh (MBA)"
-                          />
+                          <svg
+                            width="25"
+                            height="25"
+                            viewBox="0 0 25 25"
+                            fill="none"
+                          >
+                            <path
+                              d="M8.50002 0C5.10516 0 2.34326 2.7619 2.34326 6.15672C2.34326 10.3698 7.85295 16.5548 8.08753 16.8161C8.30787 17.0615 8.69256 17.0611 8.9125 16.8161C9.14708 16.5548 14.6568 10.3698 14.6568 6.15672C14.6567 2.7619 11.8948 0 8.50002 0ZM8.50002 9.25434C6.79198 9.25434 5.40243 7.86476 5.40243 6.15672C5.40243 4.44869 6.79202 3.05914 8.50002 3.05914C10.208 3.05914 11.5976 4.44872 11.5976 6.15676C11.5976 7.86479 10.208 9.25434 8.50002 9.25434Z"
+                              fill="red"
+                            ></path>
+                          </svg>
                           <span
-                            >Ocean Gold Building, 32 Phạm Kiệt, Ngũ Hành
-                            Sơn</span
+                            > LKG Tower, 6801 Ayala Ave, Makati, 1226 Metro Manila, Philippines </span
                           >
                         </a>
                       </div>
@@ -1870,21 +1892,21 @@ const reviews = [
     avt: "/images/reviews/nguyen_trung_kien.jpg",
   },
   {
-    name: "Mrs. Quách Thanh Hạnh",
+    name: "Ms. Quách Thanh Hạnh",
     role: "Trưởng phòng HCNS SGD Bảo Việt Bank",
     message: `Công việc bận rộn nên dù tôi ấp ủ mong muốn nâng cao trình độ tiếng anh đã lâu nhưng vẫn chưa sắp xếp được công việc. Nhưng
     nhờ BES mà công việc học trở nên linh hoạt và dễ dành hơn rất nhiều.`,
     avt: "/images/reviews/quach_thanh_hanh.jpg",
   },
   {
-    name: "Mrs. Bùi Thị Hải Yến",
+    name: "Ms. Bùi Thị Hải Yến",
     role: "IDP Education Consultant",
     message: `Ở Vinh đang thiếu một môi trường để người đi làm như tôi có thể sử dụng và nâng cao trình độ tiếng Anh. Và BES đã giúp tôi
     thực hiện điều đó. Ngoài việc được sử dụng tiếng Anh, tôi cũng rất vui vì đã làm quen được nhiều bạn bè mới ở đây.`,
     avt: "/images/reviews/bui_thi_hai_yen.jpg",
   },
   {
-    name: "Mrs. Nguyễn Hồng Lê",
+    name: "Ms. Nguyễn Hồng Lê",
     role: "Giám đốc Ngân Hàng Vietbank",
     message: `Lịch học của BES khá linh hoạt và có nhiều khung giờ để lựa chọn. Giáo viên cũng như các bạn nhân viên đều rất nhiệt tình giúp đỡ và 
     hướng dẫn. Một môi trường thích hợp để học tập và nâng cao bản thân`,
@@ -1939,14 +1961,14 @@ const reviews = [
     avt: "/images/reviews/vu_duy_dong.jpg",
   },
   {
-    name: "Mr.Nguyễn Đức Thành",
+    name: "Mr. Nguyễn Đức Thành",
     role: "CEO Mindplus+ - Đơn vị đào tạo Boki duy nhất bằng tiếng Việt",
     message:
       "Không chỉ học tiếng Anh giao tiếp, ở BES có những giáo viên, chuyên gia ở nhiều lĩnh vực khác nhau nên học tập ở đay rất vui vẻ và hữu ích",
     avt: "/images/reviews/nguyen_duc_thanh.jpg",
   },
   {
-    name: "Mr.Bùi Anh Tú",
+    name: "Mr. Bùi Anh Tú",
     role: "Tiếp viên trưởng hãng hàng không Vietjet Air",
     message:
       "BES là một môi trường thích hợp cho những người đi làm muốn nâng cao trình độ tiếng Anh cũng như mở rộng các mối quan hệ trong xã hội. Cho nên, tôi thường giới thiệu các bạn bè mình tới đây để học tập",

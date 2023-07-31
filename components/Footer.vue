@@ -466,7 +466,7 @@
                           >
                         </li>
                         <li>
-                          <a :href="localePath('/lien-he')"
+                          <a :href="localePath('/tu-van')"
                             >Liên hệ
                           </a>
                         </li>

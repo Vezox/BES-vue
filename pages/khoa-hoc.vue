@@ -457,21 +457,22 @@ export default {
                           </div>
 
                           <div class="circle-content content4">
-                            <h1>Giờ học 1-1</h1>
-                            <p>Tăng cường tương tác</p>
+                            <h1>Bài học đa phương tiện</h1>
+                            <p>Tương tác</p>
                             <ul>
-                              <li>Giao tiếp với giáo viên nước ngoài</li>
-                              <li>Phát triển phản xạ ngôn ngữ</li>
-                              <li>Điều chỉnh theo năng lực học viên</li>
+                              <li>Nghe - nói - đọc - viết</li>
+                              <li>Giáo viên hướng dẫn</li>
+                              <li>Ngữ cảnh thực tế</li>
+                              <li>Chủ đề đa dạng</li>
                             </ul>
                           </div>
                           <div class="circle-content content5">
-                            <h1>Giờ học 1-1</h1>
-                            <p>Tăng cường tương tác</p>
+                            <h1>Lớp học thực hành</h1>
+                            <p>Đánh giá</p>
                             <ul>
-                              <li>Giao tiếp với giáo viên nước ngoài</li>
-                              <li>Phát triển phản xạ ngôn ngữ</li>
-                              <li>Điều chỉnh theo năng lực học viên</li>
+                              <li>Giáo viên giàu kinh nghiệm</li>
+                              <li>Đa dạng hoạt động: role play, thuyết trình</li>
+                              <li>Đánh giá của giáo viên</li>
                             </ul>
                           </div>
                           <div class="circle-content content6">
@@ -526,26 +527,26 @@ export default {
                           <div class="line"></div>
                         </div>
                         <div class="part">
-                          <span>A3</span>
+                          <span>B1</span>
                           <div class="line"></div>
                         </div>
                         <div class="part">
-                          <span>A4</span>
+                          <span>B2</span>
                           <div class="line"></div>
                         </div>
                       </div>
                       <div class="box-target-container">
                         <div class="box-target target-1">
-                          <H1>BUIDING</H1>
+                          <H1>BUILDING</H1>
                           <span>Beginner</span>
                         </div>
                         <div class="box-target target-2">
-                          <H1>ENEGRY</H1>
+                          <H1>ENERGRY</H1>
                           <span>Elementary</span>
                         </div>
                         <div class="box-target target-3">
                           <H1>SPEED UP</H1>
-                          <span>Intermidiate</span>
+                          <span>Intermediate</span>
                         </div>
                         <div class="box-target target-4">
                           <H1>POWER</H1>
@@ -859,7 +860,7 @@ export default {
   position: absolute;
   top: 2em;
   left: 2em;
-  z-index: 9999;
+  z-index: 9;
   overflow: hidden;
 }
 
@@ -932,7 +933,7 @@ h1 {
   position: absolute;
   z-index: 1;
   background-color: #fff;
-  width: 15em;
+  width: 15.4em;
   height: 17.6em;
   transform: translateX(-50%);
   display: flex;

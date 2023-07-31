@@ -55,32 +55,14 @@ export default {
             />
             <div class="container_common">
               <div class="content_common">
-                <div
-                  class="_tabs_fix is-bgr lazy"
-                  style=""
-                  data-bg="url(/images/ifprogramme/bgr_fix.png)"
-                >
-                  <div class="_nav">
-                    <ul class="is-flex-cl">
-                      <li>
-                        <a href="#bes-story" data-h="1" class="active"
-                          >BES Story</a
-                        >
-                      </li>
-                      <li>
-                        <a href="#data-h2" data-h="2">Tầm nhìn, Sứ mệnh</a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-                <div class="_wrapper">
+                <div class="_wrapper" style="padding: 80px 0">
                   <div class="section1" id="bes-story">
                     <div class="title-def">
                       <img
                         class="lazy img-star"
                         src="/images/common/star.png"
                         alt="Về chúng tôi"
-                      />BES Story
+                      /> Câu chuyện của bes
                     </div>
                     <div class="the_content_def">
                       <p>
