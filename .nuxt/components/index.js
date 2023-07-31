@@ -1,13 +1,13 @@
-export { default as Footer } from '../../components/Footer.vue'
-export { default as HeaderNav } from '../../components/HeaderNav.vue'
-export { default as NuxtLogo } from '../../components/NuxtLogo.vue'
-export { default as SocialFix } from '../../components/SocialFix.vue'
-export { default as Swiper } from '../../components/Swiper.vue'
-export { default as TopNav } from '../../components/TopNav.vue'
-export { default as Tutorial } from '../../components/Tutorial.vue'
-export { default as Decor } from '../../components/decor.vue'
-export { default as Decor5 } from '../../components/decor5.vue'
-export { default as ReviewItem } from '../../components/reviewItem.vue'
+export const Footer = () => import('../../components/Footer.vue' /* webpackChunkName: "components/footer" */).then(c => wrapFunctional(c.default || c))
+export const HeaderNav = () => import('../../components/HeaderNav.vue' /* webpackChunkName: "components/header-nav" */).then(c => wrapFunctional(c.default || c))
+export const NuxtLogo = () => import('../../components/NuxtLogo.vue' /* webpackChunkName: "components/nuxt-logo" */).then(c => wrapFunctional(c.default || c))
+export const SocialFix = () => import('../../components/SocialFix.vue' /* webpackChunkName: "components/social-fix" */).then(c => wrapFunctional(c.default || c))
+export const Swiper = () => import('../../components/Swiper.vue' /* webpackChunkName: "components/swiper" */).then(c => wrapFunctional(c.default || c))
+export const TopNav = () => import('../../components/TopNav.vue' /* webpackChunkName: "components/top-nav" */).then(c => wrapFunctional(c.default || c))
+export const Tutorial = () => import('../../components/Tutorial.vue' /* webpackChunkName: "components/tutorial" */).then(c => wrapFunctional(c.default || c))
+export const Decor = () => import('../../components/decor.vue' /* webpackChunkName: "components/decor" */).then(c => wrapFunctional(c.default || c))
+export const Decor5 = () => import('../../components/decor5.vue' /* webpackChunkName: "components/decor5" */).then(c => wrapFunctional(c.default || c))
+export const ReviewItem = () => import('../../components/reviewItem.vue' /* webpackChunkName: "components/review-item" */).then(c => wrapFunctional(c.default || c))
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

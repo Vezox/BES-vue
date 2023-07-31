@@ -1112,7 +1112,7 @@
                     />
                     Tin tức & Blog
                   </div>
-                  <div class="_content" v-if="!loading">
+                  <div class="_content" v-if="!loading && news.length">
                     <div class="_left">
                       <div class="new_feature">
                         <a

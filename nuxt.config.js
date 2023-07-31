@@ -143,6 +143,6 @@ export default {
   // buildDir: '../bes-build'
   // Environment variables
   env: {
-    api: process.env.API || 'https://localhost:3100/api'
+    API: process.env.API || 'https://localhost:3100/api'
   },
 }
