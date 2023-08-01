@@ -1488,7 +1488,7 @@
                 </div>
               </div>
             </section>
-            <section class="h_section2 container" id="h_section9">
+            <section class="h_section5 container" id="h_section9">
               <div class="_decor">
                 <svg width="327" height="691" viewBox="0 0 327 691" fill="none">
                   <path
@@ -1800,7 +1800,7 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BES"
+                      alt="BES
                       cộng
                       đồng
                       học
@@ -1811,45 +1811,21 @@
                       doanh
                       nhân
                       Việt
-                      Nam
+                      Nam"
                     />
                     Đối tác
                   </div>
-                  <div class="content">
+                  <div class="content brands">
                     <VueSlickCarousel
                       v-bind="slickOptions"
                       style="margin-top: 50px; margin-bottom: 50px"
                     >
-                      <a href="#" class="a-link-brand"
-                        ><img src="/images/brands/b1.svg" alt=""
-                      /></a>
-                      <a href="#" class="a-link-brand"
-                        ><img src="/images/brands/b2.svg" alt=""
-                      /></a>
-                      <a href="#" class="a-link-brand"
-                        ><img src="/images/brands/b3.svg" alt=""
-                      /></a>
-                      <a href="#" class="a-link-brand">
-                        <img src="/images/brands/b4.svg" alt="" />
+                      <a href="#" class="a-link-brand" v-for="i in 15" :key="i">
+                        <img
+                          :src="`/images/doi-tac/${i}.png`"
+                          alt="BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
+                        />
                       </a>
-                      <a href="#" class="a-link-brand"
-                        ><img src="/images/brands/b5.svg" alt=""
-                      /></a>
-                      <a href="#" class="a-link-brand"
-                        ><img src="/images/brands/b1.svg" alt=""
-                      /></a>
-                      <a href="#" class="a-link-brand"
-                        ><img src="/images/brands/b2.svg" alt=""
-                      /></a>
-                      <a href="#" class="a-link-brand"
-                        ><img src="/images/brands/b3.svg" alt=""
-                      /></a>
-                      <a href="#" class="a-link-brand"
-                        ><img src="/images/brands/b4.svg" alt=""
-                      /></a>
-                      <a href="#" class="a-link-brand"
-                        ><img src="/images/brands/b5.svg" alt=""
-                      /></a>
                     </VueSlickCarousel>
                   </div>
                 </div>
@@ -1996,17 +1972,23 @@ export default {
         centerMode: true,
 
         dots: false,
-        slidesToShow: 3,
+        slidesToShow: 4,
         autoplay: true,
         responsive: [
           {
             breakpoint: 1024,
             settings: {
-              slidesToShow: 2,
+              slidesToShow: 3,
             },
           },
           {
             breakpoint: 767,
+            settings: {
+              slidesToShow: 2,
+            },
+          },
+          {
+            breakpoint: 480,
             settings: {
               slidesToShow: 1,
             },
@@ -2088,3 +2070,8 @@ export default {
   },
 };
 </script>
+<style>
+.brands .slick-slide img {
+    padding: 0 3em;
+}
+</style>
