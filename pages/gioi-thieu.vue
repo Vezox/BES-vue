@@ -151,12 +151,21 @@ export default {
                           </div>
                         </div>
                       </div>
-                      <div
-                        class="swiper-container js-slide-mission"
-                        style="margin-top: 60px"
-                      >
+                      <div class="swiper-container js-slide-mission" style="margin-top: 3em">
                         <div class="swiper-wrapper">
                           <div class="swiper-slide">
+                            <div class="left">
+                              <div class="decor">
+                                <img
+                                  class="lazy"
+                                  src="/images/admission/img5.jpg"
+                                />
+                                <div class="layer"></div>
+                              </div>
+                              <div class="text">
+                                S<br />ứ<br /><br />m<br />ệ<br />n<br />h
+                              </div>
+                            </div>
                             <div class="right">
                               <div class="content_right the_content_def">
                                 <p>
@@ -190,18 +199,6 @@ export default {
                                     doanh quốc tế.<br />
                                   </span>
                                 </p>
-                              </div>
-                            </div>
-                            <div class="left">
-                              <div class="decor">
-                                <img
-                                  class="lazy"
-                                  src="/images/admission/img5.jpg"
-                                />
-                                <div class="layer"></div>
-                              </div>
-                              <div class="text">
-                                S<br />ứ<br /><br />m<br />ệ<br />n<br />h
                               </div>
                             </div>
                           </div>
@@ -565,6 +562,8 @@ img.emoji {
   padding: 2% 10%;
 }
 
+
+
 .container h1 {
   font-size: 50px;
   text-align: center;
@@ -572,7 +571,9 @@ img.emoji {
   font-weight: 900;
   font-family: Brandon_bld\.otf;
   line-height: 1;
+  margin-bottom: 32px;
 }
+
 
 .content {
   display: flex;
@@ -603,6 +604,17 @@ img.emoji {
   font-weight: 700;
   margin: 16px 0;
   font-family: Brandon_bld\.otf;
+}
+
+@media screen and (max-width: 760px) {
+  .container h1 {
+    font-size: 32px;
+  }
+
+  .content-item h4 {
+  font-size: 24px;
+  }
+  
 }
 
 .content-item h4 span {

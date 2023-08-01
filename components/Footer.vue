@@ -360,21 +360,24 @@
                     href="https://www.facebook.com/profile.php?id=100090654726991"
                     target="_blank"
                   >
-                  <img src="/images/facebook.svg" alt=""/> 
+                    <img src="/images/facebook.svg" alt="" />
                   </a>
                   <a
                     href="https://www.youtube.com/@BES-BETHEBEST/channels"
                     target="_blank"
                   >
-                    <img src="/images/youtube.svg" alt=""/> </a>
+                    <img src="/images/youtube.svg" alt="" />
+                  </a>
                   <a
                     href="https://www.tiktok.com/@bes_bethebest"
                     target="_blank"
                   >
-                   <img src="/images/tictok.svg" alt=""/>
+                    <img src="/images/tictok.svg" alt="" />
                   </a>
                 </div>
-                <p class="copyright">© Copyright BES Group 2023</p>
+                <p class="copyright">
+                  © Copyright BES Group {{ new Date().getFullYear() }}
+                </p>
               </div>
 
               <div class="_intro">
@@ -477,20 +480,30 @@
                 <div class="_item">
                   <p>Email:</p>
                   <p>
-                    <a href="mailto:besgroupasia@gmail.com"
-                      >besgroupasia@gmail.com</a
-                    >
+                    <a href="mailto:besgroupasia@gmail.com">
+                      besgroupasia@gmail.com
+                    </a>
                   </p>
                 </div>
                 <div class="_item">
                   <p>Địa chỉ:</p>
-                  <p style="font-family: 'AvenirLTStd-Light.ttf'">
-                    KĐT Mới, đường Hồ Sỹ Dương, phường Hưng Bình, TP Vinh (44
-                    NQT rẽ vào)
+                  <p>
+                    <a href="" style="font-family: AvenirLTStd-Light\.ttf">
+                      KĐT Mới, đường Hồ Sỹ Dương, phường Hưng Bình, TP Vinh (44
+                      NQT rẽ vào)
+                    </a>
                   </p>
                 </div>
               </div>
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7559.1375520705615!2d105.67587539357908!3d18.68333710000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3139cff22e743965%3A0xb5ebd0d3346da1fa!2sBes%20Building!5e0!3m2!1svi!2s!4v1690881163141!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7559.1375520705615!2d105.67587539357908!3d18.68333710000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3139cff22e743965%3A0xb5ebd0d3346da1fa!2sBes%20Building!5e0!3m2!1svi!2s!4v1690881163141!5m2!1svi!2s"
+                width="600"
+                height="450"
+                style="border: 0"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+              ></iframe>
             </div>
           </div>
         </div>
@@ -511,6 +524,7 @@ export default {
     script.text = `var chatbox = document.getElementById('fb-customer-chat');
 chatbox.setAttribute("page_id", "112990795053842");
 chatbox.setAttribute("attribution", "biz_inbox");
+chatbox.setAttribute("theme_color", "#6f4402");
 
 window.fbAsyncInit = function () {
   FB.init({
@@ -530,3 +544,8 @@ window.fbAsyncInit = function () {
   },
 };
 </script>
+<style scoped>
+._intro ._item p {
+  font-size: 14px;
+}
+</style>

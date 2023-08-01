@@ -112,13 +112,13 @@ export default {
             <div class="container_common">
               <div class="content_common">
                 <div class="breadcrumb">
-                  <a href="#">Trang chủ</a>
+                  <a :href="localePath('/')">Trang chủ</a>
                   <span>/</span>
-                  <a href="#">Tin tức & Sự kiện</a>
+                  <a :href="localePath('/tin-tuc/')">Tin tức</a>
                   <span>/</span>
-                  <a href="#">Tin tức</a>
-                  <span>/</span>
-                  <a href="#">{{ post?.title }}</a>
+                  <a :href="localePath('/tin-tuc/' + post?.slug)">{{
+                    post?.title
+                  }}</a>
                 </div>
                 <div class="wrap _flex">
                   <div class="_left" v-if="post">
@@ -129,8 +129,10 @@ export default {
                     <div class="intro">
                       <p class="date">{{ formatDate(post.created_time) }}</p>
                     </div>
-                    <div class="the-content the_content_def" v-html="post.content">
-                    </div>
+                    <div
+                      class="the-content the_content_def"
+                      v-html="post.content"
+                    ></div>
                     <!-- <ul class="share">
                             <li>Chia sẻ</li>
                             <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.buv.edu.vn/gs-raymond-gordon-hieu-truong-buv-viet-nam-la-kim-cuong-o-chau-a-ve-co-hoi-dau-tu-giao-duc/" target="_blank"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://www.buv.edu.vn/wp-content/themes/main/assets/images/common/face.png" alt="GS. Raymond Gordon, Hiệu trưởng BUV: Việt Nam là kim cương ở Châu Á về cơ hội đầu tư giáo dục"></a></li>
