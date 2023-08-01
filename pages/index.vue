@@ -365,7 +365,7 @@
                     <img
                       class="lazy"
                       src="/images/common/star.png"
-                      alt="BES"
+                      alt="BES
                       cộng
                       đồng
                       học
@@ -376,7 +376,7 @@
                       doanh
                       nhân
                       Việt
-                      Nam
+                      Nam"
                     />
                     BES - Tại sao nên lựa chọn BES ?
                   </div>
@@ -478,6 +478,7 @@
                             <p class="excerpt">
                               Tập trung vào mục tiêu con người học, không ngừng
                               tìm hiểu, điều chỉnh và hướng khách hàng tới thành
+                              <br />
                               công
                             </p>
                           </div>
@@ -489,7 +490,8 @@
                             <p class="excerpt">
                               Thường xuyên hỗ trợ, cập nhật thông tin, giải đáp
                               thắc mắc cùng với app tích hợp tiện ích như
-                              booking báo cáo đánh giá
+                              booking báo cáo <br />
+                              đánh giá
                             </p>
                           </div>
                         </div>
@@ -519,8 +521,10 @@
                             <div class="reg-title">Giá trị cộng thêm</div>
                             <p class="excerpt">
                               BES thường xuyên tổ chức các buổi workshop,
-                              seminars, hoạt động ngoại khóa hay mời các
-                              <br />chuyên gia chia sẻ về các <br />chủ đề
+                              seminars, hoạt động ngoại khóa hay mời các chuyên
+                              <br />
+                              gia chia sẻ <br />
+                              về các chủ đề
                             </p>
                           </div>
                         </div>
@@ -1230,9 +1234,10 @@
                               fill="red"
                             ></path>
                           </svg>
-                          <span
-                            >  Vincom Center, 72 Le Thanh Ton St, Ben Nghe W., Dist 1, HCMC </span
-                          >
+                          <span>
+                            Vincom Center, 72 Le Thanh Ton St, Ben Nghe W., Dist
+                            1, HCMC
+                          </span>
                         </a>
                       </div>
                     </div>
@@ -1251,10 +1256,10 @@
                               fill="red"
                             ></path>
                           </svg>
-                          <span
-                            > BES Building, Nguyen Quoc Tri St, Hung Binh W., Vinh City
- </span
-                          >
+                          <span>
+                            BES Building, Nguyen Quoc Tri St, Hung Binh W., Vinh
+                            City
+                          </span>
                         </a>
                       </div>
                     </div>
@@ -1273,9 +1278,10 @@
                               fill="red"
                             ></path>
                           </svg>
-                          <span
-                            > Belvedere Building, 28A Tran Hung Dao  St, Hoan Kiem Dist, Ha Noi </span
-                          >
+                          <span>
+                            Belvedere Building, 28A Tran Hung Dao St, Hoan Kiem
+                            Dist, Ha Noi
+                          </span>
                         </a>
                       </div>
                     </div>
@@ -1294,9 +1300,10 @@
                               fill="red"
                             ></path>
                           </svg>
-                          <span
-                            >  #29-05 REPUBLIC PLAZA, 9 Raffles Pl, Singapore 048619 </span
-                          >
+                          <span>
+                            #29-05 REPUBLIC PLAZA, 9 Raffles Pl, Singapore
+                            048619
+                          </span>
                         </a>
                       </div>
                     </div>
@@ -1315,9 +1322,10 @@
                               fill="red"
                             ></path>
                           </svg>
-                          <span
-                            > LKG Tower, 6801 Ayala Ave, Makati, 1226 Metro Manila, Philippines </span
-                          >
+                          <span>
+                            LKG Tower, 6801 Ayala Ave, Makati, 1226 Metro
+                            Manila, Philippines
+                          </span>
                         </a>
                       </div>
                     </div>
@@ -1451,13 +1459,10 @@
                   </div>
                   <div class="wrap-app">
                     <div class="app-col">
-                      Lorem Ipsum is simply dummy text of the printing and
-                      typesetting industry. Lorem Ipsum has been the industry's
-                      standard dummy text ever since the 1500s, when an unknown
-                      printer took a galley of type and scrambled it to make a
-                      type specimen book. It has survived not only five
-                      centuries, but also the leap into electronic typesetting,
-                      remaining essentially unchanged.
+                      Book lịch học phù hợp với lịch trình cá nhân, nhận những
+                      thông tin update về lịch học, sự kiện, thông tin
+                      workshops, đánh giá của giáo viên và tiến trình học tập
+                      của bản thân thông qua ứng dụng BES
                       <div class="app-down-btn">
                         <div>
                           <img src="/images/ggdownload.png" alt="" />

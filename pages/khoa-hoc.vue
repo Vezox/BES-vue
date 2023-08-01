@@ -541,7 +541,7 @@ export default {
                           <span>Beginner</span>
                         </div>
                         <div class="box-target target-2">
-                          <H1>ENERGRY</H1>
+                          <H1>ENERGY</H1>
                           <span>Elementary</span>
                         </div>
                         <div class="box-target target-3">
@@ -896,7 +896,13 @@ export default {
   justify-content: center;
   align-items: center;
   overflow: hidden;
-  padding: 9em 0;
+  padding: 6em 0;
+  font-size: 12px;
+}
+
+.circle-study li {
+  font-size: 1.2em!important;
+  line-height: 16px!important;
 }
 
 .circle-study .circle {
@@ -925,7 +931,7 @@ h1 {
 }
 
 .circle-content p {
-  font-size: 1em;
+  font-size: 1.2em;
   font-weight: bold;
 }
 
@@ -951,7 +957,7 @@ h1 {
 
 .circle-content.content1 {
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -26%);
 }
 
 .circle-content.content3 {
@@ -984,7 +990,7 @@ h1 {
   left: 50%;
   bottom: -2%;
   height: auto;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -28%);
 }
 
 .mini-circle {

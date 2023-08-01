@@ -1,3 +1,5 @@
+
+<script></script>
 <template>
     <div class="top-nav">
               <div class="top-nav-social">
@@ -71,7 +73,9 @@
                     <span>besgroupasia@gmail.com</span>
                   </li>
                   <li>
-                    <span class="hl-text">Đăng ký khóa học</span>
+                    <!-- <a :href="localePath('/khoa-hoc')">
+                      <span class="hl-text">Đăng ký khóa học</span>
+                    </a> -->
                   </li>
                 </ul>
               </div>

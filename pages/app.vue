@@ -13,7 +13,7 @@
                   <span class="sub-download">Mobile App</span>
                   <h1 class="title-app-download">Download BES APP</h1>
                   <div class="app-features">
-                    <div class="app-feature-item" v-for="i in 4" :key="i">
+                    <div class="app-feature-item" v-for="(i, idx) in features" :key="idx">
                       <div class="app-feaure-aft-item"></div>
                       <span class="feature-name">
                         <svg
@@ -35,9 +35,9 @@
                             </clipPath>
                           </defs>
                         </svg>
-                        <span>Feature 1</span>
+                        <span>{{i.title}}</span>
                       </span>
-                      <p>Feature 1 description</p>
+                      <p style="font-size: 14px">{{i.content}}</p>
                     </div>
                   </div>
                   <div class="app-down-btn">
@@ -83,6 +83,28 @@ export default {
       return Math.floor(Math.random() * 16777215).toString(16);
     },
   },
+  data(){
+    return {
+      features: [
+        {
+          title: "Book lịch học",
+          content: "Chủ động book lịch học với giáo viên để chủ động trong lịch trình cá nhân"
+        },
+        {
+          title: "Thông báo",
+          content: "Cập nhật mới nhất về lịch học, sự kiện sắp tới, ưu đãi và thông tin mới nhất từ BES"
+        },
+        {
+          title: "Báo cáo",
+          content: "báo cáo tiến trình học tập, nhận xét và đánh giá của giáo viên"
+        },
+        {
+          title: "Phản hồi/Góp ý",
+          content: "Nhắn gửi đến BES những lời nhận xét và góp ý để tạo nên một môi trường tốt hơn"
+        }
+      ]
+    }
+  },
   methods: {},
 };
 </script>
@@ -91,6 +113,7 @@ export default {
 .feature-name {
   display: flex;
   align-items: center;
+  margin-bottom: 4px;
 }
 .feature-name > svg {
   margin-right: 8px;
