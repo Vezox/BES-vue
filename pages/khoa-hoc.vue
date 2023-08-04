@@ -28,7 +28,7 @@ export default {
               style="height: 200px; width: 100%; object-fit: cover"
             />
             <div class="banner_mobi lazy">
-              <img src="/images/banner/banner_1.png" alt="" />
+              <img src="/images/banner/banner_1.png" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
             </div>
             <div class="container_common">
               <div class="content_common">
@@ -38,7 +38,7 @@ export default {
                     <span>/</span>
                     <a href="#">Khoá học</a>
                   </div>
-                  Khoá học Class
+                  Khoá học Standard
                 </div>
               </div>
             </div>
@@ -61,14 +61,20 @@ export default {
                     </div>
                     <div class="content-section1 the_content_def">
                       <p>
-                        <span data-contrast="auto"
-                          >Là khoá học độc quyền, được thiết kế nhằm phục vụ cho
-                          người đi làm bận rộn với các tiện ích và hỗ trợ tối
-                          đa, linh hoạt dựa theo thời gian và mục tiêu của người
-                          học. Với đội ngũ chuyên môn là các chuyên gia giảng
-                          dạy ngoại ngữ, BES đã thiết kế nên chương trình học
-                          được chứng minh và dành riêng cho người bận rộn.</span
-                        >
+                        <span data-contrast="auto">
+                          Với đội ngũ chuyên môn là các chuyên gia giảng dạy
+                          ngoại ngữ nhiều năm kinh nghiệm, BES đã thiết kế nên
+                          chương trình được chứng minh hiệu quả dành riêng cho
+                          người bận rộn.
+                          <br/>
+                          Học viên được cung cấp các tiện ích học
+                          tập và hỗ trợ học vụ tối đa, với lịch trình linh hoạt
+                          bám sát quỹ thời gian và mục tiêu học tập cụ thể.
+                          <br/>
+                          BES
+                          tự tin giúp học viên đạt được kết quả mong đợi với tối
+                          thiểu nguồn lực.
+                        </span>
                       </p>
                     </div>
                   </div>
@@ -79,83 +85,82 @@ export default {
                     </div>
                     <div class="content-section2 the_content_def khoa-hoc">
                       <div>
-                        <div class="_img">
+                        <div class="_img image-none">
                           <img
                             class="lazy"
-                            src="/uploads/2021/09/Frame.png"
+                            src="/images/kh-1.svg"
+                            style="width: 50px"
                             alt="Cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
                           />
                         </div>
                         <span data-contrast="auto">
-                          Các giờ học nhóm hướng dẫn tạo nên môi trường học
-                          tiếng Anh với đa dạng các chủ đề giúp học viên có thể
-                          vận dụng ngôn ngữ vào các bài thảo luận, tình huống,
-                          thuyết trình dưới sự hướng dẫn và hỗ trợ từ giảng
-                          viên.
+                          Các giờ học nhóm giúp người học tiếng Anh áp dụng ngôn
+                          ngữ vào bài thảo luận, tình huống, thuyết trình với sự
+                          hỗ trợ của giảng viên.
                         </span>
                       </div>
                       <div>
-                        <div class="_img">
+                        <div class="_img image-none">
                           <img
                             class="lazy"
-                            src="/uploads/2021/09/Frame-1-e1644310543108.png"
+                            src="/images/kh-6.svg"
+                            style="width: 50px"
                             alt="Cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
                           />
                         </div>
                         <span data-contrast="auto">
-                          Đối với khoá VIP, các giờ học 1-1 với giáo viên nước
-                          ngoài giúp học viên củng cố kiến thức, tăng khả năng
-                          phản xạ ngôn ngữ và nhận được đánh giá chi tiết nhất
-                          về khả năng ngôn ngữ của bản thân.Học viên đặt lịch
-                          học thông qua app để chủ động trong thời gian và lịch
-                          trình.</span
-                        >
+                          Các giờ học 1-1 với giáo viên nước ngoài trong khóa
+                          Premium với giáo viên nước ngoài giúp học viên củng cố
+                          kiến thức, tăng cường phản xạ và nhận đánh giá chi
+                          tiết về khả năng ngôn ngữ.
+                        </span>
                       </div>
                       <div>
-                        <div class="_img">
+                        <div class="_img image-none">
                           <img
                             class="lazy"
-                            src="/uploads/2021/09/Frame-2-1.png"
+                            src="/images/kh-3.svg"
+                            style="width: 50px"
                             alt="Cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
                           />
                         </div>
                         <span data-contrast="auto">
-                          Giáo trình được đội ngũ chuyên môn BES biên soạn và
-                          xuất bản độc quyền với đa dạng chủ đề và có thể ứng
-                          dụng vào trong thực tế, công việc. Giáo trình cũng
-                          được nghiên cứu chia theo cấp bậc đạt chuẩn quốc tế để
-                          phù hợp với từng cấp độ của chương trình học.</span
-                        >
+                          Giáo trình do đội ngũ chuyên môn BES biên soạn và xuất
+                          bản độc quyền có đa dạng chủ đề và tính ứng dụng thực
+                          tế. Giáo trình cũng được nghiên cứu và chia theo các
+                          cấp bậc đạt chuẩn quốc tế để phù hợp với chương trình
+                          học.
+                        </span>
                       </div>
                       <div>
-                        <div class="_img">
+                        <div class="_img image-none">
                           <img
                             class="lazy"
-                            src="/uploads/2021/09/Frame-3.png"
+                            src="/images/kh-4.svg"
+                            style="width: 50px"
                             alt="Cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
                           />
                         </div>
                         <span data-contrast="auto">
-                          Cố vấn học tập cá nhân giúp học viên xác định mục tiêu
-                          học tập, cập nhật tiến độ trong suốt quá trình học và
-                          tiến hành điều chỉnh, hướng người học đến mục đích học
-                          tập cuối cùng.</span
-                        >
+                          Cố vấn học tập cá nhân giúp người học xác định mục
+                          tiêu học tập, cập nhật tiến độ và điều chỉnh kịp thời,
+                          hướng người học đến mục tiêu học tập đã đặt ra.
+                        </span>
                       </div>
                       <div>
-                        <div class="_img">
+                        <div class="_img image-none">
                           <img
                             class="lazy"
-                            src="/uploads/2021/09/Frame-4.png"
+                            src="/images/kh-5.svg"
+                            style="width: 50px"
                             alt="Cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
                           />
                         </div>
                         <span data-contrast="auto">
-                          Học viên được sử dụng tất cả các tiện ích tại BES như
-                          app tích hợp tiện ích, khu tự học, khu thư viện,
-                          cafeteria... Các buổi workshop chuyên đề giúp tăng
-                          cường thực hành, phát triển kỹ năng mềm và giao lưu,
-                          kết nối.
+                          Người học được sử dụng tất cả các tiện ích tại BES như
+                          app tích hợp, khu tự học, thư viện, cafeteria... Ngoài
+                          ra, các buổi workshops giúp tăng cường thực hành, phát
+                          triển kỹ năng mềm và giao lưu, kết nối.
                         </span>
                       </div>
                     </div>
@@ -169,34 +174,36 @@ export default {
                       />
                       Thời lượng chương trình
                     </div>
-                    <div class="content-section2 the_content_def khoa-hoc">
+                    <div class="content-section2 the_content_def khoa-hoc" >
                       <div>
-                        <div style="width: 14%">
+                        <div style="width: 14%" class="image-none">
                           <img
                             class="lazy"
-                            src="/uploads/2021/09/Frame.png"
+                            src="/images/clock-1.svg"
                             alt="Cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
+                            style="width: 50px"
                           />
                         </div>
                         <div style="width: 86%">
                           <span data-contrast="auto">
-                            Khoá VIP có thời lượng 1 năm: học viên được phép
+                            Khoá Premium có thời lượng 1 năm: học viên được phép
                             tham gia tối đa 2 lớp học nhóm và không giới hạn các
                             giờ học 1-1.
                           </span>
                         </div>
                       </div>
                       <div>
-                        <div style="width: 14%">
+                        <div style="width: 14%" class="image-none">
                           <img
                             class="lazy"
-                            src="/uploads/2021/09/Frame.png"
+                            src="/images/clock-3.svg"
                             alt="Cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
+                            style="width: 54px"
                           />
                         </div>
                         <div style="width: 86%">
                           <span data-contrast="auto">
-                            Khoá Class có thời lượng 3,5 tháng bao gồm 26 buổi
+                            Khoá Standard có thời lượng 3,5 tháng bao gồm 26 buổi
                             học, 2 buổi/tuần, 1,5h/buổi.
                           </span>
                         </div>
@@ -216,10 +223,10 @@ export default {
                               <tr style="height: 60px">
                                 <td style="width: 40%; height: 60px"></td>
                                 <td style="width: 30%; height: 60px">
-                                  <strong>VIP</strong>
+                                  <strong>Premium</strong>
                                 </td>
                                 <td style="width: 30%; height: 60px">
-                                  <strong>Class</strong>
+                                  <strong>Standard</strong>
                                 </td>
                               </tr>
                               <tr style="height: 60px">
@@ -260,7 +267,7 @@ export default {
                                   Cấu trúc khoá học
                                 </td>
                                 <td style="width: 30%; height: 60px">
-                                  Tối đa 2 khoá class không giới hạn giờ 1-1
+                                  Tối đa 2 khoá Standard không giới hạn giờ 1-1
                                 </td>
                                 <td style="width: 30%; height: 60px">
                                   1 khoá thời lượng 3,5 tháng
@@ -326,7 +333,7 @@ export default {
                       />
                       Phương pháp giảng dạy
                     </div>
-                    <div class="content-section2 the_content_def">
+                    <div class="content-section2 the_content_def" style="display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
                       <div class="circle-container">
                         <div class="line-1 dotted-line"></div>
                         <div class="line-2 dotted-line"></div>
@@ -426,7 +433,7 @@ export default {
                             :style="getStyle(i)"
                           ></div>
                           <div class="circle-content content1">
-                            <img src="/images/users.svg" alt="" />
+                            <img src="/images/users.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                             <h1>workshop ngoại khoá</h1>
                             <p>Tăng cường thực hành</p>
                             <ul>
@@ -436,7 +443,7 @@ export default {
                             </ul>
                           </div>
                           <div class="circle-content content2">
-                            <img src="/images/comments.svg" alt="" />
+                            <img src="/images/comments.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                             <h1>Giờ học 1-1</h1>
                             <p>Tăng cường tương tác</p>
                             <ul>
@@ -446,7 +453,7 @@ export default {
                             </ul>
                           </div>
                           <div class="circle-content content3">
-                            <img src="/images/people.svg" alt="" />
+                            <img src="/images/people.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                             <h1>Lớp thảo luận</h1>
                             <p>Vận dụng tiếng anh vào thực tế</p>
                             <ul>
@@ -471,7 +478,9 @@ export default {
                             <p>Đánh giá</p>
                             <ul>
                               <li>Giáo viên giàu kinh nghiệm</li>
-                              <li>Đa dạng hoạt động: role play, thuyết trình</li>
+                              <li>
+                                Đa dạng hoạt động: role play, thuyết trình
+                              </li>
                               <li>Đánh giá của giáo viên</li>
                             </ul>
                           </div>
@@ -505,9 +514,20 @@ export default {
                           </div>
                         </div>
                       </div>
+
+                      <div class="image-pp">
+                        <img src="/images/pp-2-mobile.jpg" alt="BES Group" id="pp-1">
+                        <img src="/images/pp-1-mobile.jpg" alt="BES Group" id="pp-2">
+                      </div>
+
+
                     </div>
                   </div>
-                  <div class="section4" id="data-h5" style="margin-bottom: 60px;">
+                  <div
+                    class="section4"
+                    id="data-h5"
+                    style="margin-bottom: 60px;"
+                  >
                     <div class="title-def">
                       <img
                         class="lazy"
@@ -516,7 +536,7 @@ export default {
                       />
                       Biểu đồ cấp độ BES
                     </div>
-                    <div class="content-section2 the_content_def">
+                    <div class="content-section2 the_content_def" id="end-game">
                       <div class="part-container">
                         <div class="part">
                           <span>Level CEFR A1</span>
@@ -614,7 +634,12 @@ export default {
                         </div>
                       </div>
                     </div>
-                  </div>
+                    <div style="display: flex; justify-content: center;">
+                      <div id="img-end-game" style="max-width: 600px;">
+                        <img src="/images/cap-do.jpg" alt="">
+                      </div>
+                    </div>
+                    </div>
                 </div>
                 <div class="teacher"></div>
               </div>
@@ -629,6 +654,46 @@ export default {
   </body>
 </template>
 <style scoped>
+@media (max-width: 720px) {
+  .image-none {
+    display: none !important;
+  }
+}
+
+.image-pp, #img-end-game {
+  display: none !important;;
+  max-width: 500px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-pp img {
+  margin: 0;
+  margin-top: -24px;
+}
+
+@media (max-width: 1024px) {
+  .circle-container, .circle-study {
+    display: none !important;
+  }
+
+  #end-game {
+    display: none;
+  }
+
+  #img-end-game {
+    display: flex !important;;
+  }
+
+  .image-pp{
+    display: flex !important;;
+  }
+
+
+}
+
+
 ._wrapper {
   padding-left: 0% !important;
   padding-right: 0%;
@@ -642,6 +707,9 @@ export default {
   padding: 4em 0 12em;
   position: relative;
   margin-bottom: 8em;
+  width: 100%;
+  font-size: 13px;
+  max-width: 1000px;
 }
 
 .circle-box {
@@ -669,13 +737,13 @@ export default {
 .line-2 {
   rotate: 90deg;
   width: 38em;
-  left: 12em;
+  right: 33%;
   top: 23em;
 }
 .line-3 {
   rotate: 90deg;
   width: 20em;
-  right: 5em;
+  right: 14.5%;
   top: 14em;
 }
 
@@ -683,13 +751,13 @@ export default {
   width: 22em;
   rotate: 0deg;
   bottom: 7em;
-  left: 32em;
+  right: 28%;
 }
 
 .line-5 {
   rotate: 90deg;
   width: 10em;
-  right: 15em;
+  right: 20%;
   bottom: 12em;
 }
 
@@ -829,7 +897,7 @@ export default {
   border-left: 5em solid var(--color-main);
   border-bottom: 4em solid transparent;
   top: -4em;
-  left: -104px;
+  left: -6em;
   position: absolute;
 }
 
@@ -871,15 +939,15 @@ export default {
 
 .part-text-1 {
   rotate: 30deg;
-  transform: translate(30px, -84px);
+  transform: translate(1.2em, -3.6em);
 }
 
 .part-text-2 {
-  transform: translate(26%, -116px) rotate(-90deg);
+  transform: translate(26%, -5em) rotate(-90deg);
 }
 
 .part-text-3 {
-  transform: translate(8%, -74px) rotate(-210deg);
+  transform: translate(8%, -2.6em) rotate(-210deg);
 }
 .circle-part-line .part-line {
   position: absolute;
@@ -898,11 +966,13 @@ export default {
   overflow: hidden;
   padding: 6em 0;
   font-size: 12px;
+
+  width: 100%;
 }
 
 .circle-study li {
-  font-size: 1.2em!important;
-  line-height: 16px!important;
+  font-size: 1.2em !important;
+  line-height: 16px !important;
 }
 
 .circle-study .circle {

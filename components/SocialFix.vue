@@ -60,7 +60,7 @@
                     </clipPath>
                   </defs>
                 </svg>
-                <span>Apply now</span>
+                <span>Đăng ký</span>
                 <svg
                   class="arr"
                   width="7"
@@ -87,7 +87,7 @@
                     fill="#333333"
                   />
                 </svg>
-                <span>Tham quan BES</span>
+                <span>Thăm quan BES</span>
                 <svg
                   class="arr"
                   width="7"

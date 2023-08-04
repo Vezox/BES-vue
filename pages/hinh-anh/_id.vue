@@ -10,7 +10,7 @@
           <section
             class="h_section6 container"
             id="h_section8"
-            style="padding-top: 50px"
+            style="padding-top: 50px;"
           >
             <div class="container_common">
               <div class="content_common">
@@ -20,7 +20,7 @@
                     src="/images/common/star.png"
                     alt="BES Spirit Photo Contest"
                   />
-                  Hình ảnh/Sự kiện
+                  {{ topic?.name }}
                   <img
                     style="margin-left: 16px"
                     class="lazy"
@@ -31,14 +31,13 @@
               </div>
               <stack
                 v-if="!loading"
-                :column-min-width="300"
+                :column-min-width="400"
                 :gutter-width="30"
                 :gutter-height="15"
               >
                 <stack-item
                   v-for="(image, i) in images"
-                  :key="i"
-                  style="transition: transform 300ms"
+                  :key="image.image._id"
                 >
                   <a href="#">
                     <div class="w-img-stack">
@@ -81,6 +80,8 @@ export default {
       images: [],
       page: 1,
       loading: false,
+      step: 4,
+      topic: null,
     };
   },
   created() {
@@ -96,8 +97,8 @@ export default {
           slug_topic: this.$route.params.id,
         })
         .then((res) => {
-          this.images = res.data.list;
-          this.page++;
+          this.images = res.data.list
+          this.topic = res.data.topic
         })
         .catch((err) => {
           console.log(err);
@@ -115,7 +116,7 @@ export default {
   padding: 24px 0 48px 0;
 }
 .img-stack {
-  border-radius: 12px;
+  border-radius: 4px;
 }
 .w-img-stack {
   position: relative;

@@ -18,7 +18,7 @@ export default {
           <div class="banner-def">
             <img src="/images/home/s4-bg-1.png" style="height: 200px; width: 100%; object-fit: cover;">
             <div class="banner_mobi">
-              <img src="/images/banner/banner_1.png" alt="" />
+              <img src="/images/banner/banner_1.png" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
             </div>
             <div class="container_common">
               <div class="content_common">
@@ -37,13 +37,13 @@ export default {
             <div class="_decor_top">
               <img
                 src="/images/page/page-decor-top.png"
-                alt=""
+                alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
               />
             </div>
             <div class="decor_bottom">
               <img
                 src="/images/page/page-decor-bottom-left3.png"
-                alt=""
+                alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
               />
             </div>
             <div class="container_common">
@@ -64,7 +64,7 @@ export default {
                   <div class="item" v-for="i in 2" :key="i">
                     <img
                       src="/uploads/2022/01/Hanoi.jpg"
-                      alt=""
+                      alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
                     />
                     <div class="_text">
                       <h3>Hanoi</h3>
@@ -153,7 +153,7 @@ export default {
                   <div class="_left">
                     <img
                       src="/uploads/2021/12/1710TM-Camtrip-113-scaled-e1639977036883.jpg"
-                      alt=""
+                      alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
                     />
                   </div>
                   <div

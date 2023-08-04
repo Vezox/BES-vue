@@ -130,7 +130,7 @@ export default {
                           BES ra đời với mục tiêu tạo nên một môi trường giúp
                           cho doanh nhân Việt Nam được nâng cao năng lực bản
                           thân cũng như phát triển thêm các mối quan hệ trong xã
-                          hội. Lý do bạn nên tham gia vào BES:
+                          hội. Tại sao bạn tham gia vào BES?
                         </p>
                         <ul>
                           <li>
@@ -156,15 +156,15 @@ export default {
                       <div class="content the_content_def">
                         <p>Các vị trí mà BES đang tuyển dụng:</p>
                         <ul>
-                          <li>Giá viên nước ngoài.</li>
+                          <li>Giảng viên nước ngoài.</li>
                           <li>Trợ giảng.</li>
                           <li>Nhân viên trải nghiệm khách hàng.</li>
                         </ul>
                         <p>
-                          Vị trí mong muốn của bạn hiện không có sẵn? Gửi CV của
-                          bạn đến cơ sở dữ liệu của BES ngay hôm nay và là một
-                          trong những ứng viên đầu tiên được xem xét ngay khi có
-                          cơ hội việc làm phù hợp với bạn.
+                          Chưa có vị trí hiện tại phù hợp với bạn? Hãy gửi CV
+                          của bạn đến phòng nhân sự của BES ngay hôm nay, bạn sẽ
+                          là một trong những ứng viên tiềm năng đầu tiên cho
+                          công việc phù hợp sắp tới.
                         </p>
                         <p>
                           <em>

@@ -117,7 +117,7 @@ export default {
               style="height: 200px; width: 100%; object-fit: cover"
             />
             <div class="banner_mobi lazy">
-              <img src="/images/banner/banner_1.png" alt="" />
+              <img src="/images/banner/banner_1.png" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
             </div>
             <div class="container_common">
               <div class="content_common">

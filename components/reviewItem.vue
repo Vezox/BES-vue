@@ -2,48 +2,17 @@
 export default {
   name: "reviewItem",
   props: {
-    review: {
-      name: String,
-      role: String,
-      message: String,
-      avt: String,
-    },
+    idx: Number,
   },
 };
 </script>
 
 <template>
-  <div
-    class="review-item">
-    <span
-      class="review-name">{{
-        review.name
-      }}</span>
-    <div
-      class="review-row">
-      <div
-        class="review-role">
-        {{
-          review.role
-        }}
-      </div>
-      <div
-        class="review-message">
-        <div
-          class="review__m">
-          {{
-            review.message
-          }}
-        </div>
-      </div>
-      <div
-        class="review-avt">
-        <img
-          :src="review.avt"
-          alt="" />
-      </div>
-    </div>
-  </div>
+  <img
+    :src="`/images/review/${idx}.jpg`"
+    alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
+    style="border-radius: 20px; width: 88%"
+  />
 </template>
 
 <style>
@@ -62,8 +31,7 @@ export default {
 
 .review-role {
   font-weight: 700;
-  font-family: 'AvenirLTStd-Heavy.ttf';
-  ;
+  font-family: "AvenirLTStd-Heavy.ttf";
   padding-right: 1.7em;
 }
 
@@ -127,9 +95,9 @@ export default {
     font-size: 1em;
     line-height: 1.6;
   }
-  
+
   .review-role {
-  padding-right: 1em;
+    padding-right: 1em;
   }
 
   .review-avt {
@@ -144,4 +112,5 @@ export default {
     width: 8em;
     height: 8em;
   }
-}</style>
+}
+</style>

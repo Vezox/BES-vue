@@ -360,19 +360,19 @@
                     href="https://www.facebook.com/profile.php?id=100090654726991"
                     target="_blank"
                   >
-                    <img src="/images/facebook.svg" alt="" />
+                    <img src="/images/facebook.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                   </a>
                   <a
                     href="https://www.youtube.com/@BES-BETHEBEST/channels"
                     target="_blank"
                   >
-                    <img src="/images/youtube.svg" alt="" />
+                    <img src="/images/youtube.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                   </a>
                   <a
                     href="https://www.tiktok.com/@bes_bethebest"
                     target="_blank"
                   >
-                    <img src="/images/tictok.svg" alt="" />
+                    <img src="/images/tictok.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                   </a>
                 </div>
                 <p class="copyright">
@@ -384,21 +384,41 @@
                 <div class="_item">
                   <p>Liên hệ:</p>
                   <p>
-                    <a href="tel:+84 928 33 22 28">+84 928 33 22 28</a>
-                    <a href="tel:+84 96 662 9909">+84 96 662 9909</a>
+                    <a href="tel:0928 33 22 28">0928 33 22 28</a>
                   </p>
                 </div>
                 <div class="_item">
                   <p>Email:</p>
                   <p>
-                    <a href="mailto:besgroupasia@gmail.com"
-                      >besgroupasia@gmail.com</a
-                    >
+                    <a href="mailto:besgroupasia@gmail.com">
+                      besgroupasia@gmail.com
+                    </a>
                   </p>
                 </div>
                 <div class="_item">
                   <p>Địa chỉ:</p>
-                  <p>Ecopark, Xuân Quan, Văn Giang, Hưng Yên</p>
+                  <div class="list-address">
+                    <p>
+                      Ocean Gold Building, 32 Pham Kiet St, Khue My W., Ngu Hanh
+                      Son Dist, Da Nang City
+                    </p>
+                    <p>
+                      Vincom Center, 72 Le Thanh Ton St, Ben Nghe W., Dist 1,
+                      HCMC
+                    </p>
+                    <p>
+                      BES Building, Nguyen Quoc Tri St, Hung Binh W., Vinh City
+                    </p>
+                    <p>
+                      Belvedere Building, 28A Tran Hung Dao St, Hoan Kiem Dist,
+                      Ha Noi
+                    </p>
+                    <p>#29-05 REPUBLIC PLAZA, 9 Raffles Pl, Singapore 048619</p>
+                    <p>
+                      LKG Tower, 6801 Ayala Ave, Makati, 1226 Metro Manila,
+                      Philippines
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>
@@ -444,7 +464,7 @@
                 </ul>
               </div>
 
-              <ul class="menu-policy mobile-show">
+              <!-- <ul class="menu-policy mobile-show">
                 <li
                   class="title"
                   style="
@@ -467,7 +487,7 @@
                     >Terms and Conditions</a
                   >
                 </li>
-              </ul>
+              </ul> -->
             </div>
             <div class="_right">
               <div class="_intro">
@@ -487,15 +507,31 @@
                 </div>
                 <div class="_item">
                   <p>Địa chỉ:</p>
-                  <p>
-                    <a href="" style="font-family: AvenirLTStd-Light\.ttf">
-                      KĐT Mới, đường Hồ Sỹ Dương, phường Hưng Bình, TP Vinh (44
-                      NQT rẽ vào)
-                    </a>
-                  </p>
+                  <div class="list-address">
+                    <p>
+                      Ocean Gold Building, 32 Pham Kiet St, Khue My W., Ngu Hanh
+                      Son Dist, Da Nang City
+                    </p>
+                    <p>
+                      Vincom Center, 72 Le Thanh Ton St, Ben Nghe W., Dist 1,
+                      HCMC
+                    </p>
+                    <p>
+                      BES Building, Nguyen Quoc Tri St, Hung Binh W., Vinh City
+                    </p>
+                    <p>
+                      Belvedere Building, 28A Tran Hung Dao St, Hoan Kiem Dist,
+                      Ha Noi
+                    </p>
+                    <p>#29-05 REPUBLIC PLAZA, 9 Raffles Pl, Singapore 048619</p>
+                    <p>
+                      LKG Tower, 6801 Ayala Ave, Makati, 1226 Metro Manila,
+                      Philippines
+                    </p>
+                  </div>
                 </div>
               </div>
-              <iframe
+              <!-- <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7559.1375520705615!2d105.67587539357908!3d18.68333710000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3139cff22e743965%3A0xb5ebd0d3346da1fa!2sBes%20Building!5e0!3m2!1svi!2s!4v1690881163141!5m2!1svi!2s"
                 width="600"
                 height="450"
@@ -503,7 +539,7 @@
                 allowfullscreen=""
                 loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"
-              ></iframe>
+              ></iframe> -->
             </div>
           </div>
         </div>
@@ -547,5 +583,17 @@ window.fbAsyncInit = function () {
 <style scoped>
 ._intro ._item p {
   font-size: 14px;
+}
+
+.list-address {
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 70px);
+}
+
+.list-address p {
+  margin-bottom: 8px;
+  width: 100% !important;
+  font-family: AvenirLTStd-Light\.ttf!important;
 }
 </style>

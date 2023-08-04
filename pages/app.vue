@@ -42,10 +42,10 @@
                   </div>
                   <div class="app-down-btn">
                     <div>
-                      <img src="/images/ggdownload.png" alt="" />
+                      <img src="/images/ggdownload.png" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                     </div>
                     <div>
-                      <img src="/images/appledownload.png" alt="" />
+                      <img src="/images/appledownload.png" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                     </div>
                   </div>
                 </div>
@@ -55,12 +55,12 @@
                       height="700px"
                       class="mb-app"
                       src="https://www.freeiconspng.com/thumbs/iphone-x-pictures/apple-iphone-x-pictures-5.png"
-                      alt=""
+                      alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
                     />
                     <img
                       class="app-pr"
                       src="https://cdn.pixabay.com/photo/2013/07/12/14/42/qr-code-148603_1280.png"
-                      alt=""
+                      alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
                     />
                   </div>
                 </div>
@@ -87,20 +87,20 @@ export default {
     return {
       features: [
         {
-          title: "Book lịch học",
-          content: "Chủ động book lịch học với giáo viên để chủ động trong lịch trình cá nhân"
+          title: "Đặt lịch học",
+          content: "Chủ động đặt lịch học cá nhân với giáo viên"
         },
         {
           title: "Thông báo",
-          content: "Cập nhật mới nhất về lịch học, sự kiện sắp tới, ưu đãi và thông tin mới nhất từ BES"
+          content: "Cập nhật lịch học, lịch sự kiện, các ưu đãi và thông tin mới nhất từ BES"
         },
         {
           title: "Báo cáo",
-          content: "báo cáo tiến trình học tập, nhận xét và đánh giá của giáo viên"
+          content: "Nhận hướng dẫn, nhận xét và báo cáo tiến độ học tập từ giáo viên"
         },
         {
           title: "Phản hồi/Góp ý",
-          content: "Nhắn gửi đến BES những lời nhận xét và góp ý để tạo nên một môi trường tốt hơn"
+          content: "Nhắn gửi với BES những nhận xét và góp ý giúp BES hoàn thiện hơn"
         }
       ]
     }
@@ -148,6 +148,12 @@ export default {
     .app-down-col{
         width: 100%;
     }
+}
+
+@media only screen and (max-width: 720px) {
+  .app-feature-item {
+    height: 160px!important;
+  }
 }
 .sub-download {
   text-transform: uppercase;

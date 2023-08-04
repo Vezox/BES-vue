@@ -62,21 +62,22 @@ export default {
                         class="lazy img-star"
                         src="/images/common/star.png"
                         alt="Về chúng tôi"
-                      /> Câu chuyện của bes
+                      />
+                      Câu chuyện của bes
                     </div>
                     <div class="the_content_def">
                       <p>
                         Là một người nước ngoài sống tại Việt Nam trong một
-                        khoảng thời gian khá dài tôi có có hội được làm việc và
+                        khoảng thời gian khá dài chúng tôi có có hội được làm việc và
                         quen biết rất nhiều người Việt trong đó phần lớn họ là
                         doanh nhân trong nhiều lĩnh vực như giáo dục, công nghệ,
-                        bất động sản,.... Tuy nhiên phần lớn họ hoặc là không có
-                        hoặc là có rất ít cơ hội được dùng tiếng Anh, điều này
-                        gây cản trở khá nhiều trong quá trình chúng tôi làm việc
-                        cũng như giao lưu.
+                        bất động sản...Tuy nhiên phần lớn họ không có hoặc có
+                        rất ít cơ hội được dùng tiếng Anh, điều này gây cản trở
+                        khá nhiều trong quá trình chúng tôi làm việc cũng như
+                        giao lưu.
                       </p>
                       <p>
-                        Hiểu được nhu cầu này tôi nghĩ rằng một cộng đồng mà ở
+                        Hiểu được nhu cầu này chúng tôi nghĩ rằng một cộng đồng mà ở
                         đó nếu như doanh nhân vừa có cơ hội học tập và thực hành
                         ngoại ngữ vừa có cơ hội kết nối đối tác, bạn bè là rất
                         cần thiết.
@@ -126,7 +127,8 @@ export default {
                                     tiếng Anh chuyên ngành và giao tiếp quốc tế,
                                     nhằm tạo điều kiện thuận lợi cho việc mở
                                     rộng thị trường và tăng cường cạnh tranh
-                                    trên sân chơi quốc tế. <br /> <br>
+                                    trên sân chơi quốc tế. <br />
+                                    <br />
 
                                     Chúng tôi hiểu rằng việc có khả năng giao
                                     tiếp và hiểu biết về ngôn ngữ, văn hóa và
@@ -135,7 +137,8 @@ export default {
                                     tận dụng những cơ hội mới. Tầm nhìn của
                                     chúng tôi là cung cấp cho các doanh nghiệp
                                     Việt Nam một nền tảng học tập và phát triển
-                                    tiếng Anh chuyên ngành đáng tin cậy. <br /> <br>
+                                    tiếng Anh chuyên ngành đáng tin cậy. <br />
+                                    <br />
 
                                     Chúng tôi tận dụng các phương pháp giảng dạy
                                     tiên tiến, tài liệu chuyên ngành chất lượng
@@ -151,7 +154,10 @@ export default {
                           </div>
                         </div>
                       </div>
-                      <div class="swiper-container js-slide-mission" style="margin-top: 3em">
+                      <div
+                        class="swiper-container js-slide-mission"
+                        style="margin-top: 3em"
+                      >
                         <div class="swiper-wrapper">
                           <div class="swiper-slide">
                             <div class="left">
@@ -176,7 +182,8 @@ export default {
                                     tiếp tiếng Anh chuyên ngành và tạo ra môi
                                     trường học tập đáng tin cậy để hỗ trợ sự
                                     phát triển nghề nghiệp của các doanh nhân.
-                                    <br /> <br>
+                                    <br />
+                                    <br />
 
                                     Sứ mệnh của BES là đáp ứng nhu cầu ngày càng
                                     tăng về kỹ năng tiếng Anh chuyên ngành trong
@@ -188,15 +195,15 @@ export default {
                                     truyền thông, mà còn là một công cụ quan
                                     trọng giúp mở ra những cơ hội mới, thúc đẩy
                                     sự phát triển cá nhân và mở rộng tầm nhìn.
-                                    <br /> <br>
+                                    <br />
+                                    <br />
 
-                                    BES tập trung vào việc cung
-                                    cấp các khóa học tiếng Anh chất lượng cao,
-                                    tập trung vào từ vựng và ngữ cảnh chuyên
-                                    ngành, cung cấp cho các doanh nhân Việt Nam
-                                    những kỹ năng cần thiết để tự tin và thành
-                                    công khi giao tiếp trong môi trường kinh
-                                    doanh quốc tế.<br />
+                                    BES tập trung vào việc cung cấp các khóa học
+                                    tiếng Anh chất lượng cao, tập trung vào từ
+                                    vựng và ngữ cảnh chuyên ngành, cung cấp cho
+                                    các doanh nhân Việt Nam những kỹ năng cần
+                                    thiết để tự tin và thành công khi giao tiếp
+                                    trong môi trường kinh doanh quốc tế.<br />
                                   </span>
                                 </p>
                               </div>
@@ -230,8 +237,7 @@ export default {
                 </div>
                 <div class="content-item">
                   <span>
-                    BES cam kết vẫn luôn giữ vững niềm tin đối với nhân sự,
-                    khách hàng đối tác trong quá trình đổi mới và phát triển.
+                    BES cam kết giữ vững niềm tin đối với nhân sự, khách hàng và đối tác trong xuyên suốt quá trình đổi mới và phát triển.
                   </span>
                   <h6>NIỀM TIN</h6>
                   <h4><span>T</span>RUST</h4>
@@ -261,17 +267,12 @@ export default {
                   <h4><span>E</span>NERGY</h4>
                   <h6>NĂNG LƯỢNG</h6>
                   <span>
-                    BES luôn thể hiện năng lượng tích cực, hiện đại và chuyên
-                    nghiệp. Cam kết mang đến dịch vụ chất lượng, uy tín, trung
-                    thực minh bạch và đạo đức nghề nghiệp là kim chỉ nam xuyên
-                    suốt quá trình phát triển thương hiệu.
+                    BES luôn thể hiện năng lượng tích cực, hiện đại và chuyên nghiệp. Dịch vụ chất lượng, uy tín, trung thực, minh bạch và đạo đức nghề nghiệp là kim chỉ nam xuyên suốt quá trình phát triển thương hiệu.
                   </span>
                 </div>
                 <div class="content-item">
                   <span>
-                    Sẻ chia những giá trị thực đến từng cá nhân, đối tác và cả
-                    cộng đồng. Bởi vì mỗi cá nhân phát triển sẽ góp phần giúp xã
-                    hội phát triển bền vững
+                    BES sẻ chia chân giá trị đến từng cá nhân, tập thể và cả cộng đồng. Mỗi cá nhân phát triển sẽ góp phần giúp xã hội phát triển bền vững
                   </span>
                   <h6>SẺ CHIA</h6>
                   <h4><span>S</span>HARING</h4>
@@ -562,8 +563,6 @@ img.emoji {
   padding: 2% 10%;
 }
 
-
-
 .container h1 {
   font-size: 50px;
   text-align: center;
@@ -573,7 +572,6 @@ img.emoji {
   line-height: 1;
   margin-bottom: 32px;
 }
-
 
 .content {
   display: flex;
@@ -612,9 +610,8 @@ img.emoji {
   }
 
   .content-item h4 {
-  font-size: 24px;
+    font-size: 24px;
   }
-  
 }
 
 .content-item h4 span {

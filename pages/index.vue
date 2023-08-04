@@ -7,51 +7,6 @@
           <div class="home-page typography">
             <section class="h_section1 container" id="h_section1">
               <swiper-container />
-              <div class="_panigation">
-                <div class="container_common">
-                  <div class="content_common">
-                    <div class="swiper_def">
-                      <div class="swiper-button-prev swiper-button">
-                        <img
-                          class="lazy"
-                          src="/images/common/arr-prev.png"
-                          alt="BES"
-                          cộng
-                          đồng
-                          học
-                          tiếng
-                          anh
-                          dành
-                          cho
-                          doanh
-                          nhân
-                          Việt
-                          Nam
-                        />
-                      </div>
-                      <div class="swiper-pagination pagination-slide"></div>
-                      <div class="swiper-button-next swiper-button">
-                        <img
-                          class="lazy"
-                          src="/images/common/arr-next.png"
-                          alt="BES"
-                          cộng
-                          đồng
-                          học
-                          tiếng
-                          anh
-                          dành
-                          cho
-                          doanh
-                          nhân
-                          Việt
-                          Nam
-                        />
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
             </section>
             <section class="h_section2 container" id="h_section2">
               <div class="_decor">
@@ -388,31 +343,30 @@
                           <div class="reg-content-w">
                             <div class="reg-title">Phương pháp giảng dạy</div>
                             <p class="excerpt">
-                              Tập trung vào mục tiêu con người học, không ngừng
-                              tìm hiểu, điều chỉnh và hướng khách hàng tới thành
-                              công
+                              Tập trung vào mục tiêu học tập cá nhân, không
+                              ngừng tìm hiểu, điều chỉnh và hướng học viên đến
+                              thành công
                             </p>
                           </div>
                         </div>
                         <div class="rectagle gray">
-                          <img src="/images/cham-soc-khach-hang.svg" alt="" />
+                          <img src="/images/cham-soc-khach-hang.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                           <div class="reg-content-w">
                             <div class="reg-title">Chăm sóc khách hàng</div>
                             <p class="excerpt">
                               Thường xuyên hỗ trợ, cập nhật thông tin, giải đáp
-                              thắc mắc cùng với app tích hợp tiện ích như <br />
-                              booking báo cáo <br />
-                              đánh giá
+                              thắc mắc, báo cáo, đánh giá xuyên suốt quá trình
+                              học tập với App di <br/> động tiện lợi
                             </p>
                           </div>
                         </div>
                         <div class="rectagle brow">
-                          <img src="/images/trai-nghiem-thuc-te.svg" alt="" />
+                          <img src="/images/trai-nghiem-thuc-te.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                           <div class="reg-content-w">
                             <div class="reg-title">Trải nghiệm thực tế</div>
                             <p class="excerpt">
-                              Bằng các study tour ngắn ngày hoặc chuyến đi khám
-                              phá tới các quốc gia như Philipines, Singapore,...
+                              Các Study tour thực tế, các chuyến đi khám phá tới
+                              các quốc gia như Philipines, Singapore...
                             </p>
                           </div>
                         </div>
@@ -435,7 +389,7 @@
                         <div class="rectagle brow">
                           <img
                             src="/images/gia-tri-cong-them.svg"
-                            alt=""
+                            alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
                             srcset=""
                           />
                           <div class="reg-content-w">
@@ -443,27 +397,27 @@
                             <p class="excerpt">
                               BES thường xuyên tổ chức các buổi workshop,
                               seminars, hoạt động ngoại khóa hay mời các chuyên
-                              gia chia sẻ về các <br />chủ đề
+                              gia chia sẻ<br />về các chủ đề
                             </p>
                           </div>
                         </div>
                         <div class="rectagle brow">
-                          <img src="/images/co-so-vat-chat.svg" alt="" />
+                          <img src="/images/co-so-vat-chat.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                           <div class="reg-content-w">
                             <div class="reg-title">Cơ sở vật chất</div>
                             <p class="excerpt">
-                              Hiện đại, các mối quan hệ và các dịch vụ tiện ích
-                              giúp khách hàng có những trải nghiệm khó quên
+                              Không gian hiện đại, sáng tạo với nhiều tiện ích
+                              tăng cường cảm hứng học tập
                             </p>
                           </div>
                         </div>
                         <div class="rectagle gray">
-                          <img src="/images/giao-trinh.svg" alt="" />
+                          <img src="/images/giao-trinh.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                           <div class="reg-content-w">
                             <div class="reg-title">Giáo trình độc quyền</div>
                             <p class="excerpt">
-                              Biên soạn bởi các chuyên gia. Các buổi học đề cao
-                              trải nghiệm cá nhân tính thực dụng của ngôn ngữ
+                              Biên soạn bởi các chuyên gia kỳ cựu, tập trung vào
+                              tính ứng dụng cao cá nhân hóa cho từng học viên
                             </p>
                           </div>
                         </div>
@@ -476,22 +430,21 @@
                           <div class="reg-content-w">
                             <div class="reg-title">Phương pháp giảng dạy</div>
                             <p class="excerpt">
-                              Tập trung vào mục tiêu con người học, không ngừng
-                              tìm hiểu, điều chỉnh và hướng khách hàng tới thành
-                              <br />
-                              công
+                              Tập trung vào mục tiêu học tập cá nhân, không
+                              ngừng tìm hiểu, điều chỉnh và hướng học viên đến
+                              thành công
                             </p>
                           </div>
                         </div>
                         <div class="rectagle gray">
-                          <img src="/images/cham-soc-khach-hang.svg" alt="" />
+                          <img src="/images/cham-soc-khach-hang.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                           <div class="reg-content-w">
                             <div class="reg-title">Chăm sóc khách hàng</div>
                             <p class="excerpt">
                               Thường xuyên hỗ trợ, cập nhật thông tin, giải đáp
-                              thắc mắc cùng với app tích hợp tiện ích như
-                              booking báo cáo <br />
-                              đánh giá
+                              thắc mắc, báo cáo, đánh giá xuyên suốt quá trình
+                              học tập với App di <br />
+                              động tiện lợi
                             </p>
                           </div>
                         </div>
@@ -514,7 +467,7 @@
                         <div class="rectagle brow">
                           <img
                             src="/images/gia-tri-cong-them.svg"
-                            alt=""
+                            alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
                             srcset=""
                           />
                           <div class="reg-content-w">
@@ -522,14 +475,13 @@
                             <p class="excerpt">
                               BES thường xuyên tổ chức các buổi workshop,
                               seminars, hoạt động ngoại khóa hay mời các chuyên
-                              <br />
                               gia chia sẻ <br />
                               về các chủ đề
                             </p>
                           </div>
                         </div>
                         <div class="rectagle brow">
-                          <img src="/images/co-so-vat-chat.svg" alt="" />
+                          <img src="/images/co-so-vat-chat.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                           <div class="reg-content-w">
                             <div class="reg-title">Cơ sở vật chất</div>
                             <p class="excerpt">
@@ -541,17 +493,17 @@
                       </div>
                       <div class="div-rectagle-center div-rectagle-bottom">
                         <div class="rectagle gray">
-                          <img src="/images/trai-nghiem-thuc-te.svg" alt="" />
+                          <img src="/images/trai-nghiem-thuc-te.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                           <div class="reg-content-w">
                             <div class="reg-title">Trải nghiệm thực tế</div>
                             <p class="excerpt">
-                              Bằng các study tour ngắn ngày hoặc chuyến đi khám
-                              phá tới các quốc gia như Philipines, Singapore,...
+                              Các Study tour thực tế, các chuyến đi khám phá tới
+                              các quốc gia như Philipines, Singapore...
                             </p>
                           </div>
                         </div>
                         <div class="rectagle gray">
-                          <img src="/images/giao-trinh.svg" alt="" />
+                          <img src="/images/giao-trinh.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                           <div class="reg-content-w">
                             <div class="reg-title">Giáo trình độc quyền</div>
                             <p class="excerpt">
@@ -568,30 +520,31 @@
                         <div class="reg-content-w">
                           <div class="reg-title">Phương pháp giảng dạy</div>
                           <p class="excerpt">
-                            Tập trung vào mục tiêu con người học, không ngừng
-                            tìm hiểu, điều chỉnh và hướng khách hàng tới thành
+                            Tập trung vào mục tiêu học tập cá nhân, không ngừng
+                            tìm hiểu, điều chỉnh và hướng học viên đến thành
                             công
                           </p>
                         </div>
                       </div>
                       <div class="rectagle gray">
-                        <img src="/images/cham-soc-khach-hang.svg" alt="" />
+                        <img src="/images/cham-soc-khach-hang.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                         <div class="reg-content-w">
                           <div class="reg-title">Chăm sóc khách hàng</div>
                           <p class="excerpt">
                             Thường xuyên hỗ trợ, cập nhật thông tin, giải đáp
-                            thắc mắc cùng với app tích hợp tiện ích như booking
-                            báo cáo đánh giá
+                            thắc mắc, báo cáo, đánh giá xuyên suốt quá trình học
+                            tập với App di <br />
+                            động tiện lợi
                           </p>
                         </div>
                       </div>
                       <div class="rectagle brow">
-                        <img src="/images/trai-nghiem-thuc-te.svg" alt="" />
+                        <img src="/images/trai-nghiem-thuc-te.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                         <div class="reg-content-w">
                           <div class="reg-title">Trải nghiệm thực tế</div>
                           <p class="excerpt">
-                            Bằng các study tour ngắn ngày hoặc chuyến đi khám
-                            phá tới các quốc gia như Philipines, Singapore,...
+                            Các Study tour thực tế, các chuyến đi khám phá tới
+                            các quốc gia như Philipines, Singapore...
                           </p>
                         </div>
                       </div>
@@ -611,7 +564,7 @@
                       <div class="rectagle brow">
                         <img
                           src="/images/gia-tri-cong-them.svg"
-                          alt=""
+                          alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
                           srcset=""
                         />
                         <div class="reg-content-w">
@@ -624,22 +577,22 @@
                         </div>
                       </div>
                       <div class="rectagle gray">
-                        <img src="/images/co-so-vat-chat.svg" alt="" />
+                        <img src="/images/co-so-vat-chat.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                         <div class="reg-content-w">
                           <div class="reg-title">Cơ sở vật chất</div>
                           <p class="excerpt">
-                            Hiện đại, các mối quan hệ và các dịch vụ tiện ích
-                            giúp khách hàng có những trải nghiệm khó quên
+                            Không gian hiện đại, sáng tạo với nhiều tiện ích
+                            tăng cường cảm hứng học tập
                           </p>
                         </div>
                       </div>
                       <div class="rectagle brow">
-                        <img src="/images/giao-trinh.svg" alt="" />
+                        <img src="/images/giao-trinh.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                         <div class="reg-content-w">
                           <div class="reg-title">Giáo trình độc quyền</div>
                           <p class="excerpt">
-                            Biên soạn bởi các chuyên gia. Các buổi học đề cao
-                            trải nghiệm cá nhân tính thực dụng của ngôn ngữ
+                            Biên soạn bởi các chuyên gia kỳ cựu, tập trung vào
+                            tính ứng dụng cao cá nhân hóa cho từng học viên
                           </p>
                         </div>
                       </div>
@@ -736,7 +689,7 @@
                       <img
                         src="/images/banner/banner_1.png"
                         style="width: 90%"
-                        alt=""
+                        alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
                       />
                     </div>
                     <div class="_right">
@@ -1067,17 +1020,17 @@
                     <a :href="localePath('/khoa-hoc')" class="_item">
                       <img
                         class="_img lazy"
-                        src="/uploads/2021/11/Screen-Shot-2021-11-25-at-10.10.41.png"
+                        src="/images/kh-vip.jpg"
                         alt="BES cộng đồng học tiếng anh dành cho doanh nhân Việt Nam"
                       />
                       <div class="_content">
-                        <div class="_type">VIP</div>
+                        <div class="_type">Premium</div>
                         <div class="btn_site _near">
                           <span>Xem thêm</span>
                           <img
                             class="lazy"
                             src="/images/common/arrow-right.png"
-                            alt=""
+                            alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
                           />
                         </div>
                       </div>
@@ -1085,11 +1038,11 @@
                     <a :href="localePath('/khoa-hoc')" class="_item">
                       <img
                         class="_img lazy"
-                        src="/uploads/2021/11/image-15.png"
-                        alt=""
+                        src="/images/kh-class.jpg"
+                        alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
                       />
                       <div class="_content">
-                        <div class="_type">Class</div>
+                        <div class="_type">Standard</div>
                         <div class="btn_site _near">
                           <span>Xem thêm</span>
                           <img
@@ -1338,7 +1291,7 @@
               id="h_section8"
               style="padding-top: 112px"
             >
-              <div class="container_common">
+              <div class="container_common" v-if="images.length == 6">
                 <div class="content_common">
                   <div class="label_def _gray">
                     <img
@@ -1350,59 +1303,59 @@
                   </div>
                 </div>
                 <div class="wrap">
-                  <a href="#" class="item">
+                  <a :href="localePath('/hinh-anh/co-so-vat-chat')" class="item">
                     <div class="layout"></div>
                     <img
                       class="lazy"
-                      src="/uploads/2021/12/Replace-Internship-Programmes-scaled.jpg"
+                      :src="images[1].image.url"
                       alt="BES Spirit Photo Contest"
                     />
-                    <p class="text">Dịch vụ Hướng nghiệp và Thực tập</p>
+                    <!-- <p class="text">Dịch vụ Hướng nghiệp và Thực tập</p> -->
                   </a>
-                  <a href="#" class="item">
+                  <a :href="localePath('/hinh-anh/co-so-vat-chat')" class="item">
                     <div class="layout"></div>
                     <img
                       class="lazy"
-                      src="/uploads/2022/01/125199939_3707178062665868_6739041773961160754_n.jpg"
+                      src="/images/home.jpg"
                       alt="BES Spirit Photo Contest"
                     />
-                    <p class="text">Hoạt động Sinh viên</p>
+                    <p class="text">BES</p>
                   </a>
-                  <a href="#" class="item">
+                  <a :href="localePath('/hinh-anh/co-so-vat-chat')" class="item">
                     <div class="layout"></div>
                     <img
                       class="lazy"
-                      src="/uploads/2021/12/125246490_3707180309332310_3714911642469131216_n.jpg"
+                      :src="images[2].image.url"
                       alt="BES Spirit Photo Contest"
                     />
-                    <p class="text">Trao đổi Văn hóa</p>
+                    <!-- <p class="text">Trao đổi Văn hóa</p> -->
                   </a>
-                  <a href="#" class="item">
+                  <a :href="localePath('/hinh-anh/co-so-vat-chat')" class="item">
                     <div class="layout"></div>
                     <img
                       class="lazy"
-                      src="/uploads/2021/12/DSC09302-scaled-e1639114626147.jpg"
+                      :src="images[3].image.url"
                       alt="BES Spirit Photo Contest"
                     />
-                    <p class="text">Cộng đồng Sinh viên</p>
+                    <!-- <p class="text">Cộng đồng Sinh viên</p> -->
                   </a>
-                  <a href="#" class="item">
+                  <a :href="localePath('/hinh-anh/co-so-vat-chat')" class="item">
                     <div class="layout"></div>
                     <img
                       class="lazy"
-                      src="/uploads/2021/10/Alumni-dinner-1-e1517371099923.jpg"
+                      :src="images[4].image.url"
                       alt="BES Spirit Photo Contest"
                     />
-                    <p class="text">Cựu Sinh viên</p>
+                    <!-- <p class="text">Cựu Sinh viên</p> -->
                   </a>
-                  <a href="#" class="item">
+                  <a :href="localePath('/hinh-anh/co-so-vat-chat')" class="item">
                     <div class="layout"></div>
                     <img
                       class="lazy"
-                      src="/uploads/2021/12/DSC09427-scaled.jpg"
+                      :src="images[5].image.url"
                       alt="BES Spirit Photo Contest"
                     />
-                    <p class="text">Hỗ trợ Sinh viên Quốc tế</p>
+                    <!-- <p class="text">Hỗ trợ Sinh viên Quốc tế</p> -->
                   </a>
                 </div>
               </div>
@@ -1434,8 +1387,8 @@
                     v-bind="slickOptions2"
                     style="margin-top: 50px"
                   >
-                    <div class="w-review-item" v-for="review in reviews">
-                      <review-item :review="review" />
+                    <div class="w-review-item" v-for="i in 20">
+                      <review-item :idx="i" />
                     </div>
                   </VueSlickCarousel>
                   <!-- </div> -->
@@ -1465,10 +1418,10 @@
                       của bản thân thông qua ứng dụng BES
                       <div class="app-down-btn">
                         <div>
-                          <img src="/images/ggdownload.png" alt="" />
+                          <img src="/images/ggdownload.png" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                         </div>
                         <div>
-                          <img src="/images/appledownload.png" alt="" />
+                          <img src="/images/appledownload.png" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
                         </div>
                       </div>
                     </div>
@@ -1476,12 +1429,12 @@
                       <img
                         height="600px"
                         src="https://www.freeiconspng.com/thumbs/iphone-x-pictures/apple-iphone-x-pictures-5.png"
-                        alt=""
+                        alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
                       />
                       <img
                         class="app-pr"
                         src="https://cdn.pixabay.com/photo/2013/07/12/14/42/qr-code-148603_1280.png"
-                        alt=""
+                        alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
                       />
                     </div>
                   </div>
@@ -2013,6 +1966,7 @@ export default {
       },
       news: [],
       loading: true,
+      images: []
     };
   },
   components: {
@@ -2026,6 +1980,7 @@ export default {
     VueSlickCarousel,
   },
   created() {
+    this.getImages()
     this.loading = true;
     const params = {
       limit: 5,
@@ -2045,6 +2000,21 @@ export default {
       });
   },
   methods: {
+    getImages() {
+      api
+        .post("/image-topic/list", {
+          page: 1,
+          limit: 6,
+        })
+        .then((res) => {
+          this.images = res.data.list
+          console.log(this.images.length)
+          this.page++;
+        })
+        .catch((err) => {
+          console.log(err);
+        })
+    },
     formatDate(timestamp) {
       const date = new Date(timestamp);
       const day = date.getDate();
@@ -2072,6 +2042,6 @@ export default {
 </script>
 <style>
 .brands .slick-slide img {
-    padding: 0 3em;
+  padding: 0 3em;
 }
 </style>

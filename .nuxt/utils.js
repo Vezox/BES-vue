@@ -199,7 +199,7 @@ export async function setContext (app, context) {
       payload: context.payload,
       error: context.error,
       base: app.router.options.base,
-      env: {"API":"https://api.besgroup.asia/api"}
+      env: {"API":"https://localhost:3100/api"}
     }
     // Only set once
 
