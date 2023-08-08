@@ -1151,7 +1151,7 @@
                   </div>
                   <div class="_list_degree">
                     <div class="_item">
-                      <div class="_title">Management Office</div>
+                      <div class="_title">Academic Campus</div>
                       <div class="_content khoi-nganh-quan-tri-va-kinh-doanh">
                         <a href="">
                           <svg
