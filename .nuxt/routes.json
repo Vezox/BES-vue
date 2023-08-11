@@ -7,18 +7,18 @@
     "_name": "_b77a70d8"
   },
   {
+    "name": "blog___en",
+    "path": "/blog",
+    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/blog/index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_1cea7482"
+  },
+  {
     "name": "gioi-thieu___en",
     "path": "/gioi-thieu",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/gioi-thieu.vue",
     "chunkName": "pages/gioi-thieu",
     "_name": "_1829241e"
-  },
-  {
-    "name": "he-thong-nhuong-quyen___en",
-    "path": "/he-thong-nhuong-quyen",
-    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/he-thong-nhuong-quyen.vue",
-    "chunkName": "pages/he-thong-nhuong-quyen",
-    "_name": "_dbb0f58c"
   },
   {
     "name": "khoa-hoc___en",
@@ -30,9 +30,9 @@
   {
     "name": "su-kien___en",
     "path": "/su-kien",
-    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/su-kien.vue",
-    "chunkName": "pages/su-kien",
-    "_name": "_15864285"
+    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/su-kien/index.vue",
+    "chunkName": "pages/su-kien/index",
+    "_name": "_43b61148"
   },
   {
     "name": "tin-tuc___en",
@@ -91,18 +91,18 @@
     "_name": "_b77a70d8"
   },
   {
+    "name": "blog___vi",
+    "path": "/vi/blog",
+    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/blog/index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_1cea7482"
+  },
+  {
     "name": "gioi-thieu___vi",
     "path": "/vi/gioi-thieu",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/gioi-thieu.vue",
     "chunkName": "pages/gioi-thieu",
     "_name": "_1829241e"
-  },
-  {
-    "name": "he-thong-nhuong-quyen___vi",
-    "path": "/vi/he-thong-nhuong-quyen",
-    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/he-thong-nhuong-quyen.vue",
-    "chunkName": "pages/he-thong-nhuong-quyen",
-    "_name": "_dbb0f58c"
   },
   {
     "name": "khoa-hoc___vi",
@@ -114,9 +114,9 @@
   {
     "name": "su-kien___vi",
     "path": "/vi/su-kien",
-    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/su-kien.vue",
-    "chunkName": "pages/su-kien",
-    "_name": "_15864285"
+    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/su-kien/index.vue",
+    "chunkName": "pages/su-kien/index",
+    "_name": "_43b61148"
   },
   {
     "name": "tin-tuc___vi",
@@ -161,11 +161,25 @@
     "_name": "_3db43ffa"
   },
   {
+    "name": "blog-id___vi",
+    "path": "/vi/blog/:id",
+    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/blog/_id.vue",
+    "chunkName": "pages/blog/_id",
+    "_name": "_8ba0a12c"
+  },
+  {
     "name": "hinh-anh-id___vi",
     "path": "/vi/hinh-anh/:id?",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/hinh-anh/_id.vue",
     "chunkName": "pages/hinh-anh/_id",
     "_name": "_8289145e"
+  },
+  {
+    "name": "su-kien-id___vi",
+    "path": "/vi/su-kien/:id?",
+    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/su-kien/_id.vue",
+    "chunkName": "pages/su-kien/_id",
+    "_name": "_1ea7c5b0"
   },
   {
     "name": "tin-tuc-id___vi",
@@ -175,11 +189,25 @@
     "_name": "_40535d28"
   },
   {
+    "name": "blog-id___en",
+    "path": "/blog/:id",
+    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/blog/_id.vue",
+    "chunkName": "pages/blog/_id",
+    "_name": "_8ba0a12c"
+  },
+  {
     "name": "hinh-anh-id___en",
     "path": "/hinh-anh/:id?",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/hinh-anh/_id.vue",
     "chunkName": "pages/hinh-anh/_id",
     "_name": "_8289145e"
+  },
+  {
+    "name": "su-kien-id___en",
+    "path": "/su-kien/:id?",
+    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/su-kien/_id.vue",
+    "chunkName": "pages/su-kien/_id",
+    "_name": "_1ea7c5b0"
   },
   {
     "name": "tin-tuc-id___en",

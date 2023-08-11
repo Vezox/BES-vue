@@ -34,6 +34,7 @@
                 :column-min-width="400"
                 :gutter-width="30"
                 :gutter-height="15"
+                :monitor-images-loaded="true"
               >
                 <stack-item
                   v-for="(image, i) in images"

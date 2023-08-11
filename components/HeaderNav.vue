@@ -125,13 +125,13 @@
                 id="menu-item-2800"
                 class="has-sub menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2800"
               >
-              <a :href="localePath('/tin-tuc/')">Tin tức</a>
-                <!-- <span href="/">Thông tin</span>
+                <span href="/">Thông tin</span>
                 <ul class="sub-menu">
                   <li
                     id="menu-item-2802"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2802"
                   >
+                  <a :href="localePath('/tin-tuc')">Tin Tức</a>
                   </li>
                   <li
                     id="menu-item-2801"
@@ -139,7 +139,13 @@
                   >
                     <a :href="localePath('/su-kien')">Sự kiện</a>
                   </li>
-                </ul> -->
+                  <li
+                    id="menu-item-2801"
+                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2801"
+                  >
+                    <a :href="localePath('/blog')">Blog</a>
+                  </li>
+                </ul>
               </li>
               <!-- <li
                 id="menu-item-2799"

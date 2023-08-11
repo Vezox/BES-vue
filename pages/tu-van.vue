@@ -309,6 +309,7 @@ import HeaderNav from "@/components/HeaderNav.vue";
 import SocialFix from "@/components/SocialFix.vue";
 import SwiperContainer from "@/components/Swiper.vue";
 import FooterSite from "@/components/Footer.vue";
+import api from "../plugins/api";
 export default {
   components: { TopNav, HeaderNav, SocialFix, SwiperContainer, FooterSite },
   data() {
@@ -326,13 +327,7 @@ export default {
   methods: {
     async submit() {
       try {
-        const res = await fetch(process.env.api + "/consultation/create", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify(this.form),
-        });
+        await api.post("/consultation/create", this.form);
         alert("Đăng kí thành công");
       } catch (error) {
         console.error("submit", error);

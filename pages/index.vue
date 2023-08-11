@@ -350,18 +350,25 @@
                           </div>
                         </div>
                         <div class="rectagle gray">
-                          <img src="/images/cham-soc-khach-hang.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
+                          <img
+                            src="/images/cham-soc-khach-hang.svg"
+                            alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
+                          />
                           <div class="reg-content-w">
                             <div class="reg-title">Chăm sóc khách hàng</div>
                             <p class="excerpt">
                               Thường xuyên hỗ trợ, cập nhật thông tin, giải đáp
                               thắc mắc, báo cáo, đánh giá xuyên suốt quá trình
-                              học tập với App di <br/> động tiện lợi
+                              học tập với App di <br />
+                              động tiện lợi
                             </p>
                           </div>
                         </div>
                         <div class="rectagle brow">
-                          <img src="/images/trai-nghiem-thuc-te.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
+                          <img
+                            src="/images/trai-nghiem-thuc-te.svg"
+                            alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
+                          />
                           <div class="reg-content-w">
                             <div class="reg-title">Trải nghiệm thực tế</div>
                             <p class="excerpt">
@@ -402,7 +409,10 @@
                           </div>
                         </div>
                         <div class="rectagle brow">
-                          <img src="/images/co-so-vat-chat.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
+                          <img
+                            src="/images/co-so-vat-chat.svg"
+                            alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
+                          />
                           <div class="reg-content-w">
                             <div class="reg-title">Cơ sở vật chất</div>
                             <p class="excerpt">
@@ -412,7 +422,10 @@
                           </div>
                         </div>
                         <div class="rectagle gray">
-                          <img src="/images/giao-trinh.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
+                          <img
+                            src="/images/giao-trinh.svg"
+                            alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
+                          />
                           <div class="reg-content-w">
                             <div class="reg-title">Giáo trình độc quyền</div>
                             <p class="excerpt">
@@ -437,7 +450,10 @@
                           </div>
                         </div>
                         <div class="rectagle gray">
-                          <img src="/images/cham-soc-khach-hang.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
+                          <img
+                            src="/images/cham-soc-khach-hang.svg"
+                            alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
+                          />
                           <div class="reg-content-w">
                             <div class="reg-title">Chăm sóc khách hàng</div>
                             <p class="excerpt">
@@ -481,7 +497,10 @@
                           </div>
                         </div>
                         <div class="rectagle brow">
-                          <img src="/images/co-so-vat-chat.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
+                          <img
+                            src="/images/co-so-vat-chat.svg"
+                            alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
+                          />
                           <div class="reg-content-w">
                             <div class="reg-title">Cơ sở vật chất</div>
                             <p class="excerpt">
@@ -493,7 +512,10 @@
                       </div>
                       <div class="div-rectagle-center div-rectagle-bottom">
                         <div class="rectagle gray">
-                          <img src="/images/trai-nghiem-thuc-te.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
+                          <img
+                            src="/images/trai-nghiem-thuc-te.svg"
+                            alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
+                          />
                           <div class="reg-content-w">
                             <div class="reg-title">Trải nghiệm thực tế</div>
                             <p class="excerpt">
@@ -503,7 +525,10 @@
                           </div>
                         </div>
                         <div class="rectagle gray">
-                          <img src="/images/giao-trinh.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
+                          <img
+                            src="/images/giao-trinh.svg"
+                            alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
+                          />
                           <div class="reg-content-w">
                             <div class="reg-title">Giáo trình độc quyền</div>
                             <p class="excerpt">
@@ -527,7 +552,10 @@
                         </div>
                       </div>
                       <div class="rectagle gray">
-                        <img src="/images/cham-soc-khach-hang.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
+                        <img
+                          src="/images/cham-soc-khach-hang.svg"
+                          alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
+                        />
                         <div class="reg-content-w">
                           <div class="reg-title">Chăm sóc khách hàng</div>
                           <p class="excerpt">
@@ -539,7 +567,10 @@
                         </div>
                       </div>
                       <div class="rectagle brow">
-                        <img src="/images/trai-nghiem-thuc-te.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
+                        <img
+                          src="/images/trai-nghiem-thuc-te.svg"
+                          alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
+                        />
                         <div class="reg-content-w">
                           <div class="reg-title">Trải nghiệm thực tế</div>
                           <p class="excerpt">
@@ -577,7 +608,10 @@
                         </div>
                       </div>
                       <div class="rectagle gray">
-                        <img src="/images/co-so-vat-chat.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
+                        <img
+                          src="/images/co-so-vat-chat.svg"
+                          alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
+                        />
                         <div class="reg-content-w">
                           <div class="reg-title">Cơ sở vật chất</div>
                           <p class="excerpt">
@@ -587,7 +621,10 @@
                         </div>
                       </div>
                       <div class="rectagle brow">
-                        <img src="/images/giao-trinh.svg" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
+                        <img
+                          src="/images/giao-trinh.svg"
+                          alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
+                        />
                         <div class="reg-content-w">
                           <div class="reg-title">Giáo trình độc quyền</div>
                           <p class="excerpt">
@@ -1134,6 +1171,200 @@
                         />
                       </a>
                     </div>
+                    <div class="_right">
+                      <div class="list_tab">
+                        <a
+                          :class="{ 'is-active': active == 0 }"
+                          data-head
+                          @click="active = 0"
+                        >
+                          Sự kiện nổi bật
+                        </a>
+                        <a
+                          :class="{ 'is-active': active == 1 }"
+                          data-head
+                          @click="active = 1"
+                        >
+                          Sự kiện mới nhất
+                        </a>
+                      </div>
+                      <div class="tab_content">
+                        <div
+                          class="item"
+                          id="h5_tab1"
+                          data-content
+                          v-if="active == 0 && hots.length"
+                        >
+                          <div class="list_events">
+                            <div class="new_event" v-for="item in hots">
+                              <div class="calender">
+                                <p>
+                                  {{
+                                    new Date(item.date)
+                                      .toLocaleString("default", {
+                                        month: "long",
+                                      })
+                                      .slice(0, 3)
+                                  }}
+                                </p>
+                                <p>{{ new Date(item.date).getDate() }}</p>
+                              </div>
+                              <div class="text">
+                                <a
+                                  :href="localePath('/su-kien/' + item.slug)"
+                                  class="title"
+                                >
+                                  {{ item.title }}
+                                </a>
+                                <p class="intro">
+                                  <span>
+                                    <svg
+                                      width="12"
+                                      height="11"
+                                      viewBox="0 0 12 11"
+                                      fill="none"
+                                    >
+                                      <g>
+                                        <path
+                                          d="M5.92969 0C2.89687 0 0.429688 2.46718 0.429688 5.5C0.429688 8.53282 2.89687 11 5.92969 11C8.96251 11 11.4297 8.53282 11.4297 5.5C11.4297 2.46718 8.96251 0 5.92969 0ZM8.54541 8.34483C8.45603 8.43421 8.33871 8.47919 8.22138 8.47919C8.10406 8.47919 7.98665 8.43421 7.89735 8.34483L5.60566 6.05322C5.51947 5.96754 5.47138 5.85105 5.47138 5.72919V2.75C5.47138 2.49655 5.67666 2.29169 5.92969 2.29169C6.18272 2.29169 6.38799 2.49655 6.38799 2.75V5.53944L8.54541 7.69678C8.72459 7.87604 8.72459 8.16566 8.54541 8.34483Z"
+                                          fill="#D71F27"
+                                        />
+                                      </g>
+                                      <defs>
+                                        <clipPath id="clip0">
+                                          <rect
+                                            width="11"
+                                            height="11"
+                                            fill="white"
+                                            transform="translate(0.429688)"
+                                          />
+                                        </clipPath>
+                                      </defs>
+                                    </svg>
+                                    {{
+                                      new Date(item.date).toLocaleTimeString()
+                                    }}
+                                  </span>
+                                  <span>
+                                    <svg
+                                      width="11"
+                                      height="14"
+                                      viewBox="0 0 11 14"
+                                      fill="none"
+                                    >
+                                      <path
+                                        d="M5.62291 1C2.41131 1 1.42969 3.50083 1.42969 5.59473C1.42969 8.62795 4.82001 13 5.62291 13C6.47599 13 9.81697 8.59465 9.81697 5.59473C9.81697 3.50083 8.83454 1 5.62291 1ZM5.62372 7.00883C4.58676 7.00883 3.74662 6.16868 3.74662 5.13213C3.74662 4.09518 4.58678 3.25505 5.62372 3.25505C6.65986 3.25505 7.50001 4.09521 7.50001 5.13213C7.50001 6.16868 6.65988 7.00883 5.62372 7.00883Z"
+                                        fill="#D71F27"
+                                      />
+                                    </svg>
+                                    {{ item.address }}
+                                  </span>
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <a
+                            :href="localePath('/su-kien')"
+                            class="see_more_white"
+                          >
+                            <span>Xem thêm</span>
+                            <img
+                              class="lazy"
+                              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
+                              data-src="https://www.buv.edu.vn/wp-content/themes/main/assets/images/common/arrow-right.png"
+                              alt="Ngày Hội Xét Tuyển BUV 2023: Cơ hội Nhập học Trường Đại học Anh Quốc ngay tại Việt Nam "
+                            />
+                          </a>
+                        </div>
+                        <div
+                          class="item"
+                          id="h5_tab2"
+                          data-content
+                          v-else-if="active == 1 && events.length"
+                        >
+                          <div class="list_events">
+                            <div class="new_event" v-for="item in events">
+                              <div class="calender">
+                                <p>
+                                  {{
+                                    new Date(item.date)
+                                      .toLocaleString("default", {
+                                        month: "long",
+                                      })
+                                      .slice(0, 3)
+                                  }}
+                                </p>
+                                <p>{{ new Date(item.date).getDate() }}</p>
+                              </div>
+                              <div class="text">
+                                <a
+                                  :href="localePath('/su-kien/' + item.slug)"
+                                  class="title"
+                                >
+                                  {{ item.title }}
+                                </a>
+                                <p class="intro">
+                                  <span>
+                                    <svg
+                                      width="12"
+                                      height="11"
+                                      viewBox="0 0 12 11"
+                                      fill="none"
+                                    >
+                                      <g>
+                                        <path
+                                          d="M5.92969 0C2.89687 0 0.429688 2.46718 0.429688 5.5C0.429688 8.53282 2.89687 11 5.92969 11C8.96251 11 11.4297 8.53282 11.4297 5.5C11.4297 2.46718 8.96251 0 5.92969 0ZM8.54541 8.34483C8.45603 8.43421 8.33871 8.47919 8.22138 8.47919C8.10406 8.47919 7.98665 8.43421 7.89735 8.34483L5.60566 6.05322C5.51947 5.96754 5.47138 5.85105 5.47138 5.72919V2.75C5.47138 2.49655 5.67666 2.29169 5.92969 2.29169C6.18272 2.29169 6.38799 2.49655 6.38799 2.75V5.53944L8.54541 7.69678C8.72459 7.87604 8.72459 8.16566 8.54541 8.34483Z"
+                                          fill="#D71F27"
+                                        />
+                                      </g>
+                                      <defs>
+                                        <clipPath id="clip0">
+                                          <rect
+                                            width="11"
+                                            height="11"
+                                            fill="white"
+                                            transform="translate(0.429688)"
+                                          />
+                                        </clipPath>
+                                      </defs>
+                                    </svg>
+                                    {{
+                                      new Date(item.date).toLocaleTimeString()
+                                    }}
+                                  </span>
+                                  <span>
+                                    <svg
+                                      width="11"
+                                      height="14"
+                                      viewBox="0 0 11 14"
+                                      fill="none"
+                                    >
+                                      <path
+                                        d="M5.62291 1C2.41131 1 1.42969 3.50083 1.42969 5.59473C1.42969 8.62795 4.82001 13 5.62291 13C6.47599 13 9.81697 8.59465 9.81697 5.59473C9.81697 3.50083 8.83454 1 5.62291 1ZM5.62372 7.00883C4.58676 7.00883 3.74662 6.16868 3.74662 5.13213C3.74662 4.09518 4.58678 3.25505 5.62372 3.25505C6.65986 3.25505 7.50001 4.09521 7.50001 5.13213C7.50001 6.16868 6.65988 7.00883 5.62372 7.00883Z"
+                                        fill="#D71F27"
+                                      />
+                                    </svg>
+                                    {{ item.address }}
+                                  </span>
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                          <a
+                            :href="localePath('/su-kien')"
+                            class="see_more_white"
+                          >
+                            <span>Xem thêm</span>
+                            <img
+                              class="lazy"
+                              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E"
+                              data-src="https://www.buv.edu.vn/wp-content/themes/main/assets/images/common/arrow-right.png"
+                              alt="Lễ tốt nghiệp niên khóa 2022"
+                            />
+                          </a>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -1303,7 +1534,10 @@
                   </div>
                 </div>
                 <div class="wrap">
-                  <a :href="localePath('/hinh-anh/co-so-vat-chat')" class="item">
+                  <a
+                    :href="localePath('/hinh-anh/co-so-vat-chat')"
+                    class="item"
+                  >
                     <div class="layout"></div>
                     <img
                       class="lazy"
@@ -1312,7 +1546,10 @@
                     />
                     <!-- <p class="text">Dịch vụ Hướng nghiệp và Thực tập</p> -->
                   </a>
-                  <a :href="localePath('/hinh-anh/co-so-vat-chat')" class="item">
+                  <a
+                    :href="localePath('/hinh-anh/co-so-vat-chat')"
+                    class="item"
+                  >
                     <div class="layout"></div>
                     <img
                       class="lazy"
@@ -1321,7 +1558,10 @@
                     />
                     <p class="text">BES</p>
                   </a>
-                  <a :href="localePath('/hinh-anh/co-so-vat-chat')" class="item">
+                  <a
+                    :href="localePath('/hinh-anh/co-so-vat-chat')"
+                    class="item"
+                  >
                     <div class="layout"></div>
                     <img
                       class="lazy"
@@ -1330,7 +1570,10 @@
                     />
                     <!-- <p class="text">Trao đổi Văn hóa</p> -->
                   </a>
-                  <a :href="localePath('/hinh-anh/co-so-vat-chat')" class="item">
+                  <a
+                    :href="localePath('/hinh-anh/co-so-vat-chat')"
+                    class="item"
+                  >
                     <div class="layout"></div>
                     <img
                       class="lazy"
@@ -1339,7 +1582,10 @@
                     />
                     <!-- <p class="text">Cộng đồng Sinh viên</p> -->
                   </a>
-                  <a :href="localePath('/hinh-anh/co-so-vat-chat')" class="item">
+                  <a
+                    :href="localePath('/hinh-anh/co-so-vat-chat')"
+                    class="item"
+                  >
                     <div class="layout"></div>
                     <img
                       class="lazy"
@@ -1348,7 +1594,10 @@
                     />
                     <!-- <p class="text">Cựu Sinh viên</p> -->
                   </a>
-                  <a :href="localePath('/hinh-anh/co-so-vat-chat')" class="item">
+                  <a
+                    :href="localePath('/hinh-anh/co-so-vat-chat')"
+                    class="item"
+                  >
                     <div class="layout"></div>
                     <img
                       class="lazy"
@@ -1418,10 +1667,16 @@
                       của bản thân thông qua ứng dụng BES
                       <div class="app-down-btn">
                         <div>
-                          <img src="/images/ggdownload.png" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
+                          <img
+                            src="/images/ggdownload.png"
+                            alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
+                          />
                         </div>
                         <div>
-                          <img src="/images/appledownload.png" alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam" />
+                          <img
+                            src="/images/appledownload.png"
+                            alt="BES cộng đồng học tiếng anh cho doanh nhân Việt Nam"
+                          />
                         </div>
                       </div>
                     </div>
@@ -1966,7 +2221,10 @@ export default {
       },
       news: [],
       loading: true,
-      images: []
+      images: [],
+      hots: [],
+      events: [],
+      active: 0,
     };
   },
   components: {
@@ -1980,7 +2238,9 @@ export default {
     VueSlickCarousel,
   },
   created() {
-    this.getImages()
+    this.getImages();
+    this.getHotEvents();
+    this.getEvents();
     this.loading = true;
     const params = {
       limit: 5,
@@ -2007,13 +2267,46 @@ export default {
           limit: 6,
         })
         .then((res) => {
-          this.images = res.data.list
-          console.log(this.images.length)
+          this.images = res.data.list;
+          console.log(this.images.length);
           this.page++;
         })
         .catch((err) => {
           console.log(err);
+        });
+    },
+    async getHotEvents() {
+      const params = {
+        page: 1,
+        limit: 3,
+        type: "event",
+        sort: { view: -1 },
+      };
+      api
+        .post("/post/list", params)
+        .then((res) => {
+          this.hots = res.data.list;
         })
+        .catch((err) => {
+          console.log(err);
+        })
+        .finally(() => {});
+    },
+    async getEvents(page = 1) {
+      const params = {
+        page: page,
+        limit: 3,
+        type: "event",
+      };
+      api
+        .post("/post/list", params)
+        .then((res) => {
+          this.events = res.data.list;
+        })
+        .catch((err) => {
+          console.log(err);
+        })
+        .finally(() => {});
     },
     formatDate(timestamp) {
       const date = new Date(timestamp);
@@ -2036,6 +2329,9 @@ export default {
       }/${year}`;
 
       return formattedDate;
+    },
+    setActive(index) {
+      this.active = index;
     },
   },
 };
