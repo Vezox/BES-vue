@@ -39,6 +39,7 @@
                 <stack-item
                   v-for="(image, i) in images"
                   :key="image.image._id"
+                  style="transition: transform 500ms"
                 >
                   <a href="#">
                     <div class="w-img-stack">
