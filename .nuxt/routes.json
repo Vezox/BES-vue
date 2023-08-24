@@ -21,18 +21,18 @@
     "_name": "_1829241e"
   },
   {
-    "name": "he-thong-nhuong-quyen___en",
-    "path": "/he-thong-nhuong-quyen",
-    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/he-thong-nhuong-quyen.vue",
-    "chunkName": "pages/he-thong-nhuong-quyen",
-    "_name": "_dbb0f58c"
-  },
-  {
     "name": "khoa-hoc___en",
     "path": "/khoa-hoc",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/khoa-hoc.vue",
     "chunkName": "pages/khoa-hoc",
     "_name": "_48c5d27b"
+  },
+  {
+    "name": "nhuong-quyen___en",
+    "path": "/nhuong-quyen",
+    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/nhuong-quyen.vue",
+    "chunkName": "pages/nhuong-quyen",
+    "_name": "_7a4fc4ca"
   },
   {
     "name": "su-kien___en",
@@ -105,18 +105,18 @@
     "_name": "_1829241e"
   },
   {
-    "name": "he-thong-nhuong-quyen___vi",
-    "path": "/vi/he-thong-nhuong-quyen",
-    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/he-thong-nhuong-quyen.vue",
-    "chunkName": "pages/he-thong-nhuong-quyen",
-    "_name": "_dbb0f58c"
-  },
-  {
     "name": "khoa-hoc___vi",
     "path": "/vi/khoa-hoc",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/khoa-hoc.vue",
     "chunkName": "pages/khoa-hoc",
     "_name": "_48c5d27b"
+  },
+  {
+    "name": "nhuong-quyen___vi",
+    "path": "/vi/nhuong-quyen",
+    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/nhuong-quyen.vue",
+    "chunkName": "pages/nhuong-quyen",
+    "_name": "_7a4fc4ca"
   },
   {
     "name": "su-kien___vi",

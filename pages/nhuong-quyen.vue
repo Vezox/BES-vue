@@ -218,6 +218,8 @@ export default {
 </template>
 
 <style scoped>
+* {
+}
 #nhuong-quyen-banner-image img {
   max-width: 100%;
   height: auto;
@@ -275,6 +277,8 @@ select {
   display: flex;
   justify-content: center;
   margin: 0.4em 0;
+
+  font-family: Brandon_bld\.otf!important;
 }
 
 .button-63 {

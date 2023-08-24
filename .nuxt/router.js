@@ -7,8 +7,8 @@ import scrollBehavior from './router.scrollBehavior.js'
 const _b77a70d8 = () => interopDefault(import('../pages/app.vue' /* webpackChunkName: "pages/app" */))
 const _1cea7482 = () => interopDefault(import('../pages/blog/index.vue' /* webpackChunkName: "pages/blog/index" */))
 const _1829241e = () => interopDefault(import('../pages/gioi-thieu.vue' /* webpackChunkName: "pages/gioi-thieu" */))
-const _dbb0f58c = () => interopDefault(import('../pages/he-thong-nhuong-quyen.vue' /* webpackChunkName: "pages/he-thong-nhuong-quyen" */))
 const _48c5d27b = () => interopDefault(import('../pages/khoa-hoc.vue' /* webpackChunkName: "pages/khoa-hoc" */))
+const _7a4fc4ca = () => interopDefault(import('../pages/nhuong-quyen.vue' /* webpackChunkName: "pages/nhuong-quyen" */))
 const _43b61148 = () => interopDefault(import('../pages/su-kien/index.vue' /* webpackChunkName: "pages/su-kien/index" */))
 const _73709e04 = () => interopDefault(import('../pages/tin-tuc/index.vue' /* webpackChunkName: "pages/tin-tuc/index" */))
 const _6afa0898 = () => interopDefault(import('../pages/tu-van.vue' /* webpackChunkName: "pages/tu-van" */))
@@ -45,13 +45,13 @@ export const routerOptions = {
     component: _1829241e,
     name: "gioi-thieu___en"
   }, {
-    path: "/he-thong-nhuong-quyen",
-    component: _dbb0f58c,
-    name: "he-thong-nhuong-quyen___en"
-  }, {
     path: "/khoa-hoc",
     component: _48c5d27b,
     name: "khoa-hoc___en"
+  }, {
+    path: "/nhuong-quyen",
+    component: _7a4fc4ca,
+    name: "nhuong-quyen___en"
   }, {
     path: "/su-kien",
     component: _43b61148,
@@ -93,13 +93,13 @@ export const routerOptions = {
     component: _1829241e,
     name: "gioi-thieu___vi"
   }, {
-    path: "/vi/he-thong-nhuong-quyen",
-    component: _dbb0f58c,
-    name: "he-thong-nhuong-quyen___vi"
-  }, {
     path: "/vi/khoa-hoc",
     component: _48c5d27b,
     name: "khoa-hoc___vi"
+  }, {
+    path: "/vi/nhuong-quyen",
+    component: _7a4fc4ca,
+    name: "nhuong-quyen___vi"
   }, {
     path: "/vi/su-kien",
     component: _43b61148,
