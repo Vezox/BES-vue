@@ -165,7 +165,7 @@
                 id="menu-item-2809"
                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2803"
               >
-                <a :href="localePath('/vien-intic')">Viện INTIC</a>
+                <a :href="localePath('/he-thong-nhuong-quyen')">Hệ thống nhượng quyền</a>
               </li>
               <li
                 id="menu-item-2803"

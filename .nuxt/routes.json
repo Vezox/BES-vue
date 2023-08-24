@@ -3,192 +3,224 @@
     "name": "app___en",
     "path": "/app",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/app.vue",
-    "chunkName": "pages/app"
+    "chunkName": "pages/app",
+    "_name": "_b77a70d8"
   },
   {
     "name": "blog___en",
     "path": "/blog",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/blog/index.vue",
-    "chunkName": "pages/blog/index"
+    "chunkName": "pages/blog/index",
+    "_name": "_1cea7482"
   },
   {
     "name": "gioi-thieu___en",
     "path": "/gioi-thieu",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/gioi-thieu.vue",
-    "chunkName": "pages/gioi-thieu"
+    "chunkName": "pages/gioi-thieu",
+    "_name": "_1829241e"
+  },
+  {
+    "name": "he-thong-nhuong-quyen___en",
+    "path": "/he-thong-nhuong-quyen",
+    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/he-thong-nhuong-quyen.vue",
+    "chunkName": "pages/he-thong-nhuong-quyen",
+    "_name": "_dbb0f58c"
   },
   {
     "name": "khoa-hoc___en",
     "path": "/khoa-hoc",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/khoa-hoc.vue",
-    "chunkName": "pages/khoa-hoc"
+    "chunkName": "pages/khoa-hoc",
+    "_name": "_48c5d27b"
   },
   {
     "name": "su-kien___en",
     "path": "/su-kien",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/su-kien/index.vue",
-    "chunkName": "pages/su-kien/index"
+    "chunkName": "pages/su-kien/index",
+    "_name": "_43b61148"
   },
   {
     "name": "tin-tuc___en",
     "path": "/tin-tuc",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/tin-tuc/index.vue",
-    "chunkName": "pages/tin-tuc/index"
+    "chunkName": "pages/tin-tuc/index",
+    "_name": "_73709e04"
   },
   {
     "name": "tu-van___en",
     "path": "/tu-van",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/tu-van.vue",
-    "chunkName": "pages/tu-van"
+    "chunkName": "pages/tu-van",
+    "_name": "_6afa0898"
   },
   {
     "name": "tuyen-dung___en",
     "path": "/tuyen-dung",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/tuyen-dung.vue",
-    "chunkName": "pages/tuyen-dung"
+    "chunkName": "pages/tuyen-dung",
+    "_name": "_6537fb73"
   },
   {
     "name": "index___vi",
     "path": "/vi",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/index.vue",
-    "chunkName": "pages/index"
-  },
-  {
-    "name": "vien-intic___en",
-    "path": "/vien-intic",
-    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/vien-intic.vue",
-    "chunkName": "pages/vien-intic"
+    "chunkName": "pages/index",
+    "_name": "_541c4b05"
   },
   {
     "name": "website-privacy___en",
     "path": "/website-privacy",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/website-privacy.vue",
-    "chunkName": "pages/website-privacy"
+    "chunkName": "pages/website-privacy",
+    "_name": "_238dd26e"
   },
   {
     "name": "website-terms-and-conditions___en",
     "path": "/website-terms-and-conditions",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/website-terms-and-conditions.vue",
-    "chunkName": "pages/website-terms-and-conditions"
+    "chunkName": "pages/website-terms-and-conditions",
+    "_name": "_3db43ffa"
   },
   {
     "name": "app___vi",
     "path": "/vi/app",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/app.vue",
-    "chunkName": "pages/app"
+    "chunkName": "pages/app",
+    "_name": "_b77a70d8"
   },
   {
     "name": "blog___vi",
     "path": "/vi/blog",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/blog/index.vue",
-    "chunkName": "pages/blog/index"
+    "chunkName": "pages/blog/index",
+    "_name": "_1cea7482"
   },
   {
     "name": "gioi-thieu___vi",
     "path": "/vi/gioi-thieu",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/gioi-thieu.vue",
-    "chunkName": "pages/gioi-thieu"
+    "chunkName": "pages/gioi-thieu",
+    "_name": "_1829241e"
+  },
+  {
+    "name": "he-thong-nhuong-quyen___vi",
+    "path": "/vi/he-thong-nhuong-quyen",
+    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/he-thong-nhuong-quyen.vue",
+    "chunkName": "pages/he-thong-nhuong-quyen",
+    "_name": "_dbb0f58c"
   },
   {
     "name": "khoa-hoc___vi",
     "path": "/vi/khoa-hoc",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/khoa-hoc.vue",
-    "chunkName": "pages/khoa-hoc"
+    "chunkName": "pages/khoa-hoc",
+    "_name": "_48c5d27b"
   },
   {
     "name": "su-kien___vi",
     "path": "/vi/su-kien",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/su-kien/index.vue",
-    "chunkName": "pages/su-kien/index"
+    "chunkName": "pages/su-kien/index",
+    "_name": "_43b61148"
   },
   {
     "name": "tin-tuc___vi",
     "path": "/vi/tin-tuc",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/tin-tuc/index.vue",
-    "chunkName": "pages/tin-tuc/index"
+    "chunkName": "pages/tin-tuc/index",
+    "_name": "_73709e04"
   },
   {
     "name": "tu-van___vi",
     "path": "/vi/tu-van",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/tu-van.vue",
-    "chunkName": "pages/tu-van"
+    "chunkName": "pages/tu-van",
+    "_name": "_6afa0898"
   },
   {
     "name": "tuyen-dung___vi",
     "path": "/vi/tuyen-dung",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/tuyen-dung.vue",
-    "chunkName": "pages/tuyen-dung"
-  },
-  {
-    "name": "vien-intic___vi",
-    "path": "/vi/vien-intic",
-    "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/vien-intic.vue",
-    "chunkName": "pages/vien-intic"
+    "chunkName": "pages/tuyen-dung",
+    "_name": "_6537fb73"
   },
   {
     "name": "website-privacy___vi",
     "path": "/vi/website-privacy",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/website-privacy.vue",
-    "chunkName": "pages/website-privacy"
+    "chunkName": "pages/website-privacy",
+    "_name": "_238dd26e"
   },
   {
     "name": "website-terms-and-conditions___vi",
     "path": "/vi/website-terms-and-conditions",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/website-terms-and-conditions.vue",
-    "chunkName": "pages/website-terms-and-conditions"
+    "chunkName": "pages/website-terms-and-conditions",
+    "_name": "_3db43ffa"
   },
   {
     "name": "blog-id___vi",
     "path": "/vi/blog/:id",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/blog/_id.vue",
-    "chunkName": "pages/blog/_id"
+    "chunkName": "pages/blog/_id",
+    "_name": "_8ba0a12c"
   },
   {
     "name": "hinh-anh-id___vi",
     "path": "/vi/hinh-anh/:id?",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/hinh-anh/_id.vue",
-    "chunkName": "pages/hinh-anh/_id"
+    "chunkName": "pages/hinh-anh/_id",
+    "_name": "_8289145e"
   },
   {
     "name": "su-kien-id___vi",
     "path": "/vi/su-kien/:id?",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/su-kien/_id.vue",
-    "chunkName": "pages/su-kien/_id"
+    "chunkName": "pages/su-kien/_id",
+    "_name": "_1ea7c5b0"
   },
   {
     "name": "tin-tuc-id___vi",
     "path": "/vi/tin-tuc/:id?",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/tin-tuc/_id.vue",
-    "chunkName": "pages/tin-tuc/_id"
+    "chunkName": "pages/tin-tuc/_id",
+    "_name": "_40535d28"
   },
   {
     "name": "blog-id___en",
     "path": "/blog/:id",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/blog/_id.vue",
-    "chunkName": "pages/blog/_id"
+    "chunkName": "pages/blog/_id",
+    "_name": "_8ba0a12c"
   },
   {
     "name": "hinh-anh-id___en",
     "path": "/hinh-anh/:id?",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/hinh-anh/_id.vue",
-    "chunkName": "pages/hinh-anh/_id"
+    "chunkName": "pages/hinh-anh/_id",
+    "_name": "_8289145e"
   },
   {
     "name": "su-kien-id___en",
     "path": "/su-kien/:id?",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/su-kien/_id.vue",
-    "chunkName": "pages/su-kien/_id"
+    "chunkName": "pages/su-kien/_id",
+    "_name": "_1ea7c5b0"
   },
   {
     "name": "tin-tuc-id___en",
     "path": "/tin-tuc/:id?",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/tin-tuc/_id.vue",
-    "chunkName": "pages/tin-tuc/_id"
+    "chunkName": "pages/tin-tuc/_id",
+    "_name": "_40535d28"
   },
   {
     "name": "index___en",
     "path": "/",
     "component": "/Users/truongducthang/Work/Freelance/BES-vue/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_541c4b05"
   }
 ]
