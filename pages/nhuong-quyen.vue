@@ -157,7 +157,7 @@ export default {
                 ></textarea>
               </div>
               <div class="btn">
-                <button type="submit" class="button-63" role="button">
+                <button type="submit" class="button-63 btn" role="button">
                   Gửi thông tin
                 </button>
               </div>
@@ -290,7 +290,6 @@ select {
   box-sizing: border-box;
   color: #ffffff;
   display: flex;
-  font-family: Phantomsans, sans-serif;
   font-size: 1.2em;
   justify-content: center;
   line-height: 1em;
